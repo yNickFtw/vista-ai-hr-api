@@ -1,0 +1,17 @@
+services:
+  db:
+    hostname: 127.0.0.1
+    image: pgvector/pgvector:pg16
+    ports:
+      - 5433:5432
+    restart: always
+    environment:
+      - POSTGRES_DB=vector_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=admin5
+    volumes:
+      - pgvector_data:/var/lib/postgresql/data
+
+volumes:
+  pgvector_data:
+    driver: local
