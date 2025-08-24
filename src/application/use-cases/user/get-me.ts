@@ -16,6 +16,7 @@ export class GetMeUseCase {
                 id: true,
                 email: true,
                 name: true,
+                is_recruiter: true,
                 experiences: {
                     select: {
                         id: true,

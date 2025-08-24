@@ -13,6 +13,12 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+enum AnalysisStatus {
+  PENDING
+  COMPLETED
+  FAILED
+}
+
 model User {
   id String @id @default(uuid())
   name String
@@ -22,6 +28,9 @@ model User {
   user_skills UserSkill[]
   experiences Experience[]
   user_areas UserArea[]
+  analyses Analysis[]
+  analysisCandidates AnalysisCandidate[]
+  is_recruiter Boolean @default(false)
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
@@ -111,4 +120,38 @@ model Experience {
 
   @@index([userId])
   @@map("experiences")
+}
+
+model Analysis {
+  id String @id @default(uuid())
+  userId String
+  user User @relation(fields: [userId], references: [id])
+  analysisCandidates AnalysisCandidate[]
+  query String?
+  status AnalysisStatus @default(PENDING)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([userId])
+  @@map("analyses")
+}
+
+model AnalysisCandidate {
+  id String @id @default(uuid())
+  analysisId String
+  analysis Analysis @relation(fields: [analysisId], references: [id])
+  candidateId String
+  candidate User @relation(fields: [candidateId], references: [id])
+
+  analysis_summary String?
+  score Int?
+  technical_match_score Int?
+  business_fit_score Int?
+  behavioral_match_score Int?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([analysisId, candidateId])
+  @@map("analysis_candidates")
 }

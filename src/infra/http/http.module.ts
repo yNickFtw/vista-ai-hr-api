@@ -8,10 +8,11 @@ import { UserController } from "./controllers/user/user.controller";
 import { SkillController } from "./controllers/skill/skill.controller";
 import { AreaController } from "./controllers/area/area.controller";
 import { CandidatesSearchController } from "./controllers/candidates-search/candidates-search.controller";
+import { AnalysisController } from "./controllers/analysis/analysis.controller";
   
 @Module({
   imports: [ServicesModule, ApplicationServicesModule],
-  controllers: [AuthController, ExperienceController, UserController, SkillController, AreaController, CandidatesSearchController],
+  controllers: [AuthController, ExperienceController, UserController, SkillController, AreaController, CandidatesSearchController, AnalysisController],
   providers: [AuthGuardService],
 })
 export class HttpModule {}

@@ -7,7 +7,7 @@ export class CandidateSearchApplicationService {
         private readonly handleSearchUseCase: HandleSearchUseCase
     ) { }
 
-    public async execute(query: string) {
-        return await this.handleSearchUseCase.execute(query);
+    public async execute(query: string, userId: string) {
+        return await this.handleSearchUseCase.execute(query, userId);
     }
 }

@@ -4,7 +4,10 @@ import { AppService } from './app.service';
 import { HttpModule } from './infra/http/http.module';
 
 @Module({
-  imports: [HttpModule],
+  imports: [
+    HttpModule,
+    
+  ],
   controllers: [AppController],
   providers: [AppService],
 })
