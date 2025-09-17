@@ -1,13 +1,13 @@
 import { Injectable } from "@nestjs/common";
-import { HandleSearchUseCase } from "../../use-cases/candidate-search/handle-search";
+import { CreateAnalysisUseCase } from "../../use-cases/candidate-search/create-analysis";
 
 @Injectable()
 export class CandidateSearchApplicationService {
     constructor(
-        private readonly handleSearchUseCase: HandleSearchUseCase
+        private readonly createAnalysisUseCase: CreateAnalysisUseCase
     ) { }
 
     public async execute(query: string, userId: string) {
-        return await this.handleSearchUseCase.execute(query, userId);
+        return await this.createAnalysisUseCase.execute(query, userId);
     }
 }

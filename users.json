@@ -1,0 +1,4070 @@
+[
+  {
+    "id": "1fe390c9-da7d-426f-ac66-81e4e5bd303c",
+    "name": "Nicolas Freitas",
+    "email": "nkxynickftw@gmail.com",
+    "password": "$2b$10$/Oabk4YZ6qtKM.R4Sdyqc.WUHpYxd8ryn6/rZAyPVAt3JExX4L3em",
+    "is_recruiter": false,
+    "createdAt": "2025-08-16T21:50:49.143Z",
+    "updatedAt": "2025-08-16T21:50:49.143Z",
+    "skills": [
+      {
+        "id": "6ad65542-3ec9-4e02-86ee-879fa53da8c9",
+        "userId": "1fe390c9-da7d-426f-ac66-81e4e5bd303c",
+        "skillId": "1196d34b-bad1-4398-89f2-cd13708f83e6",
+        "createdAt": "2025-08-17T06:52:11.847Z",
+        "updatedAt": "2025-08-17T06:52:11.847Z"
+      },
+      {
+        "id": "d96d3cbe-f143-429f-a814-21993abcc7db",
+        "userId": "1fe390c9-da7d-426f-ac66-81e4e5bd303c",
+        "skillId": "922a2056-ea81-475c-b347-125d745aa68a",
+        "createdAt": "2025-08-17T06:52:22.176Z",
+        "updatedAt": "2025-08-17T06:52:22.176Z"
+      },
+      {
+        "id": "01c5540e-0f40-4ee3-97a9-200362160eb0",
+        "userId": "1fe390c9-da7d-426f-ac66-81e4e5bd303c",
+        "skillId": "3f792990-6aea-4514-be3c-2ee472221aee",
+        "createdAt": "2025-08-17T06:52:27.048Z",
+        "updatedAt": "2025-08-17T06:52:27.048Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "9f8bdbaf-13cc-4309-b042-1b53ebaafd4d",
+        "userId": "1fe390c9-da7d-426f-ac66-81e4e5bd303c",
+        "areaId": "2693eee4-7173-4f5e-acfd-d5e82de87d39",
+        "createdAt": "2025-08-17T06:51:54.718Z",
+        "updatedAt": "2025-08-17T06:51:54.718Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "dc8b74fb-005f-4e1f-b758-e007ad87224e",
+        "title": "Desenvolvedor Front-End",
+        "description": "Atuei como desenvolvedor front-end, especificamente com ReactJS\n\nTrabalhei com um gateway de pagamentos, ou seja, desenvolvi todo o front-end de uma plataforma dessa.",
+        "startDate": "2024-09-27T00:00:00.000Z",
+        "endDate": "2024-11-05T00:00:00.000Z",
+        "createdAt": "2025-08-16T22:34:09.172Z",
+        "updatedAt": "2025-08-16T22:34:09.172Z",
+        "userId": "1fe390c9-da7d-426f-ac66-81e4e5bd303c"
+      },
+      {
+        "id": "818be545-099f-4d80-a843-975b5850c99c",
+        "title": "Desenvolvedor Full-Stack FinPag",
+        "description": "Outro gateway de pagamento. Basicamente desenvolvi um gateway em duas semanas, onde foi uma baita experiência pra mim...\n\nUsei tecnologias como ReactJS e NodeJS. Pra ser mais especifico NestJS.",
+        "startDate": "2024-11-06T00:00:00.000Z",
+        "endDate": "2025-01-30T00:00:00.000Z",
+        "createdAt": "2025-08-17T07:14:18.903Z",
+        "updatedAt": "2025-08-17T07:14:18.903Z",
+        "userId": "1fe390c9-da7d-426f-ac66-81e4e5bd303c"
+      },
+      {
+        "id": "a9753159-115f-42f2-8df2-c551827ce29e",
+        "title": "Defendy - Desenvolvedor Full-Stack",
+        "description": "A Defendy é uma lawtech, trabalhei com tecnologias com ReactJS (NextJS) e NodeJS (NestJS)",
+        "startDate": "2025-03-01T00:00:00.000Z",
+        "endDate": null,
+        "createdAt": "2025-08-17T07:15:08.867Z",
+        "updatedAt": "2025-08-17T07:15:08.867Z",
+        "userId": "1fe390c9-da7d-426f-ac66-81e4e5bd303c"
+      }
+    ]
+  },
+  {
+    "id": "d5c9b248-f647-4794-beda-a92e249b8fdc",
+    "name": "Vinicius Santos Oliveira",
+    "email": "vinicius.sanoliver@gmail.com",
+    "password": "$2b$10$fPkuDDA6ZupSOchZaVXQwONe5i87fY2QmK/lTAPTZkhTAYStcQq6q",
+    "is_recruiter": false,
+    "createdAt": "2025-08-22T00:13:09.706Z",
+    "updatedAt": "2025-08-22T00:13:09.706Z",
+    "skills": [
+      {
+        "id": "3925b444-c7d4-4f77-9cda-495854ff47b7",
+        "userId": "d5c9b248-f647-4794-beda-a92e249b8fdc",
+        "skillId": "0293e2a3-cb8b-4c14-bb75-eec686dbaa46",
+        "createdAt": "2025-08-22T00:13:40.189Z",
+        "updatedAt": "2025-08-22T00:13:40.189Z"
+      },
+      {
+        "id": "29c1207a-1344-4f33-90be-341e3f3834cc",
+        "userId": "d5c9b248-f647-4794-beda-a92e249b8fdc",
+        "skillId": "0cab0740-aef7-4825-8b8f-ecd76bc73df6",
+        "createdAt": "2025-08-22T00:13:44.708Z",
+        "updatedAt": "2025-08-22T00:13:44.708Z"
+      },
+      {
+        "id": "a9d14498-18c8-486a-ba99-9e56c7bf71a8",
+        "userId": "d5c9b248-f647-4794-beda-a92e249b8fdc",
+        "skillId": "0f2915e6-27ae-40e6-b823-a10515b89089",
+        "createdAt": "2025-08-22T00:13:48.862Z",
+        "updatedAt": "2025-08-22T00:13:48.862Z"
+      },
+      {
+        "id": "6bb07d89-8ba5-4195-81b2-50fe4b2136f4",
+        "userId": "d5c9b248-f647-4794-beda-a92e249b8fdc",
+        "skillId": "1b3e677b-7fec-4c1d-b156-25f331c5cc05",
+        "createdAt": "2025-08-22T00:13:53.772Z",
+        "updatedAt": "2025-08-22T00:13:53.772Z"
+      },
+      {
+        "id": "dc5c501b-0a50-49bc-9a1c-221955bb1359",
+        "userId": "d5c9b248-f647-4794-beda-a92e249b8fdc",
+        "skillId": "1daf64bf-fa1b-4e42-bb66-53ac2d70b0bf",
+        "createdAt": "2025-08-22T00:13:58.572Z",
+        "updatedAt": "2025-08-22T00:13:58.572Z"
+      },
+      {
+        "id": "5e8dde29-6ad9-4a74-9356-be757e2e72d7",
+        "userId": "d5c9b248-f647-4794-beda-a92e249b8fdc",
+        "skillId": "bb4efb07-7818-44d4-8057-3230f8c414c3",
+        "createdAt": "2025-08-22T00:14:05.865Z",
+        "updatedAt": "2025-08-22T00:14:05.865Z"
+      },
+      {
+        "id": "52415a7b-3c0e-449c-a03f-ebf2c664b0a2",
+        "userId": "d5c9b248-f647-4794-beda-a92e249b8fdc",
+        "skillId": "c218da7b-c141-45cf-8920-ebf4e5ed5168",
+        "createdAt": "2025-08-22T00:14:11.546Z",
+        "updatedAt": "2025-08-22T00:14:11.546Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "a1530f11-1aba-49ab-8c10-994e2320f6a2",
+        "userId": "d5c9b248-f647-4794-beda-a92e249b8fdc",
+        "areaId": "24137cb9-2c41-4a72-b584-3c8a01245426",
+        "createdAt": "2025-08-22T00:14:21.549Z",
+        "updatedAt": "2025-08-22T00:14:21.549Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "d992c23a-7c69-411e-b422-79e6a59b9028",
+        "title": "Desenvolvedor Pleno PHP Amazon",
+        "description": "Desenvolvi e mantive aplicações web escaláveis utilizando PHP (Laravel e Slim), focadas em soluções de logística e rastreamento para o marketplace da Amazon Brasil.\n\nColaborei com times multifuncionais para integrar APIs internas e de terceiros, otimizando a comunicação entre serviços e reduzindo o tempo de resposta das aplicações em até 30%.\n\nImplementei testes automatizados (PHPUnit) e pipelines de CI/CD usando AWS CodePipeline, garantindo entregas contínuas e com alta cobertura de testes.\n\nParticipei da reestruturação de microsserviços legados, melhorando a performance geral do sistema e a manutenibilidade do código.\n\nTrabalhei com bancos de dados MySQL e DynamoDB, realizando otimizações de queries e estruturação de índices para grandes volumes de dados.\n\nAtuei diretamente na correção de bugs em produção com foco em tempo de resposta rápido, utilizando ferramentas de monitoramento como CloudWatch e Sentry.",
+        "startDate": "2023-02-01T00:00:00.000Z",
+        "endDate": "2024-08-03T00:00:00.000Z",
+        "createdAt": "2025-08-22T00:16:39.694Z",
+        "updatedAt": "2025-08-22T00:16:39.694Z",
+        "userId": "d5c9b248-f647-4794-beda-a92e249b8fdc"
+      },
+      {
+        "id": "bd51f328-fce2-4943-ae65-fb0e312fab4d",
+        "title": "Desenvolvedor PHP Júnior TecnoWeb Solutions",
+        "description": "Atuei na manutenção e desenvolvimento de funcionalidades em aplicações web utilizando PHP com Laravel, dando suporte a sistemas internos da empresa e de clientes.\n\nAuxiliei na criação de APIs RESTful, realizando testes básicos com Postman e apoiando na documentação técnica.\n\nTrabalhei com MySQL para realizar consultas, ajustes em tabelas e criação de migrations com Eloquent.\n\nColaborei com o time de desenvolvimento para corrigir bugs e implementar melhorias em sistemas legados, seguindo práticas de versionamento com Git e controle de tarefas no Trello.\n\nParticipei de reuniões de planejamento e dailies, adquirindo experiência em metodologias ágeis como Scrum.\n\nAprimorei meus conhecimentos em HTML, CSS e JavaScript para pequenas correções no front-end e integração com o backend.",
+        "startDate": "2022-03-10T00:00:00.000Z",
+        "endDate": "2022-12-10T00:00:00.000Z",
+        "createdAt": "2025-08-22T00:17:56.559Z",
+        "updatedAt": "2025-08-22T00:17:56.559Z",
+        "userId": "d5c9b248-f647-4794-beda-a92e249b8fdc"
+      }
+    ]
+  },
+  {
+    "id": "e4b84966-7f55-4e87-9fea-a546f60fbd5a",
+    "name": "João Silva",
+    "email": "joao.silva@email.com",
+    "password": "$2b$10$0NGCXWfKI./5FnUehK.v1eQxDswzJwLCL9DE/gGcYcsjBLA.5OoLu",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:25.617Z",
+    "updatedAt": "2025-08-23T06:38:25.617Z",
+    "skills": [
+      {
+        "id": "cd8227a0-ac4f-481d-b77e-1e07623550cb",
+        "userId": "e4b84966-7f55-4e87-9fea-a546f60fbd5a",
+        "skillId": "1196d34b-bad1-4398-89f2-cd13708f83e6",
+        "createdAt": "2025-08-23T06:38:28.386Z",
+        "updatedAt": "2025-08-23T06:38:28.386Z"
+      },
+      {
+        "id": "bc1123eb-6041-4753-888e-26e258fd4aff",
+        "userId": "e4b84966-7f55-4e87-9fea-a546f60fbd5a",
+        "skillId": "57450567-e4ca-45a1-94aa-fac8be783afd",
+        "createdAt": "2025-08-23T06:38:28.389Z",
+        "updatedAt": "2025-08-23T06:38:28.389Z"
+      },
+      {
+        "id": "8ae558c5-5746-4f3d-8ba8-c4236c5c9e4d",
+        "userId": "e4b84966-7f55-4e87-9fea-a546f60fbd5a",
+        "skillId": "a2f42dce-9a82-40dc-b9a8-c3606bb83dc5",
+        "createdAt": "2025-08-23T06:38:28.390Z",
+        "updatedAt": "2025-08-23T06:38:28.390Z"
+      },
+      {
+        "id": "5f7938af-3183-49c0-8dd1-e575932a563f",
+        "userId": "e4b84966-7f55-4e87-9fea-a546f60fbd5a",
+        "skillId": "0cab0740-aef7-4825-8b8f-ecd76bc73df6",
+        "createdAt": "2025-08-23T06:38:28.391Z",
+        "updatedAt": "2025-08-23T06:38:28.391Z"
+      },
+      {
+        "id": "f2b9e354-1f35-4514-8ebc-f95a682f8752",
+        "userId": "e4b84966-7f55-4e87-9fea-a546f60fbd5a",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.392Z",
+        "updatedAt": "2025-08-23T06:38:28.392Z"
+      },
+      {
+        "id": "92c7cecf-0bc8-465d-93ec-7cc7dec23b7f",
+        "userId": "e4b84966-7f55-4e87-9fea-a546f60fbd5a",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.393Z",
+        "updatedAt": "2025-08-23T06:38:28.393Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "7112a1fe-a570-4779-84e6-ecfd4639d3b2",
+        "userId": "e4b84966-7f55-4e87-9fea-a546f60fbd5a",
+        "areaId": "4bb6334f-5234-446f-8cf4-150204542bd5",
+        "createdAt": "2025-08-23T06:38:28.674Z",
+        "updatedAt": "2025-08-23T06:38:28.674Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "c5ff0612-b4bf-4a85-afed-2d9d1fb87b3a",
+        "title": "Desenvolvedor Full Stack Senior",
+        "description": "Liderei o desenvolvimento de uma plataforma de e-commerce completa para uma empresa de varejo com mais de 50.000 produtos. Implementei arquitetura microserviços usando React 18 com TypeScript no frontend, Node.js com Express no backend, e PostgreSQL como banco principal. Desenvolvi sistema de autenticação JWT com refresh tokens, integração com APIs de pagamento (Stripe, PayPal), sistema de busca com Elasticsearch, e cache distribuído com Redis. Utilizei Docker para containerização, implementei CI/CD com GitHub Actions, e monitorei performance com New Relic. A aplicação atendia mais de 100.000 usuários ativos mensalmente.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.736Z",
+        "updatedAt": "2025-08-23T06:38:28.736Z",
+        "userId": "e4b84966-7f55-4e87-9fea-a546f60fbd5a"
+      },
+      {
+        "id": "eafe7a32-c60c-4287-9388-4676e0a4e0ff",
+        "title": "Desenvolvedor Full Stack Pleno",
+        "description": "Participei do desenvolvimento de uma plataforma de gestão empresarial (ERP) para uma startup de tecnologia. Trabalhei com React 17, TypeScript, e Node.js, implementando funcionalidades de dashboard em tempo real com WebSockets, sistema de relatórios automatizados com PDF generation, e integração com APIs de terceiros (Google Workspace, Microsoft 365). Utilizei MongoDB para dados flexíveis, implementei testes automatizados com Jest e Cypress, e trabalhei com metodologia ágil Scrum. Participei de code reviews e mentoria de desenvolvedores júnior.",
+        "startDate": "2020-03-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.738Z",
+        "updatedAt": "2025-08-23T06:38:28.738Z",
+        "userId": "e4b84966-7f55-4e87-9fea-a546f60fbd5a"
+      }
+    ]
+  },
+  {
+    "id": "c63abd52-a656-4d45-bf2a-8cf873a8b8d5",
+    "name": "Roberto Almeida",
+    "email": "roberto.almeida@email.com",
+    "password": "$2b$10$7IUyw7E9ANN0ZzwmxyCY1OEky5yS8sOQTgngjww4MWBfjv0zbjlEC",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:25.681Z",
+    "updatedAt": "2025-08-23T06:38:25.681Z",
+    "skills": [
+      {
+        "id": "d209b42f-0f95-4c52-be89-d5d184d5cfe4",
+        "userId": "c63abd52-a656-4d45-bf2a-8cf873a8b8d5",
+        "skillId": "0bf7f960-49f3-4e4a-957c-b29d8c3d8e28",
+        "createdAt": "2025-08-23T06:38:28.394Z",
+        "updatedAt": "2025-08-23T06:38:28.394Z"
+      },
+      {
+        "id": "023da292-ada6-4226-8f50-ddf8b7b683d2",
+        "userId": "c63abd52-a656-4d45-bf2a-8cf873a8b8d5",
+        "skillId": "de5801b1-9b8a-4ef9-b493-b23b47674537",
+        "createdAt": "2025-08-23T06:38:28.395Z",
+        "updatedAt": "2025-08-23T06:38:28.395Z"
+      },
+      {
+        "id": "627a64f1-38b1-4a4d-982c-cd5e59ea9ec6",
+        "userId": "c63abd52-a656-4d45-bf2a-8cf873a8b8d5",
+        "skillId": "1daf64bf-fa1b-4e42-bb66-53ac2d70b0bf",
+        "createdAt": "2025-08-23T06:38:28.396Z",
+        "updatedAt": "2025-08-23T06:38:28.396Z"
+      },
+      {
+        "id": "c4693018-be1a-4876-9115-8c6dc52222b5",
+        "userId": "c63abd52-a656-4d45-bf2a-8cf873a8b8d5",
+        "skillId": "f5eb4229-8d91-4955-a68f-cbc060c850fe",
+        "createdAt": "2025-08-23T06:38:28.397Z",
+        "updatedAt": "2025-08-23T06:38:28.397Z"
+      },
+      {
+        "id": "ba18bc2f-bba8-4f0a-b179-ca4406683006",
+        "userId": "c63abd52-a656-4d45-bf2a-8cf873a8b8d5",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.398Z",
+        "updatedAt": "2025-08-23T06:38:28.398Z"
+      },
+      {
+        "id": "ed551bcd-4340-4bd7-9cdc-b936a47da80d",
+        "userId": "c63abd52-a656-4d45-bf2a-8cf873a8b8d5",
+        "skillId": "364412bf-1997-494d-98c0-f8fdb654384f",
+        "createdAt": "2025-08-23T06:38:28.399Z",
+        "updatedAt": "2025-08-23T06:38:28.399Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "ba4b0d94-b0e5-40cd-a607-c27b6941270c",
+        "userId": "c63abd52-a656-4d45-bf2a-8cf873a8b8d5",
+        "areaId": "4bb6334f-5234-446f-8cf4-150204542bd5",
+        "createdAt": "2025-08-23T06:38:28.676Z",
+        "updatedAt": "2025-08-23T06:38:28.676Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "5b31d63b-98fc-4d38-b259-b3fa96cc1853",
+        "title": "Desenvolvedor Full Stack Senior",
+        "description": "Arquitetei e desenvolvi aplicações web empresariais para uma consultoria de TI atendendo clientes do setor financeiro e de seguros. Utilizei Angular 15+ com TypeScript no frontend, C# com ASP.NET Core 6+ no backend, e SQL Server para banco de dados. Implementei sistema de autenticação com Identity Server, autorização baseada em roles e claims, e integração com Active Directory. Desenvolvi APIs RESTful com documentação Swagger, implementei logging estruturado com Serilog, e utilizei Entity Framework Core com migrations. Deploy automatizado em Azure com Azure DevOps, monitoramento com Application Insights, e testes automatizados com xUnit e Moq.",
+        "startDate": "2022-06-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.739Z",
+        "updatedAt": "2025-08-23T06:38:28.739Z",
+        "userId": "c63abd52-a656-4d45-bf2a-8cf873a8b8d5"
+      },
+      {
+        "id": "ed9d47f8-56cc-49a0-979a-f8b8c821f8c9",
+        "title": "Desenvolvedor Full Stack Pleno",
+        "description": "Participei do desenvolvimento de uma plataforma de gestão de projetos para uma empresa de construção civil. Trabalhei com Angular 12, C# com ASP.NET Core 5, e SQL Server. Implementei funcionalidades de dashboard com gráficos interativos usando Chart.js, sistema de notificações em tempo real com SignalR, e integração com APIs externas de fornecedores. Utilizei Entity Framework para ORM, implementei cache com Redis, e trabalhei com metodologia ágil. Participei de code reviews e implementei testes unitários com xUnit.",
+        "startDate": "2020-09-01T00:00:00.000Z",
+        "endDate": "2022-05-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.740Z",
+        "updatedAt": "2025-08-23T06:38:28.740Z",
+        "userId": "c63abd52-a656-4d45-bf2a-8cf873a8b8d5"
+      }
+    ]
+  },
+  {
+    "id": "4b806d3a-ad8f-455b-a682-1653fed9ad44",
+    "name": "Fernando Costa",
+    "email": "fernando.costa@email.com",
+    "password": "$2b$10$Z6SVNokdSstQcSi7rKy5iexosfBKj4Su2VN9Rsk3NbtSVu5g6Ga7C",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:25.738Z",
+    "updatedAt": "2025-08-23T06:38:25.738Z",
+    "skills": [
+      {
+        "id": "4dab30e7-227e-4c2c-8a0e-605fb7a008c7",
+        "userId": "4b806d3a-ad8f-455b-a682-1653fed9ad44",
+        "skillId": "3f792990-6aea-4514-be3c-2ee472221aee",
+        "createdAt": "2025-08-23T06:38:28.400Z",
+        "updatedAt": "2025-08-23T06:38:28.400Z"
+      },
+      {
+        "id": "075883a1-77fe-47b0-a88c-92dd36b047e9",
+        "userId": "4b806d3a-ad8f-455b-a682-1653fed9ad44",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.401Z",
+        "updatedAt": "2025-08-23T06:38:28.401Z"
+      },
+      {
+        "id": "04810eff-bd08-4ec4-9cdc-bacf50bf4752",
+        "userId": "4b806d3a-ad8f-455b-a682-1653fed9ad44",
+        "skillId": "d6c5edb9-894e-442f-b5f0-a5dea2ef39f2",
+        "createdAt": "2025-08-23T06:38:28.402Z",
+        "updatedAt": "2025-08-23T06:38:28.402Z"
+      },
+      {
+        "id": "13188748-f315-401b-9f3f-2f21bf163f63",
+        "userId": "4b806d3a-ad8f-455b-a682-1653fed9ad44",
+        "skillId": "0cab0740-aef7-4825-8b8f-ecd76bc73df6",
+        "createdAt": "2025-08-23T06:38:28.403Z",
+        "updatedAt": "2025-08-23T06:38:28.403Z"
+      },
+      {
+        "id": "5c475399-3d01-4ae2-9518-c041a7538a04",
+        "userId": "4b806d3a-ad8f-455b-a682-1653fed9ad44",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.404Z",
+        "updatedAt": "2025-08-23T06:38:28.404Z"
+      },
+      {
+        "id": "7b7fa7c0-0851-49bf-bb5c-691635afa031",
+        "userId": "4b806d3a-ad8f-455b-a682-1653fed9ad44",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.405Z",
+        "updatedAt": "2025-08-23T06:38:28.405Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "72e9f414-654c-44ec-821b-ed9af4a6f6a5",
+        "userId": "4b806d3a-ad8f-455b-a682-1653fed9ad44",
+        "areaId": "4bb6334f-5234-446f-8cf4-150204542bd5",
+        "createdAt": "2025-08-23T06:38:28.678Z",
+        "updatedAt": "2025-08-23T06:38:28.678Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "e3858807-6d91-4cfd-bf99-c85d7fe64e0d",
+        "title": "Desenvolvedor Full Stack Senior",
+        "description": "Desenvolvi uma plataforma de gestão de clínicas médicas para uma startup de saúde digital. Utilizei Vue.js 3 com Composition API, Python com Django 4, e PostgreSQL. Implementei sistema de agendamento inteligente com algoritmos de otimização, integração com APIs de planos de saúde, e sistema de telemedicina com WebRTC. Desenvolvi dashboard administrativo com gráficos usando Chart.js, sistema de relatórios com Pandas e Excel export, e autenticação multi-fator. Utilizei Docker para containerização, implementei CI/CD com GitLab CI, e monitorei com Prometheus e Grafana.",
+        "startDate": "2021-08-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.741Z",
+        "updatedAt": "2025-08-23T06:38:28.741Z",
+        "userId": "4b806d3a-ad8f-455b-a682-1653fed9ad44"
+      },
+      {
+        "id": "a42a6a16-4642-4648-8bed-0f607fef6988",
+        "title": "Desenvolvedor Full Stack Pleno",
+        "description": "Participei do desenvolvimento de uma aplicação de gestão de restaurantes para uma rede de fast-food. Trabalhei com Vue.js 2, Python com Django 3, e PostgreSQL. Implementei sistema de pedidos online com integração de pagamentos, gestão de estoque em tempo real, e dashboard para gerentes com métricas de vendas. Utilizei Celery para tarefas assíncronas, implementei cache com Redis, e trabalhei com metodologia ágil. Participei de code reviews e implementei testes com pytest.",
+        "startDate": "2019-12-01T00:00:00.000Z",
+        "endDate": "2021-07-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.742Z",
+        "updatedAt": "2025-08-23T06:38:28.742Z",
+        "userId": "4b806d3a-ad8f-455b-a682-1653fed9ad44"
+      }
+    ]
+  },
+  {
+    "id": "f82b87b3-61e7-4ea3-8af8-d3d3a627482b",
+    "name": "Ricardo Santos",
+    "email": "ricardo.santos@email.com",
+    "password": "$2b$10$ev8Byyy4s8BajrpRnDoRPeNxVN6HhdwDUyRWb9zFxFmmxvEiPE.cy",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:25.793Z",
+    "updatedAt": "2025-08-23T06:38:25.793Z",
+    "skills": [
+      {
+        "id": "2e6f5443-c9da-4f57-8028-c8523237eebc",
+        "userId": "f82b87b3-61e7-4ea3-8af8-d3d3a627482b",
+        "skillId": "1196d34b-bad1-4398-89f2-cd13708f83e6",
+        "createdAt": "2025-08-23T06:38:28.406Z",
+        "updatedAt": "2025-08-23T06:38:28.406Z"
+      },
+      {
+        "id": "c1751814-6f0e-416d-a6c5-e2dc014d3594",
+        "userId": "f82b87b3-61e7-4ea3-8af8-d3d3a627482b",
+        "skillId": "d52cf394-6cf8-4e7c-9a01-630b4ef033a0",
+        "createdAt": "2025-08-23T06:38:28.407Z",
+        "updatedAt": "2025-08-23T06:38:28.407Z"
+      },
+      {
+        "id": "986e5ec5-e62e-4263-8df3-a9fb07204074",
+        "userId": "f82b87b3-61e7-4ea3-8af8-d3d3a627482b",
+        "skillId": "ca6d77c9-8439-4020-b33e-0e6a7ec3a187",
+        "createdAt": "2025-08-23T06:38:28.408Z",
+        "updatedAt": "2025-08-23T06:38:28.408Z"
+      },
+      {
+        "id": "40c3ed2e-7b16-4110-94dd-e6e84ea90336",
+        "userId": "f82b87b3-61e7-4ea3-8af8-d3d3a627482b",
+        "skillId": "6f0268d9-adc5-40a2-9f5d-a6a7172623ad",
+        "createdAt": "2025-08-23T06:38:28.409Z",
+        "updatedAt": "2025-08-23T06:38:28.409Z"
+      },
+      {
+        "id": "c87ad978-cf5c-42d3-9f52-2fd6acd4aa2a",
+        "userId": "f82b87b3-61e7-4ea3-8af8-d3d3a627482b",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.410Z",
+        "updatedAt": "2025-08-23T06:38:28.410Z"
+      },
+      {
+        "id": "f6d952cb-a578-477d-81f6-624c0a63c76d",
+        "userId": "f82b87b3-61e7-4ea3-8af8-d3d3a627482b",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.411Z",
+        "updatedAt": "2025-08-23T06:38:28.411Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "827b8db2-5f08-4b92-a3a3-15f4b79d6eb1",
+        "userId": "f82b87b3-61e7-4ea3-8af8-d3d3a627482b",
+        "areaId": "4bb6334f-5234-446f-8cf4-150204542bd5",
+        "createdAt": "2025-08-23T06:38:28.679Z",
+        "updatedAt": "2025-08-23T06:38:28.679Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "36942082-af18-4545-9377-8830fdefbab0",
+        "title": "Desenvolvedor Full Stack Senior",
+        "description": "Liderei o desenvolvimento de uma plataforma de gestão de condomínios para uma empresa de administração imobiliária. Utilizei React 18 com TypeScript, Java 17 com Spring Boot 3, e MySQL 8. Implementei sistema de gestão financeira com integração bancária, portal do morador com aplicativo mobile PWA, e sistema de comunicação com notificações push. Desenvolvi APIs RESTful com documentação OpenAPI 3, implementei autenticação JWT com refresh tokens, e utilizei Spring Security para autorização. Deploy em AWS com Docker e Kubernetes, monitoramento com CloudWatch, e testes automatizados com JUnit 5 e Mockito.",
+        "startDate": "2022-03-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.743Z",
+        "updatedAt": "2025-08-23T06:38:28.743Z",
+        "userId": "f82b87b3-61e7-4ea3-8af8-d3d3a627482b"
+      },
+      {
+        "id": "77c90c11-b795-42f4-b0b2-c3771fdfe9d7",
+        "title": "Desenvolvedor Full Stack Pleno",
+        "description": "Participei do desenvolvimento de uma aplicação de gestão de academias para uma rede de fitness. Trabalhei com React 17, Java 11 com Spring Boot 2, e MySQL. Implementei sistema de matrículas online, controle de acesso com QR Code, e dashboard para instrutores com gestão de alunos. Utilizei Spring Data JPA para persistência, implementei cache com EhCache, e trabalhei com metodologia ágil. Participei de code reviews e implementei testes com JUnit.",
+        "startDate": "2020-06-01T00:00:00.000Z",
+        "endDate": "2022-02-28T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.744Z",
+        "updatedAt": "2025-08-23T06:38:28.744Z",
+        "userId": "f82b87b3-61e7-4ea3-8af8-d3d3a627482b"
+      }
+    ]
+  },
+  {
+    "id": "019fca57-d946-4254-9c07-042484bc9746",
+    "name": "Marcelo Lima",
+    "email": "marcelo.lima@email.com",
+    "password": "$2b$10$GrLswFYsa9Xhyb8Rpge/W.8jRLVGQbQKTihGsdwZYdU24Fgh7tI4K",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:25.850Z",
+    "updatedAt": "2025-08-23T06:38:25.850Z",
+    "skills": [
+      {
+        "id": "3f95a50a-3424-4c56-be0b-98d62ef77640",
+        "userId": "019fca57-d946-4254-9c07-042484bc9746",
+        "skillId": "606fd162-bd36-4f25-a641-5fc106f13b1e",
+        "createdAt": "2025-08-23T06:38:28.412Z",
+        "updatedAt": "2025-08-23T06:38:28.412Z"
+      },
+      {
+        "id": "1b94a7d2-94ff-4dda-865c-ca2c57639b0c",
+        "userId": "019fca57-d946-4254-9c07-042484bc9746",
+        "skillId": "57450567-e4ca-45a1-94aa-fac8be783afd",
+        "createdAt": "2025-08-23T06:38:28.414Z",
+        "updatedAt": "2025-08-23T06:38:28.414Z"
+      },
+      {
+        "id": "645d02e5-fdbf-4999-a128-9b95a1da45f8",
+        "userId": "019fca57-d946-4254-9c07-042484bc9746",
+        "skillId": "a2f42dce-9a82-40dc-b9a8-c3606bb83dc5",
+        "createdAt": "2025-08-23T06:38:28.415Z",
+        "updatedAt": "2025-08-23T06:38:28.415Z"
+      },
+      {
+        "id": "267fa400-2052-487d-b225-f943f3cb388f",
+        "userId": "019fca57-d946-4254-9c07-042484bc9746",
+        "skillId": "fe2ae33e-6311-4df4-aa3b-6c8189035f77",
+        "createdAt": "2025-08-23T06:38:28.416Z",
+        "updatedAt": "2025-08-23T06:38:28.416Z"
+      },
+      {
+        "id": "76c0d38a-6391-4a48-a5ef-7ca77498b39d",
+        "userId": "019fca57-d946-4254-9c07-042484bc9746",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.417Z",
+        "updatedAt": "2025-08-23T06:38:28.417Z"
+      },
+      {
+        "id": "3a571f48-d15c-4f31-985c-636d756d45ac",
+        "userId": "019fca57-d946-4254-9c07-042484bc9746",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.419Z",
+        "updatedAt": "2025-08-23T06:38:28.419Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "3f63695c-8283-468b-9fe9-fa0e182448b9",
+        "userId": "019fca57-d946-4254-9c07-042484bc9746",
+        "areaId": "4bb6334f-5234-446f-8cf4-150204542bd5",
+        "createdAt": "2025-08-23T06:38:28.681Z",
+        "updatedAt": "2025-08-23T06:38:28.681Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "3ff2781e-d342-48cc-9972-47d68a8fe016",
+        "title": "Desenvolvedor Full Stack Senior",
+        "description": "Desenvolvi uma plataforma de streaming de vídeos educacionais para uma startup de EdTech. Utilizei Next.js 13 com App Router, Node.js com TypeScript, e MongoDB Atlas. Implementei sistema de streaming adaptativo com HLS, sistema de recomendações com algoritmos de machine learning, e dashboard analítico para professores. Desenvolvi sistema de autenticação social (Google, Facebook), implementei cache com Redis, e utilizei AWS S3 para armazenamento de vídeos. Deploy em Vercel para frontend e AWS ECS para backend, monitoramento com DataDog, e testes com Jest e Playwright.",
+        "startDate": "2021-11-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.745Z",
+        "updatedAt": "2025-08-23T06:38:28.745Z",
+        "userId": "019fca57-d946-4254-9c07-042484bc9746"
+      },
+      {
+        "id": "aee2ca31-7871-429e-884b-f0862b1b9089",
+        "title": "Desenvolvedor Full Stack Pleno",
+        "description": "Participei do desenvolvimento de uma aplicação de gestão de eventos para uma empresa de marketing digital. Trabalhei com Next.js 12, Node.js com Express, e MongoDB. Implementei sistema de inscrições online, gestão de palestrantes, e dashboard para organizadores com métricas de engajamento. Utilizei Mongoose para ODM, implementei cache com Redis, e trabalhei com metodologia ágil. Participei de code reviews e implementei testes com Jest.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-10-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.745Z",
+        "updatedAt": "2025-08-23T06:38:28.745Z",
+        "userId": "019fca57-d946-4254-9c07-042484bc9746"
+      }
+    ]
+  },
+  {
+    "id": "e0eda4fe-0396-4d36-bb25-4b614f2717b3",
+    "name": "Maria Santos",
+    "email": "maria.santos@email.com",
+    "password": "$2b$10$1pyXI7jHtu8yD7dn2KJ2WuruOz5BDtrIzJOQbzJ7v5P448bBVi0ja",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:25.906Z",
+    "updatedAt": "2025-08-23T06:38:25.906Z",
+    "skills": [
+      {
+        "id": "93173f8c-ba98-47f2-a315-ce43f028aae2",
+        "userId": "e0eda4fe-0396-4d36-bb25-4b614f2717b3",
+        "skillId": "1196d34b-bad1-4398-89f2-cd13708f83e6",
+        "createdAt": "2025-08-23T06:38:28.420Z",
+        "updatedAt": "2025-08-23T06:38:28.420Z"
+      },
+      {
+        "id": "ca90d1a4-eda7-4c7b-a5fa-4fd40ed525ae",
+        "userId": "e0eda4fe-0396-4d36-bb25-4b614f2717b3",
+        "skillId": "3f792990-6aea-4514-be3c-2ee472221aee",
+        "createdAt": "2025-08-23T06:38:28.421Z",
+        "updatedAt": "2025-08-23T06:38:28.421Z"
+      },
+      {
+        "id": "265017bc-d260-405c-b691-308f360e2ab8",
+        "userId": "e0eda4fe-0396-4d36-bb25-4b614f2717b3",
+        "skillId": "a2f42dce-9a82-40dc-b9a8-c3606bb83dc5",
+        "createdAt": "2025-08-23T06:38:28.422Z",
+        "updatedAt": "2025-08-23T06:38:28.422Z"
+      },
+      {
+        "id": "0a40e86b-4c10-497c-b95d-cffc4474c85a",
+        "userId": "e0eda4fe-0396-4d36-bb25-4b614f2717b3",
+        "skillId": "b878fa2c-bbb6-4926-8818-c24d92fb51db",
+        "createdAt": "2025-08-23T06:38:28.423Z",
+        "updatedAt": "2025-08-23T06:38:28.423Z"
+      },
+      {
+        "id": "c47a1fbb-7095-406c-a133-ba4d024b0c9c",
+        "userId": "e0eda4fe-0396-4d36-bb25-4b614f2717b3",
+        "skillId": "922a2056-ea81-475c-b347-125d745aa68a",
+        "createdAt": "2025-08-23T06:38:28.424Z",
+        "updatedAt": "2025-08-23T06:38:28.424Z"
+      },
+      {
+        "id": "ae1812c5-af72-411f-ae56-8c648873de51",
+        "userId": "e0eda4fe-0396-4d36-bb25-4b614f2717b3",
+        "skillId": "6a3e9284-988d-4bbe-a1da-1e1ea1954958",
+        "createdAt": "2025-08-23T06:38:28.425Z",
+        "updatedAt": "2025-08-23T06:38:28.425Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "dc9e8186-79b0-4176-9df7-1e96ff474305",
+        "userId": "e0eda4fe-0396-4d36-bb25-4b614f2717b3",
+        "areaId": "2693eee4-7173-4f5e-acfd-d5e82de87d39",
+        "createdAt": "2025-08-23T06:38:28.682Z",
+        "updatedAt": "2025-08-23T06:38:28.682Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "31f45863-48fb-4f45-9f42-c7f68f04bdc6",
+        "title": "Desenvolvedora Frontend Senior",
+        "description": "Liderei o desenvolvimento frontend de uma aplicação de gestão financeira para um banco digital com mais de 500.000 usuários. Utilizei React 18 com TypeScript, implementando design system próprio com Storybook, componentes reutilizáveis com styled-components, e testes automatizados com Jest e React Testing Library. Desenvolvi funcionalidades de dashboard financeiro com gráficos interativos usando D3.js, sistema de notificações em tempo real com WebSockets, e aplicação PWA com service workers. Implementei lazy loading, code splitting, e otimizações de performance. Trabalhei com metodologia ágil, participei de code reviews, e mentorei desenvolvedores júnior.",
+        "startDate": "2021-06-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.746Z",
+        "updatedAt": "2025-08-23T06:38:28.746Z",
+        "userId": "e0eda4fe-0396-4d36-bb25-4b614f2717b3"
+      },
+      {
+        "id": "757dad99-6ae1-412d-90f8-b279f2f8e32d",
+        "title": "Desenvolvedora Frontend Plena",
+        "description": "Desenvolvi interfaces para aplicações web de uma agência de publicidade atendendo clientes de diversos setores. Trabalhei com Vue.js 3, implementando componentes reutilizáveis, sistema de formulários complexos com validações em tempo real, e integração com APIs REST. Utilizei Vuex para gerenciamento de estado, implementei testes com Vue Test Utils, e participei de workshops de acessibilidade web. Trabalhei com metodologia ágil e participei de code reviews.",
+        "startDate": "2019-01-01T00:00:00.000Z",
+        "endDate": "2021-05-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.747Z",
+        "updatedAt": "2025-08-23T06:38:28.747Z",
+        "userId": "e0eda4fe-0396-4d36-bb25-4b614f2717b3"
+      }
+    ]
+  },
+  {
+    "id": "d7f8b306-dc7f-4bd9-ad37-62cb9fa6f34a",
+    "name": "Fernanda Rodrigues",
+    "email": "fernanda.rodrigues@email.com",
+    "password": "$2b$10$C/Fxk5oqVEGW2WtkcUhKrOKe0axICV/JfhR4FJ0xgg.7BfTBixCHO",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:25.963Z",
+    "updatedAt": "2025-08-23T06:38:25.963Z",
+    "skills": [
+      {
+        "id": "33cdec64-c6de-40fe-b468-a28826bb16fc",
+        "userId": "d7f8b306-dc7f-4bd9-ad37-62cb9fa6f34a",
+        "skillId": "3f792990-6aea-4514-be3c-2ee472221aee",
+        "createdAt": "2025-08-23T06:38:28.426Z",
+        "updatedAt": "2025-08-23T06:38:28.426Z"
+      },
+      {
+        "id": "4e8cca94-b631-497c-a9b1-dbbbb4920cd0",
+        "userId": "d7f8b306-dc7f-4bd9-ad37-62cb9fa6f34a",
+        "skillId": "1196d34b-bad1-4398-89f2-cd13708f83e6",
+        "createdAt": "2025-08-23T06:38:28.427Z",
+        "updatedAt": "2025-08-23T06:38:28.427Z"
+      },
+      {
+        "id": "ab3fc242-3e97-4ff2-9281-f525e81de6da",
+        "userId": "d7f8b306-dc7f-4bd9-ad37-62cb9fa6f34a",
+        "skillId": "922a2056-ea81-475c-b347-125d745aa68a",
+        "createdAt": "2025-08-23T06:38:28.428Z",
+        "updatedAt": "2025-08-23T06:38:28.428Z"
+      },
+      {
+        "id": "0da60183-a27b-41d3-8e5e-b84c1e3c6301",
+        "userId": "d7f8b306-dc7f-4bd9-ad37-62cb9fa6f34a",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.429Z",
+        "updatedAt": "2025-08-23T06:38:28.429Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "af749c68-2e64-4cae-9aec-ac391b0b9ad3",
+        "userId": "d7f8b306-dc7f-4bd9-ad37-62cb9fa6f34a",
+        "areaId": "2693eee4-7173-4f5e-acfd-d5e82de87d39",
+        "createdAt": "2025-08-23T06:38:28.684Z",
+        "updatedAt": "2025-08-23T06:38:28.684Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "a33384e2-36bd-4110-8e52-3c6773f71901",
+        "title": "Desenvolvedora Frontend Senior",
+        "description": "Liderei o desenvolvimento frontend de uma aplicação de gestão de recursos humanos para uma empresa de consultoria com mais de 10.000 funcionários. Utilizei Vue.js 3 com Composition API, implementando design system próprio com Storybook, componentes reutilizáveis com Vuetify, e testes automatizados com Vitest e Vue Test Utils. Desenvolvi funcionalidades de gestão de folha de pagamento, avaliações de performance, e dashboard analítico com gráficos usando Chart.js. Implementei sistema de notificações push, lazy loading de componentes, e otimizações de performance. Trabalhei com metodologia ágil, participei de code reviews, e mentorei desenvolvedores júnior.",
+        "startDate": "2021-03-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.747Z",
+        "updatedAt": "2025-08-23T06:38:28.747Z",
+        "userId": "d7f8b306-dc7f-4bd9-ad37-62cb9fa6f34a"
+      },
+      {
+        "id": "2509a8d2-a675-4830-a0f4-9c2c4bc9bc08",
+        "title": "Desenvolvedora Frontend Plena",
+        "description": "Desenvolvi interfaces para aplicações web de uma startup de e-commerce. Trabalhei com React 17, implementando componentes reutilizáveis, sistema de carrinho de compras, e integração com APIs de pagamento. Utilizei Redux para gerenciamento de estado, implementei testes com Jest e React Testing Library, e trabalhei com metodologia ágil. Participei de code reviews e implementei funcionalidades de acessibilidade.",
+        "startDate": "2019-08-01T00:00:00.000Z",
+        "endDate": "2021-02-28T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.748Z",
+        "updatedAt": "2025-08-23T06:38:28.748Z",
+        "userId": "d7f8b306-dc7f-4bd9-ad37-62cb9fa6f34a"
+      }
+    ]
+  },
+  {
+    "id": "5524739e-c865-436a-965f-a0f7bdf06417",
+    "name": "Carolina Alves",
+    "email": "carolina.alves@email.com",
+    "password": "$2b$10$k3blfPNeF1Ozhqws5Ya.cudmwvpgcXsnMiqhribKjB2nmjapE5fGe",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.019Z",
+    "updatedAt": "2025-08-23T06:38:26.019Z",
+    "skills": [
+      {
+        "id": "9578c7dc-d3be-4e85-b9e0-a8dee58aa268",
+        "userId": "5524739e-c865-436a-965f-a0f7bdf06417",
+        "skillId": "0bf7f960-49f3-4e4a-957c-b29d8c3d8e28",
+        "createdAt": "2025-08-23T06:38:28.430Z",
+        "updatedAt": "2025-08-23T06:38:28.430Z"
+      },
+      {
+        "id": "2c7a67af-b53b-4838-a5b9-7d0a683187b7",
+        "userId": "5524739e-c865-436a-965f-a0f7bdf06417",
+        "skillId": "a2f42dce-9a82-40dc-b9a8-c3606bb83dc5",
+        "createdAt": "2025-08-23T06:38:28.431Z",
+        "updatedAt": "2025-08-23T06:38:28.431Z"
+      },
+      {
+        "id": "6dbf9008-1d59-4e92-91e8-dac16117cddd",
+        "userId": "5524739e-c865-436a-965f-a0f7bdf06417",
+        "skillId": "e8890a07-8b6f-4720-8d56-69c72f63a930",
+        "createdAt": "2025-08-23T06:38:28.433Z",
+        "updatedAt": "2025-08-23T06:38:28.433Z"
+      },
+      {
+        "id": "1a2a9f08-580c-4bb5-af6a-390b9388a52e",
+        "userId": "5524739e-c865-436a-965f-a0f7bdf06417",
+        "skillId": "922a2056-ea81-475c-b347-125d745aa68a",
+        "createdAt": "2025-08-23T06:38:28.434Z",
+        "updatedAt": "2025-08-23T06:38:28.434Z"
+      },
+      {
+        "id": "75fb590b-d787-40b0-912c-fa21646122f2",
+        "userId": "5524739e-c865-436a-965f-a0f7bdf06417",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.435Z",
+        "updatedAt": "2025-08-23T06:38:28.435Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "b8cfbd6b-adf7-403d-b4be-dabbe18366b8",
+        "userId": "5524739e-c865-436a-965f-a0f7bdf06417",
+        "areaId": "2693eee4-7173-4f5e-acfd-d5e82de87d39",
+        "createdAt": "2025-08-23T06:38:28.685Z",
+        "updatedAt": "2025-08-23T06:38:28.685Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "60ce2dc8-3db6-4291-ab71-a36837e2b3b7",
+        "title": "Desenvolvedora Frontend Senior",
+        "description": "Liderei o desenvolvimento frontend de uma aplicação de gestão de projetos para uma empresa de consultoria de TI. Utilizei Angular 15+ com TypeScript, implementando design system próprio com Angular Material, componentes reutilizáveis com standalone components, e testes automatizados com Jasmine e Karma. Desenvolvi funcionalidades de gestão de tarefas com drag & drop, sistema de notificações em tempo real com SignalR, e dashboard com métricas de projeto usando Chart.js. Implementei lazy loading de módulos, interceptors para requisições HTTP, e guards para autenticação. Trabalhei com metodologia ágil, participei de code reviews, e mentorei desenvolvedores júnior.",
+        "startDate": "2021-09-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.749Z",
+        "updatedAt": "2025-08-23T06:38:28.749Z",
+        "userId": "5524739e-c865-436a-965f-a0f7bdf06417"
+      },
+      {
+        "id": "a0f621f3-e7d9-403b-85e8-24af2136394a",
+        "title": "Desenvolvedora Frontend Plena",
+        "description": "Desenvolvi interfaces para aplicações web de uma empresa de telecomunicações. Trabalhei com Angular 12, implementando componentes reutilizáveis, sistema de gestão de clientes, e integração com APIs REST. Utilizei RxJS para programação reativa, implementei testes com Jasmine, e trabalhei com metodologia ágil. Participei de code reviews e implementei funcionalidades de acessibilidade.",
+        "startDate": "2020-03-01T00:00:00.000Z",
+        "endDate": "2021-08-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.750Z",
+        "updatedAt": "2025-08-23T06:38:28.750Z",
+        "userId": "5524739e-c865-436a-965f-a0f7bdf06417"
+      }
+    ]
+  },
+  {
+    "id": "aeda6126-784f-4d4f-9546-1a41fe6e343e",
+    "name": "Patrícia Oliveira",
+    "email": "patricia.oliveira@email.com",
+    "password": "$2b$10$UF6btn7q0PZ3JoBGAM53QOiiAQaPA9gnUpQF04RSh.VgrWR8YDDUO",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.074Z",
+    "updatedAt": "2025-08-23T06:38:26.074Z",
+    "skills": [
+      {
+        "id": "2e51a2d7-d2ce-4c6b-989a-9f0362ece673",
+        "userId": "aeda6126-784f-4d4f-9546-1a41fe6e343e",
+        "skillId": "1196d34b-bad1-4398-89f2-cd13708f83e6",
+        "createdAt": "2025-08-23T06:38:28.436Z",
+        "updatedAt": "2025-08-23T06:38:28.436Z"
+      },
+      {
+        "id": "cd623098-52b4-4530-a525-a5c73030cc95",
+        "userId": "aeda6126-784f-4d4f-9546-1a41fe6e343e",
+        "skillId": "606fd162-bd36-4f25-a641-5fc106f13b1e",
+        "createdAt": "2025-08-23T06:38:28.437Z",
+        "updatedAt": "2025-08-23T06:38:28.437Z"
+      },
+      {
+        "id": "a801983f-b2dc-4d15-b789-e9e2a3cda3a4",
+        "userId": "aeda6126-784f-4d4f-9546-1a41fe6e343e",
+        "skillId": "a2f42dce-9a82-40dc-b9a8-c3606bb83dc5",
+        "createdAt": "2025-08-23T06:38:28.438Z",
+        "updatedAt": "2025-08-23T06:38:28.438Z"
+      },
+      {
+        "id": "b1c32407-6751-492a-b907-53045ebb891d",
+        "userId": "aeda6126-784f-4d4f-9546-1a41fe6e343e",
+        "skillId": "922a2056-ea81-475c-b347-125d745aa68a",
+        "createdAt": "2025-08-23T06:38:28.439Z",
+        "updatedAt": "2025-08-23T06:38:28.439Z"
+      },
+      {
+        "id": "e97222fe-6fae-4f62-be69-76fd62bb0d19",
+        "userId": "aeda6126-784f-4d4f-9546-1a41fe6e343e",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.440Z",
+        "updatedAt": "2025-08-23T06:38:28.440Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "89b67637-e41a-4a11-ae6f-56ee59ef5741",
+        "userId": "aeda6126-784f-4d4f-9546-1a41fe6e343e",
+        "areaId": "2693eee4-7173-4f5e-acfd-d5e82de87d39",
+        "createdAt": "2025-08-23T06:38:28.686Z",
+        "updatedAt": "2025-08-23T06:38:28.686Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "3b3a0141-b60b-4079-96ce-18460bd9c21c",
+        "title": "Desenvolvedora Frontend Senior",
+        "description": "Liderei o desenvolvimento frontend de uma aplicação de gestão de conteúdo para uma empresa de mídia digital. Utilizei React 18 com TypeScript, implementando design system próprio com Storybook, componentes reutilizáveis com styled-components, e testes automatizados com Jest e React Testing Library. Desenvolvi funcionalidades de editor de conteúdo WYSIWYG, sistema de versionamento de artigos, e dashboard analítico com métricas de engajamento. Implementei sistema de preview em tempo real, lazy loading de imagens, e otimizações de SEO. Trabalhei com metodologia ágil, participei de code reviews, e mentorei desenvolvedores júnior.",
+        "startDate": "2021-12-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.750Z",
+        "updatedAt": "2025-08-23T06:38:28.750Z",
+        "userId": "aeda6126-784f-4d4f-9546-1a41fe6e343e"
+      },
+      {
+        "id": "6af25818-7ba0-4ddf-8fb9-633f28840c99",
+        "title": "Desenvolvedora Frontend Plena",
+        "description": "Desenvolvi interfaces para aplicações web de uma startup de educação online. Trabalhei com React 17, implementando componentes reutilizáveis, sistema de progresso de alunos, e integração com APIs de vídeo. Utilizei Context API para gerenciamento de estado, implementei testes com Jest, e trabalhei com metodologia ágil. Participei de code reviews e implementei funcionalidades de acessibilidade.",
+        "startDate": "2020-06-01T00:00:00.000Z",
+        "endDate": "2021-11-30T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.751Z",
+        "updatedAt": "2025-08-23T06:38:28.751Z",
+        "userId": "aeda6126-784f-4d4f-9546-1a41fe6e343e"
+      }
+    ]
+  },
+  {
+    "id": "e4106b78-76d6-4ab2-bafc-658c6af67d73",
+    "name": "Amanda Ferreira",
+    "email": "amanda.ferreira@email.com",
+    "password": "$2b$10$bkSjCLImHWJqSZGfxgyvyeuYajfFyZmDLCsMwpW57jXd0liSx8.o2",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.129Z",
+    "updatedAt": "2025-08-23T06:38:26.129Z",
+    "skills": [
+      {
+        "id": "c3ff6230-76a3-4943-b353-65b4eed45464",
+        "userId": "e4106b78-76d6-4ab2-bafc-658c6af67d73",
+        "skillId": "3f792990-6aea-4514-be3c-2ee472221aee",
+        "createdAt": "2025-08-23T06:38:28.441Z",
+        "updatedAt": "2025-08-23T06:38:28.441Z"
+      },
+      {
+        "id": "9def84cc-0370-4536-aa78-5631d9e16884",
+        "userId": "e4106b78-76d6-4ab2-bafc-658c6af67d73",
+        "skillId": "a2f42dce-9a82-40dc-b9a8-c3606bb83dc5",
+        "createdAt": "2025-08-23T06:38:28.442Z",
+        "updatedAt": "2025-08-23T06:38:28.442Z"
+      },
+      {
+        "id": "8432dbaa-ab4d-45bb-84ea-b2957d7c0762",
+        "userId": "e4106b78-76d6-4ab2-bafc-658c6af67d73",
+        "skillId": "b878fa2c-bbb6-4926-8818-c24d92fb51db",
+        "createdAt": "2025-08-23T06:38:28.443Z",
+        "updatedAt": "2025-08-23T06:38:28.443Z"
+      },
+      {
+        "id": "976dc214-4039-4c5b-a556-c1d8320dc84e",
+        "userId": "e4106b78-76d6-4ab2-bafc-658c6af67d73",
+        "skillId": "922a2056-ea81-475c-b347-125d745aa68a",
+        "createdAt": "2025-08-23T06:38:28.445Z",
+        "updatedAt": "2025-08-23T06:38:28.445Z"
+      },
+      {
+        "id": "04894ff8-2415-4d31-97fb-bac1e658fdcc",
+        "userId": "e4106b78-76d6-4ab2-bafc-658c6af67d73",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.446Z",
+        "updatedAt": "2025-08-23T06:38:28.446Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "32690531-87e2-4790-8206-2706e4f64592",
+        "userId": "e4106b78-76d6-4ab2-bafc-658c6af67d73",
+        "areaId": "2693eee4-7173-4f5e-acfd-d5e82de87d39",
+        "createdAt": "2025-08-23T06:38:28.687Z",
+        "updatedAt": "2025-08-23T06:38:28.687Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "bcaadc05-85bb-496f-a4b5-82be49c70da2",
+        "title": "Desenvolvedora Frontend Senior",
+        "description": "Liderei o desenvolvimento frontend de uma aplicação de gestão de vendas para uma empresa de varejo. Utilizei Vue.js 3 com Composition API, implementando design system próprio com Vuetify, componentes reutilizáveis com composables, e testes automatizados com Vitest e Vue Test Utils. Desenvolvi funcionalidades de gestão de leads, sistema de CRM integrado, e dashboard com métricas de vendas usando Chart.js. Implementei sistema de notificações push, lazy loading de componentes, e otimizações de performance. Trabalhei com metodologia ágil, participei de code reviews, e mentorei desenvolvedores júnior.",
+        "startDate": "2021-07-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.751Z",
+        "updatedAt": "2025-08-23T06:38:28.751Z",
+        "userId": "e4106b78-76d6-4ab2-bafc-658c6af67d73"
+      },
+      {
+        "id": "548b39d5-f9c0-47bd-88f1-b2bc36713811",
+        "title": "Desenvolvedora Frontend Plena",
+        "description": "Desenvolvi interfaces para aplicações web de uma startup de delivery. Trabalhei com Vue.js 2, implementando componentes reutilizáveis, sistema de rastreamento de pedidos, e integração com APIs de geolocalização. Utilizei Vuex para gerenciamento de estado, implementei testes com Vue Test Utils, e trabalhei com metodologia ágil. Participei de code reviews e implementei funcionalidades de acessibilidade.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-06-30T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.752Z",
+        "updatedAt": "2025-08-23T06:38:28.752Z",
+        "userId": "e4106b78-76d6-4ab2-bafc-658c6af67d73"
+      }
+    ]
+  },
+  {
+    "id": "a1deda01-6b30-4b9a-8e4c-c3127d9f0315",
+    "name": "Pedro Oliveira",
+    "email": "pedro.oliveira@email.com",
+    "password": "$2b$10$zA0WQHs9vuhv5t0BZHBpPOg4bp.R1KJv7v6/f3thgr1Wb6doaDvfG",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.185Z",
+    "updatedAt": "2025-08-23T06:38:26.185Z",
+    "skills": [
+      {
+        "id": "3cb6da73-a201-4657-a5b7-54053eaf9ade",
+        "userId": "a1deda01-6b30-4b9a-8e4c-c3127d9f0315",
+        "skillId": "57450567-e4ca-45a1-94aa-fac8be783afd",
+        "createdAt": "2025-08-23T06:38:28.447Z",
+        "updatedAt": "2025-08-23T06:38:28.447Z"
+      },
+      {
+        "id": "3ac07cfe-c807-4ce8-8afb-534dcb7ae1ec",
+        "userId": "a1deda01-6b30-4b9a-8e4c-c3127d9f0315",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.448Z",
+        "updatedAt": "2025-08-23T06:38:28.448Z"
+      },
+      {
+        "id": "6b641be0-c8d0-4ab5-a9e1-cc1fc9cc8767",
+        "userId": "a1deda01-6b30-4b9a-8e4c-c3127d9f0315",
+        "skillId": "0cab0740-aef7-4825-8b8f-ecd76bc73df6",
+        "createdAt": "2025-08-23T06:38:28.449Z",
+        "updatedAt": "2025-08-23T06:38:28.449Z"
+      },
+      {
+        "id": "1a8c73e1-097f-42af-9e10-7b0698e3224a",
+        "userId": "a1deda01-6b30-4b9a-8e4c-c3127d9f0315",
+        "skillId": "25fa3f0f-303d-4698-b0f8-5ab15a4db68e",
+        "createdAt": "2025-08-23T06:38:28.450Z",
+        "updatedAt": "2025-08-23T06:38:28.450Z"
+      },
+      {
+        "id": "80526756-c0db-4a3a-9883-270a218355dc",
+        "userId": "a1deda01-6b30-4b9a-8e4c-c3127d9f0315",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.452Z",
+        "updatedAt": "2025-08-23T06:38:28.452Z"
+      },
+      {
+        "id": "3a5de4bf-387f-48b7-be05-55d92267ea25",
+        "userId": "a1deda01-6b30-4b9a-8e4c-c3127d9f0315",
+        "skillId": "de9a11b5-da81-439a-9451-d0f04abb1e5c",
+        "createdAt": "2025-08-23T06:38:28.453Z",
+        "updatedAt": "2025-08-23T06:38:28.453Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "aec6ad34-f111-42bb-9f5d-73c8b018e5b7",
+        "userId": "a1deda01-6b30-4b9a-8e4c-c3127d9f0315",
+        "areaId": "4901c520-f471-495d-aa39-ef47e4ae699b",
+        "createdAt": "2025-08-23T06:38:28.688Z",
+        "updatedAt": "2025-08-23T06:38:28.688Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "8b619efe-29ef-4d1a-a2f4-266445c80fa7",
+        "title": "Backend Developer Senior",
+        "description": "Atuei como Backend Developer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.753Z",
+        "updatedAt": "2025-08-23T06:38:28.753Z",
+        "userId": "a1deda01-6b30-4b9a-8e4c-c3127d9f0315"
+      },
+      {
+        "id": "6eda65d2-2937-478c-bd22-446c279fd1ee",
+        "title": "Backend Developer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Backend Developer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.754Z",
+        "updatedAt": "2025-08-23T06:38:28.754Z",
+        "userId": "a1deda01-6b30-4b9a-8e4c-c3127d9f0315"
+      }
+    ]
+  },
+  {
+    "id": "bbf59468-8eea-42f4-9dc7-6a5b7993d114",
+    "name": "Lucas Pereira",
+    "email": "lucas.pereira@email.com",
+    "password": "$2b$10$zVRDnZFlB6ILbMY5iyQdSeAdM8to9Zl5UXvORl0nurfuiNLtKsP2C",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.242Z",
+    "updatedAt": "2025-08-23T06:38:26.242Z",
+    "skills": [
+      {
+        "id": "b69f146c-007a-46d9-8ed4-b6a6b877c9bd",
+        "userId": "bbf59468-8eea-42f4-9dc7-6a5b7993d114",
+        "skillId": "d52cf394-6cf8-4e7c-9a01-630b4ef033a0",
+        "createdAt": "2025-08-23T06:38:28.454Z",
+        "updatedAt": "2025-08-23T06:38:28.454Z"
+      },
+      {
+        "id": "216e1e73-a78a-47c9-8bf1-775c6c2b41a8",
+        "userId": "bbf59468-8eea-42f4-9dc7-6a5b7993d114",
+        "skillId": "ca6d77c9-8439-4020-b33e-0e6a7ec3a187",
+        "createdAt": "2025-08-23T06:38:28.454Z",
+        "updatedAt": "2025-08-23T06:38:28.454Z"
+      },
+      {
+        "id": "88bf857b-7b4b-4538-9038-8491ff2bc12c",
+        "userId": "bbf59468-8eea-42f4-9dc7-6a5b7993d114",
+        "skillId": "6f0268d9-adc5-40a2-9f5d-a6a7172623ad",
+        "createdAt": "2025-08-23T06:38:28.456Z",
+        "updatedAt": "2025-08-23T06:38:28.456Z"
+      },
+      {
+        "id": "75fd15d5-456f-4c3d-968c-045ad0b3329e",
+        "userId": "bbf59468-8eea-42f4-9dc7-6a5b7993d114",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.457Z",
+        "updatedAt": "2025-08-23T06:38:28.457Z"
+      },
+      {
+        "id": "541fb476-8e1a-4049-8028-90c5cc708c56",
+        "userId": "bbf59468-8eea-42f4-9dc7-6a5b7993d114",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.458Z",
+        "updatedAt": "2025-08-23T06:38:28.458Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "dcf390a9-fcda-40a7-842a-2952d31c99db",
+        "userId": "bbf59468-8eea-42f4-9dc7-6a5b7993d114",
+        "areaId": "4901c520-f471-495d-aa39-ef47e4ae699b",
+        "createdAt": "2025-08-23T06:38:28.690Z",
+        "updatedAt": "2025-08-23T06:38:28.690Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "8a2096fb-94ea-4e4a-87d9-f58b0d8440fd",
+        "title": "Backend Developer Senior",
+        "description": "Atuei como Backend Developer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.755Z",
+        "updatedAt": "2025-08-23T06:38:28.755Z",
+        "userId": "bbf59468-8eea-42f4-9dc7-6a5b7993d114"
+      },
+      {
+        "id": "9605bc26-1753-4fde-ab26-8ad72cc01d16",
+        "title": "Backend Developer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Backend Developer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.755Z",
+        "updatedAt": "2025-08-23T06:38:28.755Z",
+        "userId": "bbf59468-8eea-42f4-9dc7-6a5b7993d114"
+      }
+    ]
+  },
+  {
+    "id": "8eab012b-0f0e-432e-b78c-0a0f0dc6d3a6",
+    "name": "André Silva",
+    "email": "andre.silva@email.com",
+    "password": "$2b$10$aaASoaz4evkTo11giflPruFsU0S9GlucsNcXFLct1xfvmshgj9tpO",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.297Z",
+    "updatedAt": "2025-08-23T06:38:26.297Z",
+    "skills": [
+      {
+        "id": "7abcb8f9-bb54-4103-8b08-0df3e37f1e84",
+        "userId": "8eab012b-0f0e-432e-b78c-0a0f0dc6d3a6",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.459Z",
+        "updatedAt": "2025-08-23T06:38:28.459Z"
+      },
+      {
+        "id": "1225102b-e204-43e0-84be-d5a2ced7f4e6",
+        "userId": "8eab012b-0f0e-432e-b78c-0a0f0dc6d3a6",
+        "skillId": "0cab0740-aef7-4825-8b8f-ecd76bc73df6",
+        "createdAt": "2025-08-23T06:38:28.460Z",
+        "updatedAt": "2025-08-23T06:38:28.460Z"
+      },
+      {
+        "id": "54a78b2a-1601-45d1-82ba-d56165eedde5",
+        "userId": "8eab012b-0f0e-432e-b78c-0a0f0dc6d3a6",
+        "skillId": "25fa3f0f-303d-4698-b0f8-5ab15a4db68e",
+        "createdAt": "2025-08-23T06:38:28.462Z",
+        "updatedAt": "2025-08-23T06:38:28.462Z"
+      },
+      {
+        "id": "92947d45-ab0a-451f-a019-6724133999f7",
+        "userId": "8eab012b-0f0e-432e-b78c-0a0f0dc6d3a6",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.463Z",
+        "updatedAt": "2025-08-23T06:38:28.463Z"
+      },
+      {
+        "id": "b9172f35-7d79-4ee0-8330-17b00ea1dddb",
+        "userId": "8eab012b-0f0e-432e-b78c-0a0f0dc6d3a6",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.464Z",
+        "updatedAt": "2025-08-23T06:38:28.464Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "89226cf2-8cd8-4da7-9609-3f52d48c60ef",
+        "userId": "8eab012b-0f0e-432e-b78c-0a0f0dc6d3a6",
+        "areaId": "4901c520-f471-495d-aa39-ef47e4ae699b",
+        "createdAt": "2025-08-23T06:38:28.691Z",
+        "updatedAt": "2025-08-23T06:38:28.691Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "ce7ff571-6ed4-4c27-bd1e-237168f2c7a6",
+        "title": "Backend Developer Senior",
+        "description": "Atuei como Backend Developer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.756Z",
+        "updatedAt": "2025-08-23T06:38:28.756Z",
+        "userId": "8eab012b-0f0e-432e-b78c-0a0f0dc6d3a6"
+      },
+      {
+        "id": "811345c4-558d-4481-bf93-1f87978c3717",
+        "title": "Backend Developer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Backend Developer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.756Z",
+        "updatedAt": "2025-08-23T06:38:28.756Z",
+        "userId": "8eab012b-0f0e-432e-b78c-0a0f0dc6d3a6"
+      }
+    ]
+  },
+  {
+    "id": "cdfc63fe-7d2f-4e34-a108-db130c6e15bf",
+    "name": "Diego Costa",
+    "email": "diego.costa@email.com",
+    "password": "$2b$10$SUl1xp7wC4ma.ZIitE/3G.W8RvmT9TSHkx1zCFz2/MkT0WGpAR2cO",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.351Z",
+    "updatedAt": "2025-08-23T06:38:26.351Z",
+    "skills": [
+      {
+        "id": "f7dacb30-68cd-4596-bfd6-5a88e044a1c0",
+        "userId": "cdfc63fe-7d2f-4e34-a108-db130c6e15bf",
+        "skillId": "de5801b1-9b8a-4ef9-b493-b23b47674537",
+        "createdAt": "2025-08-23T06:38:28.465Z",
+        "updatedAt": "2025-08-23T06:38:28.465Z"
+      },
+      {
+        "id": "32217f29-142d-4291-806f-df67670a08a2",
+        "userId": "cdfc63fe-7d2f-4e34-a108-db130c6e15bf",
+        "skillId": "1daf64bf-fa1b-4e42-bb66-53ac2d70b0bf",
+        "createdAt": "2025-08-23T06:38:28.466Z",
+        "updatedAt": "2025-08-23T06:38:28.466Z"
+      },
+      {
+        "id": "efe075fd-2cae-4130-95fc-06191f90cec8",
+        "userId": "cdfc63fe-7d2f-4e34-a108-db130c6e15bf",
+        "skillId": "25fa3f0f-303d-4698-b0f8-5ab15a4db68e",
+        "createdAt": "2025-08-23T06:38:28.467Z",
+        "updatedAt": "2025-08-23T06:38:28.467Z"
+      },
+      {
+        "id": "c9cd60e9-37e9-4e4c-9a47-9cadf13dc8e4",
+        "userId": "cdfc63fe-7d2f-4e34-a108-db130c6e15bf",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.468Z",
+        "updatedAt": "2025-08-23T06:38:28.468Z"
+      },
+      {
+        "id": "f2494823-47ed-49a0-a0d9-de6b83ab43e1",
+        "userId": "cdfc63fe-7d2f-4e34-a108-db130c6e15bf",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.469Z",
+        "updatedAt": "2025-08-23T06:38:28.469Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "57bd7e68-3f13-4bbc-83b4-79be2ae2ef5f",
+        "userId": "cdfc63fe-7d2f-4e34-a108-db130c6e15bf",
+        "areaId": "4901c520-f471-495d-aa39-ef47e4ae699b",
+        "createdAt": "2025-08-23T06:38:28.692Z",
+        "updatedAt": "2025-08-23T06:38:28.692Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "10ad13b3-8438-42ef-bbc7-44881617fe36",
+        "title": "Backend Developer Senior",
+        "description": "Atuei como Backend Developer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.757Z",
+        "updatedAt": "2025-08-23T06:38:28.757Z",
+        "userId": "cdfc63fe-7d2f-4e34-a108-db130c6e15bf"
+      },
+      {
+        "id": "b37ec893-561c-455c-ab43-5b71adf748ba",
+        "title": "Backend Developer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Backend Developer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.758Z",
+        "updatedAt": "2025-08-23T06:38:28.758Z",
+        "userId": "cdfc63fe-7d2f-4e34-a108-db130c6e15bf"
+      }
+    ]
+  },
+  {
+    "id": "f66e6df9-c217-474b-ab81-2cd02ab38827",
+    "name": "Rafael Santos",
+    "email": "rafael.santos@email.com",
+    "password": "$2b$10$sAfUcTeO1FCfNbexr1pHrOutEZN.pHC7e.bZFJY8OmJS5/1OMi0ju",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.408Z",
+    "updatedAt": "2025-08-23T06:38:26.408Z",
+    "skills": [
+      {
+        "id": "2c311756-75b5-47a9-8221-b97021295001",
+        "userId": "f66e6df9-c217-474b-ab81-2cd02ab38827",
+        "skillId": "209eb7da-0dc8-4ab4-a1ec-e964e4ef4756",
+        "createdAt": "2025-08-23T06:38:28.470Z",
+        "updatedAt": "2025-08-23T06:38:28.470Z"
+      },
+      {
+        "id": "4826ddd4-1904-4a34-831c-1a17c1b60068",
+        "userId": "f66e6df9-c217-474b-ab81-2cd02ab38827",
+        "skillId": "0cab0740-aef7-4825-8b8f-ecd76bc73df6",
+        "createdAt": "2025-08-23T06:38:28.471Z",
+        "updatedAt": "2025-08-23T06:38:28.471Z"
+      },
+      {
+        "id": "bfc06160-c620-4944-a2d7-f54d3965f2d8",
+        "userId": "f66e6df9-c217-474b-ab81-2cd02ab38827",
+        "skillId": "25fa3f0f-303d-4698-b0f8-5ab15a4db68e",
+        "createdAt": "2025-08-23T06:38:28.473Z",
+        "updatedAt": "2025-08-23T06:38:28.473Z"
+      },
+      {
+        "id": "69acf616-b27f-43b8-b936-67d9967911ed",
+        "userId": "f66e6df9-c217-474b-ab81-2cd02ab38827",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.474Z",
+        "updatedAt": "2025-08-23T06:38:28.474Z"
+      },
+      {
+        "id": "e7561cf8-74c6-4d26-a0ff-0d13588565ac",
+        "userId": "f66e6df9-c217-474b-ab81-2cd02ab38827",
+        "skillId": "6531052f-ee66-40ac-86b7-65e6de20f225",
+        "createdAt": "2025-08-23T06:38:28.475Z",
+        "updatedAt": "2025-08-23T06:38:28.475Z"
+      },
+      {
+        "id": "f16f9144-784f-4e22-8357-3178b12487f1",
+        "userId": "f66e6df9-c217-474b-ab81-2cd02ab38827",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.476Z",
+        "updatedAt": "2025-08-23T06:38:28.476Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "0d63e5e7-7c07-486c-a61c-5997b7c04901",
+        "userId": "f66e6df9-c217-474b-ab81-2cd02ab38827",
+        "areaId": "4901c520-f471-495d-aa39-ef47e4ae699b",
+        "createdAt": "2025-08-23T06:38:28.694Z",
+        "updatedAt": "2025-08-23T06:38:28.694Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "335143ad-1097-444a-a9e3-17f5c2f93e4c",
+        "title": "Backend Developer Senior",
+        "description": "Atuei como Backend Developer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.758Z",
+        "updatedAt": "2025-08-23T06:38:28.758Z",
+        "userId": "f66e6df9-c217-474b-ab81-2cd02ab38827"
+      },
+      {
+        "id": "6c06a6ba-0d05-4b6d-8898-9100b22d787a",
+        "title": "Backend Developer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Backend Developer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.759Z",
+        "updatedAt": "2025-08-23T06:38:28.759Z",
+        "userId": "f66e6df9-c217-474b-ab81-2cd02ab38827"
+      }
+    ]
+  },
+  {
+    "id": "c9f3ac60-0180-4ec1-a13a-2c05829ec96d",
+    "name": "Ana Costa",
+    "email": "ana.costa@email.com",
+    "password": "$2b$10$/lg.ZHE0LjDjStXJljvyuuhR.3jQNFqHMq6bArtI7nfk6j12jLtee",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.462Z",
+    "updatedAt": "2025-08-23T06:38:26.462Z",
+    "skills": [
+      {
+        "id": "89c58ada-c71e-44fc-8582-05e1f3152aac",
+        "userId": "c9f3ac60-0180-4ec1-a13a-2c05829ec96d",
+        "skillId": "3938c47c-76ec-4e13-bf2b-d1c3510be55b",
+        "createdAt": "2025-08-23T06:38:28.477Z",
+        "updatedAt": "2025-08-23T06:38:28.477Z"
+      },
+      {
+        "id": "a6d815d2-3f36-4c87-9cf3-dd197af79122",
+        "userId": "c9f3ac60-0180-4ec1-a13a-2c05829ec96d",
+        "skillId": "6d820639-a208-459e-8bd6-30064b385476",
+        "createdAt": "2025-08-23T06:38:28.478Z",
+        "updatedAt": "2025-08-23T06:38:28.478Z"
+      },
+      {
+        "id": "e0ebbde8-b6f2-423b-b70f-eff8986f505a",
+        "userId": "c9f3ac60-0180-4ec1-a13a-2c05829ec96d",
+        "skillId": "922a2056-ea81-475c-b347-125d745aa68a",
+        "createdAt": "2025-08-23T06:38:28.479Z",
+        "updatedAt": "2025-08-23T06:38:28.479Z"
+      },
+      {
+        "id": "773bec16-2103-4e18-8b7f-9d9674b5d054",
+        "userId": "c9f3ac60-0180-4ec1-a13a-2c05829ec96d",
+        "skillId": "a2f42dce-9a82-40dc-b9a8-c3606bb83dc5",
+        "createdAt": "2025-08-23T06:38:28.480Z",
+        "updatedAt": "2025-08-23T06:38:28.480Z"
+      },
+      {
+        "id": "0cd3f302-7354-45a0-a30c-461e4642856e",
+        "userId": "c9f3ac60-0180-4ec1-a13a-2c05829ec96d",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.481Z",
+        "updatedAt": "2025-08-23T06:38:28.481Z"
+      },
+      {
+        "id": "104c88c6-345b-45bb-85f6-964e0152d046",
+        "userId": "c9f3ac60-0180-4ec1-a13a-2c05829ec96d",
+        "skillId": "d877a466-5c8e-4eae-90ff-2dfffa174831",
+        "createdAt": "2025-08-23T06:38:28.482Z",
+        "updatedAt": "2025-08-23T06:38:28.482Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "ea8232be-58b1-46da-a24f-18fcc9af86fc",
+        "userId": "c9f3ac60-0180-4ec1-a13a-2c05829ec96d",
+        "areaId": "affc4d72-4da1-4e94-a992-abc550cf0ddc",
+        "createdAt": "2025-08-23T06:38:28.695Z",
+        "updatedAt": "2025-08-23T06:38:28.695Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "b2ab83e1-4ffe-4d6e-a9d7-db10de39cff9",
+        "title": "Mobile Developer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Mobile Developer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.761Z",
+        "updatedAt": "2025-08-23T06:38:28.761Z",
+        "userId": "c9f3ac60-0180-4ec1-a13a-2c05829ec96d"
+      },
+      {
+        "id": "ccf2aaa7-69cc-4b64-ba05-05e035cebbd9",
+        "title": "Mobile Developer Senior",
+        "description": "Atuei como Mobile Developer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.760Z",
+        "updatedAt": "2025-08-23T06:38:28.760Z",
+        "userId": "c9f3ac60-0180-4ec1-a13a-2c05829ec96d"
+      }
+    ]
+  },
+  {
+    "id": "be30650a-8f0f-4b73-9446-0f79f96d1318",
+    "name": "Camila Souza",
+    "email": "camila.souza@email.com",
+    "password": "$2b$10$uwnWGVwnX.mh9vh9VhF62eYc2HQDHCsqhDijN0MAvb8l/Bas/Z1JO",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.517Z",
+    "updatedAt": "2025-08-23T06:38:26.517Z",
+    "skills": [
+      {
+        "id": "a03b4dcc-3fdc-45d6-8ee4-c8d9fff45650",
+        "userId": "be30650a-8f0f-4b73-9446-0f79f96d1318",
+        "skillId": "d877a466-5c8e-4eae-90ff-2dfffa174831",
+        "createdAt": "2025-08-23T06:38:28.483Z",
+        "updatedAt": "2025-08-23T06:38:28.483Z"
+      },
+      {
+        "id": "d18ebaec-e7bd-4cd2-b35b-c0317b34d111",
+        "userId": "be30650a-8f0f-4b73-9446-0f79f96d1318",
+        "skillId": "48ed596f-1adc-4328-8c3a-04824a89d4f0",
+        "createdAt": "2025-08-23T06:38:28.484Z",
+        "updatedAt": "2025-08-23T06:38:28.484Z"
+      },
+      {
+        "id": "507dfc4e-6d57-4947-8155-6a5b50bf4b9f",
+        "userId": "be30650a-8f0f-4b73-9446-0f79f96d1318",
+        "skillId": "3938c47c-76ec-4e13-bf2b-d1c3510be55b",
+        "createdAt": "2025-08-23T06:38:28.485Z",
+        "updatedAt": "2025-08-23T06:38:28.485Z"
+      },
+      {
+        "id": "00f3317b-8724-4717-bcaa-e5018c4a5397",
+        "userId": "be30650a-8f0f-4b73-9446-0f79f96d1318",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.487Z",
+        "updatedAt": "2025-08-23T06:38:28.487Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "aa928d33-182b-4b87-acd7-e9a9319a958e",
+        "userId": "be30650a-8f0f-4b73-9446-0f79f96d1318",
+        "areaId": "affc4d72-4da1-4e94-a992-abc550cf0ddc",
+        "createdAt": "2025-08-23T06:38:28.696Z",
+        "updatedAt": "2025-08-23T06:38:28.696Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "770f535f-f184-4080-b419-27cb2bafdc73",
+        "title": "Mobile Developer Senior",
+        "description": "Atuei como Mobile Developer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.761Z",
+        "updatedAt": "2025-08-23T06:38:28.761Z",
+        "userId": "be30650a-8f0f-4b73-9446-0f79f96d1318"
+      },
+      {
+        "id": "6d03b83b-eb09-43b1-bfdd-1bf130c1cd09",
+        "title": "Mobile Developer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Mobile Developer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.762Z",
+        "updatedAt": "2025-08-23T06:38:28.762Z",
+        "userId": "be30650a-8f0f-4b73-9446-0f79f96d1318"
+      }
+    ]
+  },
+  {
+    "id": "9f25f03b-b95e-482d-b7f0-b5f4e325a9f7",
+    "name": "Gabriela Lima",
+    "email": "gabriela.lima@email.com",
+    "password": "$2b$10$f4PskyAutjYX7Gy3Z7E1juBA7n6LKBz4amViXohubj0b3R5aVCegi",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.572Z",
+    "updatedAt": "2025-08-23T06:38:26.572Z",
+    "skills": [
+      {
+        "id": "d2e52445-4b51-461c-afb8-229abd66af11",
+        "userId": "9f25f03b-b95e-482d-b7f0-b5f4e325a9f7",
+        "skillId": "6d820639-a208-459e-8bd6-30064b385476",
+        "createdAt": "2025-08-23T06:38:28.490Z",
+        "updatedAt": "2025-08-23T06:38:28.490Z"
+      },
+      {
+        "id": "120e3e0a-2c06-475f-ba45-51d74c01951c",
+        "userId": "9f25f03b-b95e-482d-b7f0-b5f4e325a9f7",
+        "skillId": "f3317a23-b1c0-4b88-8f91-ddbfbde07725",
+        "createdAt": "2025-08-23T06:38:28.491Z",
+        "updatedAt": "2025-08-23T06:38:28.491Z"
+      },
+      {
+        "id": "3a6d8b4b-3783-4c29-b21b-91d8b8e18e47",
+        "userId": "9f25f03b-b95e-482d-b7f0-b5f4e325a9f7",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.492Z",
+        "updatedAt": "2025-08-23T06:38:28.492Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "2b20e828-4c44-4ce9-be50-82843e5f420c",
+        "userId": "9f25f03b-b95e-482d-b7f0-b5f4e325a9f7",
+        "areaId": "affc4d72-4da1-4e94-a992-abc550cf0ddc",
+        "createdAt": "2025-08-23T06:38:28.697Z",
+        "updatedAt": "2025-08-23T06:38:28.697Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "ead42637-8420-41b3-8cb1-cdbc6d40ad33",
+        "title": "Mobile Developer Senior",
+        "description": "Atuei como Mobile Developer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.763Z",
+        "updatedAt": "2025-08-23T06:38:28.763Z",
+        "userId": "9f25f03b-b95e-482d-b7f0-b5f4e325a9f7"
+      },
+      {
+        "id": "7acc7594-e8e2-45aa-8c60-75bc9f559270",
+        "title": "Mobile Developer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Mobile Developer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.763Z",
+        "updatedAt": "2025-08-23T06:38:28.763Z",
+        "userId": "9f25f03b-b95e-482d-b7f0-b5f4e325a9f7"
+      }
+    ]
+  },
+  {
+    "id": "a08da676-3ba8-4435-a577-3d43be915320",
+    "name": "Isabela Santos",
+    "email": "isabela.santos@email.com",
+    "password": "$2b$10$2r1sCZlnXseRnKAySPkNw.FJC9NSmpKQfbl3xLATAUR6Y0nu3QaU2",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.627Z",
+    "updatedAt": "2025-08-23T06:38:26.627Z",
+    "skills": [
+      {
+        "id": "15cfc1b7-8e8d-4111-809d-790d35703077",
+        "userId": "a08da676-3ba8-4435-a577-3d43be915320",
+        "skillId": "3938c47c-76ec-4e13-bf2b-d1c3510be55b",
+        "createdAt": "2025-08-23T06:38:28.494Z",
+        "updatedAt": "2025-08-23T06:38:28.494Z"
+      },
+      {
+        "id": "4666c5cc-db14-4bff-b091-46ed701917f4",
+        "userId": "a08da676-3ba8-4435-a577-3d43be915320",
+        "skillId": "a2f42dce-9a82-40dc-b9a8-c3606bb83dc5",
+        "createdAt": "2025-08-23T06:38:28.495Z",
+        "updatedAt": "2025-08-23T06:38:28.495Z"
+      },
+      {
+        "id": "b2d87f2c-e9f8-48e2-977f-52f19f4894b6",
+        "userId": "a08da676-3ba8-4435-a577-3d43be915320",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.496Z",
+        "updatedAt": "2025-08-23T06:38:28.496Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "04404e56-c8ee-417e-9828-c01b35c35bf2",
+        "userId": "a08da676-3ba8-4435-a577-3d43be915320",
+        "areaId": "affc4d72-4da1-4e94-a992-abc550cf0ddc",
+        "createdAt": "2025-08-23T06:38:28.698Z",
+        "updatedAt": "2025-08-23T06:38:28.698Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "b5256c1f-3c2d-40a5-bd38-ee1f5acc0e87",
+        "title": "Mobile Developer Senior",
+        "description": "Atuei como Mobile Developer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.764Z",
+        "updatedAt": "2025-08-23T06:38:28.764Z",
+        "userId": "a08da676-3ba8-4435-a577-3d43be915320"
+      },
+      {
+        "id": "7ab921d0-2bbd-4b9b-aff9-b018ce6d0c87",
+        "title": "Mobile Developer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Mobile Developer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.765Z",
+        "updatedAt": "2025-08-23T06:38:28.765Z",
+        "userId": "a08da676-3ba8-4435-a577-3d43be915320"
+      }
+    ]
+  },
+  {
+    "id": "ab2133e1-14c3-4688-a373-cd5ce0af2fb9",
+    "name": "Mariana Costa",
+    "email": "mariana.costa@email.com",
+    "password": "$2b$10$ta8bQtTt9fdBixL04OS6.u/xDusP1r69ltsfJFPOZOmp0YveHGICG",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.684Z",
+    "updatedAt": "2025-08-23T06:38:26.684Z",
+    "skills": [
+      {
+        "id": "5773bacd-1887-4aa4-be00-ec2ab715112e",
+        "userId": "ab2133e1-14c3-4688-a373-cd5ce0af2fb9",
+        "skillId": "d877a466-5c8e-4eae-90ff-2dfffa174831",
+        "createdAt": "2025-08-23T06:38:28.497Z",
+        "updatedAt": "2025-08-23T06:38:28.497Z"
+      },
+      {
+        "id": "a76d60af-d91f-4efb-97a3-e99b88c7322a",
+        "userId": "ab2133e1-14c3-4688-a373-cd5ce0af2fb9",
+        "skillId": "6baa1af4-5ea6-4b1d-9c81-6e315552fa40",
+        "createdAt": "2025-08-23T06:38:28.498Z",
+        "updatedAt": "2025-08-23T06:38:28.498Z"
+      },
+      {
+        "id": "adf3a627-5d03-4709-9219-85e5aaca7a65",
+        "userId": "ab2133e1-14c3-4688-a373-cd5ce0af2fb9",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.499Z",
+        "updatedAt": "2025-08-23T06:38:28.499Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "8757e4cf-e903-4730-8d91-ba8ad9dd55f2",
+        "userId": "ab2133e1-14c3-4688-a373-cd5ce0af2fb9",
+        "areaId": "affc4d72-4da1-4e94-a992-abc550cf0ddc",
+        "createdAt": "2025-08-23T06:38:28.699Z",
+        "updatedAt": "2025-08-23T06:38:28.699Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "a50bfe9b-a551-4a20-87a4-73f211b9f2d7",
+        "title": "Mobile Developer Senior",
+        "description": "Atuei como Mobile Developer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.765Z",
+        "updatedAt": "2025-08-23T06:38:28.765Z",
+        "userId": "ab2133e1-14c3-4688-a373-cd5ce0af2fb9"
+      },
+      {
+        "id": "573dea2f-66e3-4fcb-be4d-f155cc578ed9",
+        "title": "Mobile Developer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Mobile Developer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.766Z",
+        "updatedAt": "2025-08-23T06:38:28.766Z",
+        "userId": "ab2133e1-14c3-4688-a373-cd5ce0af2fb9"
+      }
+    ]
+  },
+  {
+    "id": "488b1495-61a4-48be-b9fb-fec8159919d4",
+    "name": "Carlos Ferreira",
+    "email": "carlos.ferreira@email.com",
+    "password": "$2b$10$jlTIxnMURNHv8qvZ2ecbS.1H2LANZ4Copn9x1HoJiGlcUF0.zeFNS",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.739Z",
+    "updatedAt": "2025-08-23T06:38:26.739Z",
+    "skills": [
+      {
+        "id": "844781da-5a0c-4c76-9d08-9737fe891cbc",
+        "userId": "488b1495-61a4-48be-b9fb-fec8159919d4",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.500Z",
+        "updatedAt": "2025-08-23T06:38:28.500Z"
+      },
+      {
+        "id": "59ffab22-6c2a-4a44-b7ef-83447241f923",
+        "userId": "488b1495-61a4-48be-b9fb-fec8159919d4",
+        "skillId": "6531052f-ee66-40ac-86b7-65e6de20f225",
+        "createdAt": "2025-08-23T06:38:28.501Z",
+        "updatedAt": "2025-08-23T06:38:28.501Z"
+      },
+      {
+        "id": "79fcf460-2098-4050-acad-84077508a065",
+        "userId": "488b1495-61a4-48be-b9fb-fec8159919d4",
+        "skillId": "4cf77803-dd93-4eaa-a6a4-89e587d0f5e6",
+        "createdAt": "2025-08-23T06:38:28.502Z",
+        "updatedAt": "2025-08-23T06:38:28.502Z"
+      },
+      {
+        "id": "8baa37c2-98ef-4ff0-ab94-3b1c02f14597",
+        "userId": "488b1495-61a4-48be-b9fb-fec8159919d4",
+        "skillId": "d13c9129-4abc-42fa-9c72-35a70a0553d2",
+        "createdAt": "2025-08-23T06:38:28.503Z",
+        "updatedAt": "2025-08-23T06:38:28.503Z"
+      },
+      {
+        "id": "5b5dfdab-ecbd-451a-abd9-c69c5a1edb8b",
+        "userId": "488b1495-61a4-48be-b9fb-fec8159919d4",
+        "skillId": "e2402e12-27e5-4715-81e0-3a2a0a7ad705",
+        "createdAt": "2025-08-23T06:38:28.504Z",
+        "updatedAt": "2025-08-23T06:38:28.504Z"
+      },
+      {
+        "id": "5c0b5cdb-6690-4d78-baa4-0e84292660a0",
+        "userId": "488b1495-61a4-48be-b9fb-fec8159919d4",
+        "skillId": "fafff8ca-af0e-4a2c-834f-18e4af8a0e0c",
+        "createdAt": "2025-08-23T06:38:28.505Z",
+        "updatedAt": "2025-08-23T06:38:28.505Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "f96277e6-1190-4ab9-9f3f-b20354e1a5cf",
+        "userId": "488b1495-61a4-48be-b9fb-fec8159919d4",
+        "areaId": "4d0b4a2c-4257-438d-a27e-731bfca2d571",
+        "createdAt": "2025-08-23T06:38:28.700Z",
+        "updatedAt": "2025-08-23T06:38:28.700Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "005ee3a7-d2dc-4b79-aa23-b64afb332e97",
+        "title": "DevOps Engineer Senior",
+        "description": "Atuei como DevOps Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.766Z",
+        "updatedAt": "2025-08-23T06:38:28.766Z",
+        "userId": "488b1495-61a4-48be-b9fb-fec8159919d4"
+      },
+      {
+        "id": "70a2031d-3754-49fb-8589-8665eaafce79",
+        "title": "DevOps Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como DevOps Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.767Z",
+        "updatedAt": "2025-08-23T06:38:28.767Z",
+        "userId": "488b1495-61a4-48be-b9fb-fec8159919d4"
+      }
+    ]
+  },
+  {
+    "id": "83318a9a-6889-4e76-83b5-08bb806e42f7",
+    "name": "Thiago Silva",
+    "email": "thiago.silva@email.com",
+    "password": "$2b$10$CQWXkFKoKUbQbZ9ku9YOXelJqCvHvco6WXmAEKIUzOH4FhXz1FIEG",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.794Z",
+    "updatedAt": "2025-08-23T06:38:26.794Z",
+    "skills": [
+      {
+        "id": "6039b0d0-e6e2-49e5-b346-18cd64a91ec3",
+        "userId": "83318a9a-6889-4e76-83b5-08bb806e42f7",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.506Z",
+        "updatedAt": "2025-08-23T06:38:28.506Z"
+      },
+      {
+        "id": "dba2d699-ab40-47b0-b763-ce8717b4d3d4",
+        "userId": "83318a9a-6889-4e76-83b5-08bb806e42f7",
+        "skillId": "6531052f-ee66-40ac-86b7-65e6de20f225",
+        "createdAt": "2025-08-23T06:38:28.507Z",
+        "updatedAt": "2025-08-23T06:38:28.507Z"
+      },
+      {
+        "id": "5602bf93-20ca-4f1b-bf15-65ca1b5a5e26",
+        "userId": "83318a9a-6889-4e76-83b5-08bb806e42f7",
+        "skillId": "3bedcb8d-7bf1-4d28-a156-5a03a504535e",
+        "createdAt": "2025-08-23T06:38:28.508Z",
+        "updatedAt": "2025-08-23T06:38:28.508Z"
+      },
+      {
+        "id": "6b8adb8f-5736-49e9-ac69-a6cc55a34928",
+        "userId": "83318a9a-6889-4e76-83b5-08bb806e42f7",
+        "skillId": "9b6be6f0-2236-4ad7-9251-a136c33d53d9",
+        "createdAt": "2025-08-23T06:38:28.509Z",
+        "updatedAt": "2025-08-23T06:38:28.509Z"
+      },
+      {
+        "id": "553275e4-6db6-49e3-8683-79a1633d842c",
+        "userId": "83318a9a-6889-4e76-83b5-08bb806e42f7",
+        "skillId": "e2402e12-27e5-4715-81e0-3a2a0a7ad705",
+        "createdAt": "2025-08-23T06:38:28.511Z",
+        "updatedAt": "2025-08-23T06:38:28.511Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "1359b33d-b8e3-4b60-8fca-1caab9a889a3",
+        "userId": "83318a9a-6889-4e76-83b5-08bb806e42f7",
+        "areaId": "4d0b4a2c-4257-438d-a27e-731bfca2d571",
+        "createdAt": "2025-08-23T06:38:28.701Z",
+        "updatedAt": "2025-08-23T06:38:28.701Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "061335fb-305e-4653-9657-206fc8749c2e",
+        "title": "DevOps Engineer Senior",
+        "description": "Atuei como DevOps Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.768Z",
+        "updatedAt": "2025-08-23T06:38:28.768Z",
+        "userId": "83318a9a-6889-4e76-83b5-08bb806e42f7"
+      },
+      {
+        "id": "6b998d84-46be-4e51-865e-f7151108d4bb",
+        "title": "DevOps Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como DevOps Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.768Z",
+        "updatedAt": "2025-08-23T06:38:28.768Z",
+        "userId": "83318a9a-6889-4e76-83b5-08bb806e42f7"
+      }
+    ]
+  },
+  {
+    "id": "6d481dff-53cc-4089-93a9-ac6d9164112a",
+    "name": "Bruno Costa",
+    "email": "bruno.costa@email.com",
+    "password": "$2b$10$/HMcfuCGaXC3QIi0uKG9XOQohuYPjdFKkH/TRbSYpr4S3thgc8N9C",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.849Z",
+    "updatedAt": "2025-08-23T06:38:26.849Z",
+    "skills": [
+      {
+        "id": "bebf0e09-c7a5-447a-a80f-be94c415a6cb",
+        "userId": "6d481dff-53cc-4089-93a9-ac6d9164112a",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.512Z",
+        "updatedAt": "2025-08-23T06:38:28.512Z"
+      },
+      {
+        "id": "e7311ead-dcd2-4302-935a-2806810f8fcd",
+        "userId": "6d481dff-53cc-4089-93a9-ac6d9164112a",
+        "skillId": "6531052f-ee66-40ac-86b7-65e6de20f225",
+        "createdAt": "2025-08-23T06:38:28.513Z",
+        "updatedAt": "2025-08-23T06:38:28.513Z"
+      },
+      {
+        "id": "8caac2e3-95d4-45fe-b6d8-ab56978d003e",
+        "userId": "6d481dff-53cc-4089-93a9-ac6d9164112a",
+        "skillId": "364412bf-1997-494d-98c0-f8fdb654384f",
+        "createdAt": "2025-08-23T06:38:28.514Z",
+        "updatedAt": "2025-08-23T06:38:28.514Z"
+      },
+      {
+        "id": "eda6bdd1-68ce-4409-a061-bf1668e09083",
+        "userId": "6d481dff-53cc-4089-93a9-ac6d9164112a",
+        "skillId": "e2402e12-27e5-4715-81e0-3a2a0a7ad705",
+        "createdAt": "2025-08-23T06:38:28.515Z",
+        "updatedAt": "2025-08-23T06:38:28.515Z"
+      },
+      {
+        "id": "b813a2a4-766f-49a5-ba3f-d12e3adb61cb",
+        "userId": "6d481dff-53cc-4089-93a9-ac6d9164112a",
+        "skillId": "bbf48240-eaa3-4c76-82dc-2c82b5949c27",
+        "createdAt": "2025-08-23T06:38:28.516Z",
+        "updatedAt": "2025-08-23T06:38:28.516Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "d212eb1c-f10e-4aa3-a189-0b3c9268358f",
+        "userId": "6d481dff-53cc-4089-93a9-ac6d9164112a",
+        "areaId": "4d0b4a2c-4257-438d-a27e-731bfca2d571",
+        "createdAt": "2025-08-23T06:38:28.702Z",
+        "updatedAt": "2025-08-23T06:38:28.702Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "0dfeb703-5ef2-4b0b-a5c4-e69b7ea65f9e",
+        "title": "DevOps Engineer Senior",
+        "description": "Atuei como DevOps Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.769Z",
+        "updatedAt": "2025-08-23T06:38:28.769Z",
+        "userId": "6d481dff-53cc-4089-93a9-ac6d9164112a"
+      },
+      {
+        "id": "6dcfe265-ca15-4a43-9e3f-713886c2e124",
+        "title": "DevOps Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como DevOps Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.770Z",
+        "updatedAt": "2025-08-23T06:38:28.770Z",
+        "userId": "6d481dff-53cc-4089-93a9-ac6d9164112a"
+      }
+    ]
+  },
+  {
+    "id": "24bebcbe-c71b-4049-9c1f-63faf6e8a268",
+    "name": "Felipe Santos",
+    "email": "felipe.santos@email.com",
+    "password": "$2b$10$V8y2vZNSTC9X0G.hgcbKsuR/AX0asdIDyE3bF1wENvd99mRNk/V7G",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.904Z",
+    "updatedAt": "2025-08-23T06:38:26.904Z",
+    "skills": [
+      {
+        "id": "2e914a3f-51fa-42cf-81a7-2895566b8a31",
+        "userId": "24bebcbe-c71b-4049-9c1f-63faf6e8a268",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.517Z",
+        "updatedAt": "2025-08-23T06:38:28.517Z"
+      },
+      {
+        "id": "9489aa3e-0058-46e7-afd0-579ba2372921",
+        "userId": "24bebcbe-c71b-4049-9c1f-63faf6e8a268",
+        "skillId": "6531052f-ee66-40ac-86b7-65e6de20f225",
+        "createdAt": "2025-08-23T06:38:28.518Z",
+        "updatedAt": "2025-08-23T06:38:28.518Z"
+      },
+      {
+        "id": "331dfba3-4cab-447a-8d96-42d711fd6394",
+        "userId": "24bebcbe-c71b-4049-9c1f-63faf6e8a268",
+        "skillId": "4cf77803-dd93-4eaa-a6a4-89e587d0f5e6",
+        "createdAt": "2025-08-23T06:38:28.519Z",
+        "updatedAt": "2025-08-23T06:38:28.519Z"
+      },
+      {
+        "id": "c4c3ffeb-65f9-46e1-94b8-2c28d44f085b",
+        "userId": "24bebcbe-c71b-4049-9c1f-63faf6e8a268",
+        "skillId": "c1023c97-8cd3-47d5-990a-918587426afa",
+        "createdAt": "2025-08-23T06:38:28.520Z",
+        "updatedAt": "2025-08-23T06:38:28.520Z"
+      },
+      {
+        "id": "ff2734dc-f5d4-4673-90a6-aa8937e85477",
+        "userId": "24bebcbe-c71b-4049-9c1f-63faf6e8a268",
+        "skillId": "e2402e12-27e5-4715-81e0-3a2a0a7ad705",
+        "createdAt": "2025-08-23T06:38:28.521Z",
+        "updatedAt": "2025-08-23T06:38:28.521Z"
+      },
+      {
+        "id": "ce00f446-015e-46f0-b5e0-c529d1c3f70e",
+        "userId": "24bebcbe-c71b-4049-9c1f-63faf6e8a268",
+        "skillId": "efe3ea17-e3ad-4e2a-afd1-01b242bb33f7",
+        "createdAt": "2025-08-23T06:38:28.522Z",
+        "updatedAt": "2025-08-23T06:38:28.522Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "d501e5f6-89ca-47ed-a74e-b1791165bc55",
+        "userId": "24bebcbe-c71b-4049-9c1f-63faf6e8a268",
+        "areaId": "4d0b4a2c-4257-438d-a27e-731bfca2d571",
+        "createdAt": "2025-08-23T06:38:28.703Z",
+        "updatedAt": "2025-08-23T06:38:28.703Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "6311e91c-d6cc-4668-b2ad-71aaeb534980",
+        "title": "DevOps Engineer Senior",
+        "description": "Atuei como DevOps Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.770Z",
+        "updatedAt": "2025-08-23T06:38:28.770Z",
+        "userId": "24bebcbe-c71b-4049-9c1f-63faf6e8a268"
+      },
+      {
+        "id": "412c73ed-96b9-418b-acff-d650257fd725",
+        "title": "DevOps Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como DevOps Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.771Z",
+        "updatedAt": "2025-08-23T06:38:28.771Z",
+        "userId": "24bebcbe-c71b-4049-9c1f-63faf6e8a268"
+      }
+    ]
+  },
+  {
+    "id": "f196a3b2-b82c-496e-aebe-883f6664356c",
+    "name": "Leonardo Lima",
+    "email": "leonardo.lima@email.com",
+    "password": "$2b$10$pqtrCirjyXOd8WeZHlANoOIRZEtPwkuOZBesCk3dQV9Rd8AB4LTTe",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:26.958Z",
+    "updatedAt": "2025-08-23T06:38:26.958Z",
+    "skills": [
+      {
+        "id": "3c8c4f0a-b953-4443-8ca7-1bf17b45db86",
+        "userId": "f196a3b2-b82c-496e-aebe-883f6664356c",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.523Z",
+        "updatedAt": "2025-08-23T06:38:28.523Z"
+      },
+      {
+        "id": "9334ff83-c0c2-49a4-947f-7af134beca81",
+        "userId": "f196a3b2-b82c-496e-aebe-883f6664356c",
+        "skillId": "6531052f-ee66-40ac-86b7-65e6de20f225",
+        "createdAt": "2025-08-23T06:38:28.524Z",
+        "updatedAt": "2025-08-23T06:38:28.524Z"
+      },
+      {
+        "id": "0a5314a9-553f-4559-b8a2-6d1699c1ab91",
+        "userId": "f196a3b2-b82c-496e-aebe-883f6664356c",
+        "skillId": "3bedcb8d-7bf1-4d28-a156-5a03a504535e",
+        "createdAt": "2025-08-23T06:38:28.525Z",
+        "updatedAt": "2025-08-23T06:38:28.525Z"
+      },
+      {
+        "id": "53ee678b-fb82-4f51-ab2f-f28c8e04ded7",
+        "userId": "f196a3b2-b82c-496e-aebe-883f6664356c",
+        "skillId": "d13c9129-4abc-42fa-9c72-35a70a0553d2",
+        "createdAt": "2025-08-23T06:38:28.526Z",
+        "updatedAt": "2025-08-23T06:38:28.526Z"
+      },
+      {
+        "id": "3c256acc-04aa-405d-8ce3-bd3ec3eda96f",
+        "userId": "f196a3b2-b82c-496e-aebe-883f6664356c",
+        "skillId": "e2402e12-27e5-4715-81e0-3a2a0a7ad705",
+        "createdAt": "2025-08-23T06:38:28.527Z",
+        "updatedAt": "2025-08-23T06:38:28.527Z"
+      },
+      {
+        "id": "19f9a380-1eee-4b5c-ba67-8cb6fcd4a6b0",
+        "userId": "f196a3b2-b82c-496e-aebe-883f6664356c",
+        "skillId": "66339687-69e5-434a-9078-e36c5fd38722",
+        "createdAt": "2025-08-23T06:38:28.528Z",
+        "updatedAt": "2025-08-23T06:38:28.528Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "8cd1ff80-82dd-41d7-bb2b-c8d8ada3a76d",
+        "userId": "f196a3b2-b82c-496e-aebe-883f6664356c",
+        "areaId": "4d0b4a2c-4257-438d-a27e-731bfca2d571",
+        "createdAt": "2025-08-23T06:38:28.704Z",
+        "updatedAt": "2025-08-23T06:38:28.704Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "8be21831-dee8-46f9-b182-e3796a739c29",
+        "title": "DevOps Engineer Senior",
+        "description": "Atuei como DevOps Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.772Z",
+        "updatedAt": "2025-08-23T06:38:28.772Z",
+        "userId": "f196a3b2-b82c-496e-aebe-883f6664356c"
+      },
+      {
+        "id": "0342b909-34c3-4cc3-a6be-7dfbb557e4a7",
+        "title": "DevOps Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como DevOps Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.773Z",
+        "updatedAt": "2025-08-23T06:38:28.773Z",
+        "userId": "f196a3b2-b82c-496e-aebe-883f6664356c"
+      }
+    ]
+  },
+  {
+    "id": "e28d5e06-6ba0-4bf8-9855-e6c673136648",
+    "name": "Juliana Lima",
+    "email": "juliana.lima@email.com",
+    "password": "$2b$10$3cD6Cgudchb9ZfBHJT4Uk.FI9BjDJRGUJuJZN8Vjv9.pdLdEt3pyC",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.014Z",
+    "updatedAt": "2025-08-23T06:38:27.014Z",
+    "skills": [
+      {
+        "id": "88ac49a4-f629-4187-8c99-476688e394af",
+        "userId": "e28d5e06-6ba0-4bf8-9855-e6c673136648",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.529Z",
+        "updatedAt": "2025-08-23T06:38:28.529Z"
+      },
+      {
+        "id": "e99c2650-bd8a-4239-8e5a-1512d4dab93b",
+        "userId": "e28d5e06-6ba0-4bf8-9855-e6c673136648",
+        "skillId": "c2e77151-5323-4a9f-aa50-7a233b46710a",
+        "createdAt": "2025-08-23T06:38:28.530Z",
+        "updatedAt": "2025-08-23T06:38:28.530Z"
+      },
+      {
+        "id": "5a480eec-6e8a-40ba-bd24-4875ceffc489",
+        "userId": "e28d5e06-6ba0-4bf8-9855-e6c673136648",
+        "skillId": "0af02b8e-18f1-48b8-839b-76f1e0739977",
+        "createdAt": "2025-08-23T06:38:28.531Z",
+        "updatedAt": "2025-08-23T06:38:28.531Z"
+      },
+      {
+        "id": "2ec3388e-2b98-445a-9fca-0ca02769e179",
+        "userId": "e28d5e06-6ba0-4bf8-9855-e6c673136648",
+        "skillId": "ed09e971-0986-4fd1-9e89-bf359882f842",
+        "createdAt": "2025-08-23T06:38:28.532Z",
+        "updatedAt": "2025-08-23T06:38:28.532Z"
+      },
+      {
+        "id": "e6d7adf6-fb14-4d8b-bb1e-990170fce14f",
+        "userId": "e28d5e06-6ba0-4bf8-9855-e6c673136648",
+        "skillId": "28ca7732-02ea-4b92-a1ce-957ce277a052",
+        "createdAt": "2025-08-23T06:38:28.533Z",
+        "updatedAt": "2025-08-23T06:38:28.533Z"
+      },
+      {
+        "id": "927f5966-1d96-47ac-a532-87ba5759eabb",
+        "userId": "e28d5e06-6ba0-4bf8-9855-e6c673136648",
+        "skillId": "0cab0740-aef7-4825-8b8f-ecd76bc73df6",
+        "createdAt": "2025-08-23T06:38:28.534Z",
+        "updatedAt": "2025-08-23T06:38:28.534Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "342d1990-7672-4378-9b5b-2ae077ed9b76",
+        "userId": "e28d5e06-6ba0-4bf8-9855-e6c673136648",
+        "areaId": "861ca763-69f7-4397-8b8b-deac3feed4eb",
+        "createdAt": "2025-08-23T06:38:28.705Z",
+        "updatedAt": "2025-08-23T06:38:28.705Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "bf597328-c42f-425b-ac65-b68a3424a13c",
+        "title": "Data Scientist Senior",
+        "description": "Atuei como Data Scientist senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.774Z",
+        "updatedAt": "2025-08-23T06:38:28.774Z",
+        "userId": "e28d5e06-6ba0-4bf8-9855-e6c673136648"
+      },
+      {
+        "id": "d7ef3a1d-209e-4905-b0f4-424c7eea81e5",
+        "title": "Data Scientist Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Data Scientist pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.775Z",
+        "updatedAt": "2025-08-23T06:38:28.775Z",
+        "userId": "e28d5e06-6ba0-4bf8-9855-e6c673136648"
+      }
+    ]
+  },
+  {
+    "id": "817e23b3-3f1a-4adc-bcbe-3ca6f283882e",
+    "name": "Beatriz Alves",
+    "email": "beatriz.alves@email.com",
+    "password": "$2b$10$q/cn476JEDC3C1cCi1Pd/uoaXZoiTa0Oj.iy/M/2HoXhznY3dtdD.",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.070Z",
+    "updatedAt": "2025-08-23T06:38:27.070Z",
+    "skills": [
+      {
+        "id": "894d7bec-9ed5-489a-8db0-006c85647b49",
+        "userId": "817e23b3-3f1a-4adc-bcbe-3ca6f283882e",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.535Z",
+        "updatedAt": "2025-08-23T06:38:28.535Z"
+      },
+      {
+        "id": "40f2cdc8-d331-4ec3-aa5a-8503119c7743",
+        "userId": "817e23b3-3f1a-4adc-bcbe-3ca6f283882e",
+        "skillId": "32295cf1-c26e-46a3-97d3-3012ae5fa5b8",
+        "createdAt": "2025-08-23T06:38:28.536Z",
+        "updatedAt": "2025-08-23T06:38:28.536Z"
+      },
+      {
+        "id": "740d1aac-783b-43c6-888d-41ca81585b15",
+        "userId": "817e23b3-3f1a-4adc-bcbe-3ca6f283882e",
+        "skillId": "0af02b8e-18f1-48b8-839b-76f1e0739977",
+        "createdAt": "2025-08-23T06:38:28.537Z",
+        "updatedAt": "2025-08-23T06:38:28.537Z"
+      },
+      {
+        "id": "0c50703d-1927-42f7-a0a4-a931eaa1a35f",
+        "userId": "817e23b3-3f1a-4adc-bcbe-3ca6f283882e",
+        "skillId": "ed09e971-0986-4fd1-9e89-bf359882f842",
+        "createdAt": "2025-08-23T06:38:28.538Z",
+        "updatedAt": "2025-08-23T06:38:28.538Z"
+      },
+      {
+        "id": "6a6d5c98-52f2-420b-b437-a68d131a0b96",
+        "userId": "817e23b3-3f1a-4adc-bcbe-3ca6f283882e",
+        "skillId": "fe2ae33e-6311-4df4-aa3b-6c8189035f77",
+        "createdAt": "2025-08-23T06:38:28.539Z",
+        "updatedAt": "2025-08-23T06:38:28.539Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "94429fd5-c771-4e85-b49b-2089056dce50",
+        "userId": "817e23b3-3f1a-4adc-bcbe-3ca6f283882e",
+        "areaId": "861ca763-69f7-4397-8b8b-deac3feed4eb",
+        "createdAt": "2025-08-23T06:38:28.707Z",
+        "updatedAt": "2025-08-23T06:38:28.707Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "8959e028-2739-4075-a818-3480cf3766de",
+        "title": "Data Scientist Senior",
+        "description": "Atuei como Data Scientist senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.775Z",
+        "updatedAt": "2025-08-23T06:38:28.775Z",
+        "userId": "817e23b3-3f1a-4adc-bcbe-3ca6f283882e"
+      },
+      {
+        "id": "332dd13e-1b1b-4612-8513-936d903d4f19",
+        "title": "Data Scientist Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Data Scientist pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.776Z",
+        "updatedAt": "2025-08-23T06:38:28.776Z",
+        "userId": "817e23b3-3f1a-4adc-bcbe-3ca6f283882e"
+      }
+    ]
+  },
+  {
+    "id": "1a89e6b8-caeb-402d-9d72-b1c6dbd39085",
+    "name": "Vanessa Costa",
+    "email": "vanessa.costa@email.com",
+    "password": "$2b$10$poUCLzCwJFbmksIyjKa.Te7t9GAD5SHKbPZ1Q1ZJGced9trozeEYi",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.125Z",
+    "updatedAt": "2025-08-23T06:38:27.125Z",
+    "skills": [
+      {
+        "id": "a213ebe7-ee4a-4046-bc65-0c62bbe0e688",
+        "userId": "1a89e6b8-caeb-402d-9d72-b1c6dbd39085",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.540Z",
+        "updatedAt": "2025-08-23T06:38:28.540Z"
+      },
+      {
+        "id": "fd713d29-9f50-446a-82e3-1bbb95123ee4",
+        "userId": "1a89e6b8-caeb-402d-9d72-b1c6dbd39085",
+        "skillId": "28ca7732-02ea-4b92-a1ce-957ce277a052",
+        "createdAt": "2025-08-23T06:38:28.541Z",
+        "updatedAt": "2025-08-23T06:38:28.541Z"
+      },
+      {
+        "id": "54d063e2-1c22-4fa9-8f8f-62ba2c501380",
+        "userId": "1a89e6b8-caeb-402d-9d72-b1c6dbd39085",
+        "skillId": "0af02b8e-18f1-48b8-839b-76f1e0739977",
+        "createdAt": "2025-08-23T06:38:28.542Z",
+        "updatedAt": "2025-08-23T06:38:28.542Z"
+      },
+      {
+        "id": "b8d5197f-6c32-4b01-b63c-0e4b4f1f879f",
+        "userId": "1a89e6b8-caeb-402d-9d72-b1c6dbd39085",
+        "skillId": "ed09e971-0986-4fd1-9e89-bf359882f842",
+        "createdAt": "2025-08-23T06:38:28.543Z",
+        "updatedAt": "2025-08-23T06:38:28.543Z"
+      },
+      {
+        "id": "a7cf6c6b-325a-4f52-8514-ba500bfb5ce4",
+        "userId": "1a89e6b8-caeb-402d-9d72-b1c6dbd39085",
+        "skillId": "0cab0740-aef7-4825-8b8f-ecd76bc73df6",
+        "createdAt": "2025-08-23T06:38:28.544Z",
+        "updatedAt": "2025-08-23T06:38:28.544Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "a0dd351c-f28c-4c8e-858a-a57abaa1fb52",
+        "userId": "1a89e6b8-caeb-402d-9d72-b1c6dbd39085",
+        "areaId": "861ca763-69f7-4397-8b8b-deac3feed4eb",
+        "createdAt": "2025-08-23T06:38:28.708Z",
+        "updatedAt": "2025-08-23T06:38:28.708Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "14df47ed-bb83-49dd-94ab-de9176a3d963",
+        "title": "Data Scientist Senior",
+        "description": "Atuei como Data Scientist senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.777Z",
+        "updatedAt": "2025-08-23T06:38:28.777Z",
+        "userId": "1a89e6b8-caeb-402d-9d72-b1c6dbd39085"
+      },
+      {
+        "id": "da4d4953-3c5e-47f5-8817-68415930386a",
+        "title": "Data Scientist Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Data Scientist pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.778Z",
+        "updatedAt": "2025-08-23T06:38:28.778Z",
+        "userId": "1a89e6b8-caeb-402d-9d72-b1c6dbd39085"
+      }
+    ]
+  },
+  {
+    "id": "735c5a74-26ac-4ec0-8c82-4d55ea124f1e",
+    "name": "Daniela Santos",
+    "email": "daniela.santos@email.com",
+    "password": "$2b$10$ZuT0KT2ccz//5lYr8L6AAObOsIw9OWT/mc/6jI/sRsM.mmmt.QLne",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.181Z",
+    "updatedAt": "2025-08-23T06:38:27.181Z",
+    "skills": [
+      {
+        "id": "5621c11b-6e37-449e-a204-6bdeb186fc79",
+        "userId": "735c5a74-26ac-4ec0-8c82-4d55ea124f1e",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.546Z",
+        "updatedAt": "2025-08-23T06:38:28.546Z"
+      },
+      {
+        "id": "15a3e5ce-5d00-44fc-bfc0-66a039be19e3",
+        "userId": "735c5a74-26ac-4ec0-8c82-4d55ea124f1e",
+        "skillId": "0af02b8e-18f1-48b8-839b-76f1e0739977",
+        "createdAt": "2025-08-23T06:38:28.547Z",
+        "updatedAt": "2025-08-23T06:38:28.547Z"
+      },
+      {
+        "id": "46aa671e-c8f9-4286-93ed-eb090a18eb4b",
+        "userId": "735c5a74-26ac-4ec0-8c82-4d55ea124f1e",
+        "skillId": "ed09e971-0986-4fd1-9e89-bf359882f842",
+        "createdAt": "2025-08-23T06:38:28.549Z",
+        "updatedAt": "2025-08-23T06:38:28.549Z"
+      },
+      {
+        "id": "fe2bc182-1e57-4af4-8046-5735e5d81e80",
+        "userId": "735c5a74-26ac-4ec0-8c82-4d55ea124f1e",
+        "skillId": "4fed5368-c1ca-4f3f-b469-1c86e74a8820",
+        "createdAt": "2025-08-23T06:38:28.550Z",
+        "updatedAt": "2025-08-23T06:38:28.550Z"
+      },
+      {
+        "id": "0ab8aae8-bc31-49c0-ba66-49cf1d378a55",
+        "userId": "735c5a74-26ac-4ec0-8c82-4d55ea124f1e",
+        "skillId": "6f0268d9-adc5-40a2-9f5d-a6a7172623ad",
+        "createdAt": "2025-08-23T06:38:28.551Z",
+        "updatedAt": "2025-08-23T06:38:28.551Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "abbf59bd-368a-4dfc-b2a2-51d07cfff8de",
+        "userId": "735c5a74-26ac-4ec0-8c82-4d55ea124f1e",
+        "areaId": "861ca763-69f7-4397-8b8b-deac3feed4eb",
+        "createdAt": "2025-08-23T06:38:28.709Z",
+        "updatedAt": "2025-08-23T06:38:28.709Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "92cf1812-e43d-4bc6-be6e-9d642d1ca951",
+        "title": "Data Scientist Senior",
+        "description": "Atuei como Data Scientist senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.779Z",
+        "updatedAt": "2025-08-23T06:38:28.779Z",
+        "userId": "735c5a74-26ac-4ec0-8c82-4d55ea124f1e"
+      },
+      {
+        "id": "d62802b1-7ff8-4fd1-b551-7407ab36d9af",
+        "title": "Data Scientist Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Data Scientist pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.779Z",
+        "updatedAt": "2025-08-23T06:38:28.779Z",
+        "userId": "735c5a74-26ac-4ec0-8c82-4d55ea124f1e"
+      }
+    ]
+  },
+  {
+    "id": "b0d95d67-e0bb-4534-b415-b4f50f5b49dd",
+    "name": "Larissa Ferreira",
+    "email": "larissa.ferreira@email.com",
+    "password": "$2b$10$dvxrc82do9fi.5eDkyvNZeDRLqddQJpYc0DOm2hRaJ3yKho63SIny",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.237Z",
+    "updatedAt": "2025-08-23T06:38:27.237Z",
+    "skills": [
+      {
+        "id": "33d7ff7c-204f-4376-9616-13e2ca6b98b0",
+        "userId": "b0d95d67-e0bb-4534-b415-b4f50f5b49dd",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.552Z",
+        "updatedAt": "2025-08-23T06:38:28.552Z"
+      },
+      {
+        "id": "c0eba473-8da2-4a3b-8dd7-9b66e2a87c65",
+        "userId": "b0d95d67-e0bb-4534-b415-b4f50f5b49dd",
+        "skillId": "c2e77151-5323-4a9f-aa50-7a233b46710a",
+        "createdAt": "2025-08-23T06:38:28.553Z",
+        "updatedAt": "2025-08-23T06:38:28.553Z"
+      },
+      {
+        "id": "daa64486-b8b6-4792-ac17-20346205ed4a",
+        "userId": "b0d95d67-e0bb-4534-b415-b4f50f5b49dd",
+        "skillId": "0af02b8e-18f1-48b8-839b-76f1e0739977",
+        "createdAt": "2025-08-23T06:38:28.555Z",
+        "updatedAt": "2025-08-23T06:38:28.555Z"
+      },
+      {
+        "id": "8eb22b39-f2aa-4b7e-86d5-13c1c3d3dd50",
+        "userId": "b0d95d67-e0bb-4534-b415-b4f50f5b49dd",
+        "skillId": "ed09e971-0986-4fd1-9e89-bf359882f842",
+        "createdAt": "2025-08-23T06:38:28.556Z",
+        "updatedAt": "2025-08-23T06:38:28.556Z"
+      },
+      {
+        "id": "abc4f2db-6171-4385-bebb-ce695627fb83",
+        "userId": "b0d95d67-e0bb-4534-b415-b4f50f5b49dd",
+        "skillId": "1b3e677b-7fec-4c1d-b156-25f331c5cc05",
+        "createdAt": "2025-08-23T06:38:28.557Z",
+        "updatedAt": "2025-08-23T06:38:28.557Z"
+      },
+      {
+        "id": "775e4020-2e1d-448b-8976-b026cd81acac",
+        "userId": "b0d95d67-e0bb-4534-b415-b4f50f5b49dd",
+        "skillId": "0cab0740-aef7-4825-8b8f-ecd76bc73df6",
+        "createdAt": "2025-08-23T06:38:28.558Z",
+        "updatedAt": "2025-08-23T06:38:28.558Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "57a4d7e7-afef-4010-87eb-ab51a295292e",
+        "userId": "b0d95d67-e0bb-4534-b415-b4f50f5b49dd",
+        "areaId": "861ca763-69f7-4397-8b8b-deac3feed4eb",
+        "createdAt": "2025-08-23T06:38:28.710Z",
+        "updatedAt": "2025-08-23T06:38:28.710Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "c70ccf5e-d241-4857-a575-9b44178cfdda",
+        "title": "Data Scientist Senior",
+        "description": "Atuei como Data Scientist senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.780Z",
+        "updatedAt": "2025-08-23T06:38:28.780Z",
+        "userId": "b0d95d67-e0bb-4534-b415-b4f50f5b49dd"
+      },
+      {
+        "id": "d9c9c8f8-fa9a-42a3-bb2d-7a43f182b307",
+        "title": "Data Scientist Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Data Scientist pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.781Z",
+        "updatedAt": "2025-08-23T06:38:28.781Z",
+        "userId": "b0d95d67-e0bb-4534-b415-b4f50f5b49dd"
+      }
+    ]
+  },
+  {
+    "id": "88dad23c-3651-4a0f-b9e0-c8245801c15b",
+    "name": "Alexandre Costa",
+    "email": "alexandre.costa@email.com",
+    "password": "$2b$10$RN9D9WbbJk.yoYtZXbyBEusuSX58Pl2jA.CeW.JHk9ggA.L4bgkuK",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.293Z",
+    "updatedAt": "2025-08-23T06:38:27.293Z",
+    "skills": [
+      {
+        "id": "444772c9-4e56-413c-aa3b-eed8b25a9bd4",
+        "userId": "88dad23c-3651-4a0f-b9e0-c8245801c15b",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.559Z",
+        "updatedAt": "2025-08-23T06:38:28.559Z"
+      },
+      {
+        "id": "61ecc57a-619f-4f8c-8d62-4a7689b34185",
+        "userId": "88dad23c-3651-4a0f-b9e0-c8245801c15b",
+        "skillId": "dd2ec687-a1e6-463d-8201-700803d829e2",
+        "createdAt": "2025-08-23T06:38:28.560Z",
+        "updatedAt": "2025-08-23T06:38:28.560Z"
+      },
+      {
+        "id": "5675d6ca-ed2a-40ae-a393-d03d323d1f09",
+        "userId": "88dad23c-3651-4a0f-b9e0-c8245801c15b",
+        "skillId": "b4dea1ce-c0bb-4dcc-9343-0b158b06ddd4",
+        "createdAt": "2025-08-23T06:38:28.561Z",
+        "updatedAt": "2025-08-23T06:38:28.561Z"
+      },
+      {
+        "id": "3b2810de-5df6-4ab6-9cde-3bdb261ddd3e",
+        "userId": "88dad23c-3651-4a0f-b9e0-c8245801c15b",
+        "skillId": "9bb307b2-d4a1-4998-9163-c60009e80846",
+        "createdAt": "2025-08-23T06:38:28.562Z",
+        "updatedAt": "2025-08-23T06:38:28.562Z"
+      },
+      {
+        "id": "5016eb7d-d640-45d9-9afe-7aae22fd4677",
+        "userId": "88dad23c-3651-4a0f-b9e0-c8245801c15b",
+        "skillId": "3ffb572f-4be4-48c0-9fce-70b4194c7672",
+        "createdAt": "2025-08-23T06:38:28.563Z",
+        "updatedAt": "2025-08-23T06:38:28.563Z"
+      },
+      {
+        "id": "f604832a-dc76-4b24-8262-a7866f286bdd",
+        "userId": "88dad23c-3651-4a0f-b9e0-c8245801c15b",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.564Z",
+        "updatedAt": "2025-08-23T06:38:28.564Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "177f58f4-e674-435c-9bb8-8b4e6e19d9ca",
+        "userId": "88dad23c-3651-4a0f-b9e0-c8245801c15b",
+        "areaId": "fcb62e88-32ca-400b-8dc6-fdab4c37b568",
+        "createdAt": "2025-08-23T06:38:28.711Z",
+        "updatedAt": "2025-08-23T06:38:28.711Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "2dc33eeb-cf58-4084-9fa7-9b78bce54918",
+        "title": "Security Engineer Senior",
+        "description": "Atuei como Security Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.781Z",
+        "updatedAt": "2025-08-23T06:38:28.781Z",
+        "userId": "88dad23c-3651-4a0f-b9e0-c8245801c15b"
+      },
+      {
+        "id": "05492550-81f5-4fd6-9d66-c19f67385b9c",
+        "title": "Security Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Security Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.782Z",
+        "updatedAt": "2025-08-23T06:38:28.782Z",
+        "userId": "88dad23c-3651-4a0f-b9e0-c8245801c15b"
+      }
+    ]
+  },
+  {
+    "id": "9923a18f-b9f0-43ea-9e3c-862fe20797e6",
+    "name": "Rodrigo Silva",
+    "email": "rodrigo.silva@email.com",
+    "password": "$2b$10$RiEcih7gax7eiZtpxDoRzetbXdi5DRg7IhcF/sUvW5JTjNEx0jJ6K",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.348Z",
+    "updatedAt": "2025-08-23T06:38:27.348Z",
+    "skills": [
+      {
+        "id": "3a2aec3d-11e4-4733-9008-25c5ee14fa74",
+        "userId": "9923a18f-b9f0-43ea-9e3c-862fe20797e6",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.565Z",
+        "updatedAt": "2025-08-23T06:38:28.565Z"
+      },
+      {
+        "id": "ce2b0614-fa40-4062-9eb4-40edd1ccaf97",
+        "userId": "9923a18f-b9f0-43ea-9e3c-862fe20797e6",
+        "skillId": "d87f4e8a-1cf4-4940-80c9-0256419d10a1",
+        "createdAt": "2025-08-23T06:38:28.566Z",
+        "updatedAt": "2025-08-23T06:38:28.566Z"
+      },
+      {
+        "id": "a9a819a4-3bbe-4779-8763-a1bc85626f4a",
+        "userId": "9923a18f-b9f0-43ea-9e3c-862fe20797e6",
+        "skillId": "3ad8e51c-98b2-49d3-82d1-a91edf070911",
+        "createdAt": "2025-08-23T06:38:28.568Z",
+        "updatedAt": "2025-08-23T06:38:28.568Z"
+      },
+      {
+        "id": "bb693b2a-b0be-4e62-a6a0-25a6f3efa235",
+        "userId": "9923a18f-b9f0-43ea-9e3c-862fe20797e6",
+        "skillId": "9bb307b2-d4a1-4998-9163-c60009e80846",
+        "createdAt": "2025-08-23T06:38:28.569Z",
+        "updatedAt": "2025-08-23T06:38:28.569Z"
+      },
+      {
+        "id": "54bbfa9e-92b8-4dda-ac65-e0e1e8e12f9b",
+        "userId": "9923a18f-b9f0-43ea-9e3c-862fe20797e6",
+        "skillId": "3ffb572f-4be4-48c0-9fce-70b4194c7672",
+        "createdAt": "2025-08-23T06:38:28.569Z",
+        "updatedAt": "2025-08-23T06:38:28.569Z"
+      },
+      {
+        "id": "c2197e90-0bc8-463b-97f8-a99f897ce293",
+        "userId": "9923a18f-b9f0-43ea-9e3c-862fe20797e6",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.571Z",
+        "updatedAt": "2025-08-23T06:38:28.571Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "f928cd69-b9dc-4bc9-83c4-de4a1e3281e3",
+        "userId": "9923a18f-b9f0-43ea-9e3c-862fe20797e6",
+        "areaId": "fcb62e88-32ca-400b-8dc6-fdab4c37b568",
+        "createdAt": "2025-08-23T06:38:28.712Z",
+        "updatedAt": "2025-08-23T06:38:28.712Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "e437a831-50d7-400d-8fdf-9167600dac43",
+        "title": "Security Engineer Senior",
+        "description": "Atuei como Security Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.783Z",
+        "updatedAt": "2025-08-23T06:38:28.783Z",
+        "userId": "9923a18f-b9f0-43ea-9e3c-862fe20797e6"
+      },
+      {
+        "id": "4031fffb-4eab-4051-8c1b-f56065d153cb",
+        "title": "Security Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Security Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.784Z",
+        "updatedAt": "2025-08-23T06:38:28.784Z",
+        "userId": "9923a18f-b9f0-43ea-9e3c-862fe20797e6"
+      }
+    ]
+  },
+  {
+    "id": "48a35371-5743-4b01-a70b-0c5d65d37b73",
+    "name": "Eduardo Santos",
+    "email": "eduardo.santos@email.com",
+    "password": "$2b$10$sjKMa7TbSyrSlMqT03i84OgiVB8v0EA858ySlQzeBtgC9dx7ip11y",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.403Z",
+    "updatedAt": "2025-08-23T06:38:27.403Z",
+    "skills": [
+      {
+        "id": "203bee53-446e-41ea-b716-f80ac7e66946",
+        "userId": "48a35371-5743-4b01-a70b-0c5d65d37b73",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.572Z",
+        "updatedAt": "2025-08-23T06:38:28.572Z"
+      },
+      {
+        "id": "d10f7143-f24e-40c7-94ff-d4a7239f5729",
+        "userId": "48a35371-5743-4b01-a70b-0c5d65d37b73",
+        "skillId": "dd2ec687-a1e6-463d-8201-700803d829e2",
+        "createdAt": "2025-08-23T06:38:28.573Z",
+        "updatedAt": "2025-08-23T06:38:28.573Z"
+      },
+      {
+        "id": "cb853c60-3845-4710-b550-7dd6638eac5e",
+        "userId": "48a35371-5743-4b01-a70b-0c5d65d37b73",
+        "skillId": "b4dea1ce-c0bb-4dcc-9343-0b158b06ddd4",
+        "createdAt": "2025-08-23T06:38:28.574Z",
+        "updatedAt": "2025-08-23T06:38:28.574Z"
+      },
+      {
+        "id": "66ae7193-48c5-4803-aecf-5bd90e8d490f",
+        "userId": "48a35371-5743-4b01-a70b-0c5d65d37b73",
+        "skillId": "9bb307b2-d4a1-4998-9163-c60009e80846",
+        "createdAt": "2025-08-23T06:38:28.575Z",
+        "updatedAt": "2025-08-23T06:38:28.575Z"
+      },
+      {
+        "id": "be80b3a5-f1c1-457e-b8a2-9c5f5d098068",
+        "userId": "48a35371-5743-4b01-a70b-0c5d65d37b73",
+        "skillId": "3ffb572f-4be4-48c0-9fce-70b4194c7672",
+        "createdAt": "2025-08-23T06:38:28.576Z",
+        "updatedAt": "2025-08-23T06:38:28.576Z"
+      },
+      {
+        "id": "f6e140a5-5c10-4015-aaec-efbd84bb8a9e",
+        "userId": "48a35371-5743-4b01-a70b-0c5d65d37b73",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.577Z",
+        "updatedAt": "2025-08-23T06:38:28.577Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "21728253-21f6-4805-8e07-4da783b262b1",
+        "userId": "48a35371-5743-4b01-a70b-0c5d65d37b73",
+        "areaId": "fcb62e88-32ca-400b-8dc6-fdab4c37b568",
+        "createdAt": "2025-08-23T06:38:28.713Z",
+        "updatedAt": "2025-08-23T06:38:28.713Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "daf435b3-3da7-47a0-97fb-6fd03b8a3fc7",
+        "title": "Security Engineer Senior",
+        "description": "Atuei como Security Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.785Z",
+        "updatedAt": "2025-08-23T06:38:28.785Z",
+        "userId": "48a35371-5743-4b01-a70b-0c5d65d37b73"
+      },
+      {
+        "id": "5f8d5e68-99af-4779-b035-108734531192",
+        "title": "Security Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Security Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.785Z",
+        "updatedAt": "2025-08-23T06:38:28.785Z",
+        "userId": "48a35371-5743-4b01-a70b-0c5d65d37b73"
+      }
+    ]
+  },
+  {
+    "id": "1a24a3c9-4b79-42bc-be4e-5a11316d7433",
+    "name": "Guilherme Lima",
+    "email": "guilherme.lima@email.com",
+    "password": "$2b$10$8mrpwZmrKKVa5Lde0zrgoOhPPIguTMbEBrliNHlUcMmLQ8G66nBkG",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.459Z",
+    "updatedAt": "2025-08-23T06:38:27.459Z",
+    "skills": [
+      {
+        "id": "37d3f61d-74f7-4ecb-a825-cd1ce7cbb581",
+        "userId": "1a24a3c9-4b79-42bc-be4e-5a11316d7433",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.578Z",
+        "updatedAt": "2025-08-23T06:38:28.578Z"
+      },
+      {
+        "id": "e900301f-4a21-445e-99a0-5ea9e3c788be",
+        "userId": "1a24a3c9-4b79-42bc-be4e-5a11316d7433",
+        "skillId": "d87f4e8a-1cf4-4940-80c9-0256419d10a1",
+        "createdAt": "2025-08-23T06:38:28.579Z",
+        "updatedAt": "2025-08-23T06:38:28.579Z"
+      },
+      {
+        "id": "86acf029-6000-416a-88f7-47d9f314f438",
+        "userId": "1a24a3c9-4b79-42bc-be4e-5a11316d7433",
+        "skillId": "9bb307b2-d4a1-4998-9163-c60009e80846",
+        "createdAt": "2025-08-23T06:38:28.580Z",
+        "updatedAt": "2025-08-23T06:38:28.580Z"
+      },
+      {
+        "id": "ccf2d135-e9af-4285-9135-48dff9fdbd4c",
+        "userId": "1a24a3c9-4b79-42bc-be4e-5a11316d7433",
+        "skillId": "3ffb572f-4be4-48c0-9fce-70b4194c7672",
+        "createdAt": "2025-08-23T06:38:28.581Z",
+        "updatedAt": "2025-08-23T06:38:28.581Z"
+      },
+      {
+        "id": "4dd3a989-fd8b-4df8-9ad5-340bfd5d1d88",
+        "userId": "1a24a3c9-4b79-42bc-be4e-5a11316d7433",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.582Z",
+        "updatedAt": "2025-08-23T06:38:28.582Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "5badb1b7-e0e9-44d4-a58c-184684800b70",
+        "userId": "1a24a3c9-4b79-42bc-be4e-5a11316d7433",
+        "areaId": "fcb62e88-32ca-400b-8dc6-fdab4c37b568",
+        "createdAt": "2025-08-23T06:38:28.714Z",
+        "updatedAt": "2025-08-23T06:38:28.714Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "9347d042-1b30-488d-bb5e-5a51455d5692",
+        "title": "Security Engineer Senior",
+        "description": "Atuei como Security Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.786Z",
+        "updatedAt": "2025-08-23T06:38:28.786Z",
+        "userId": "1a24a3c9-4b79-42bc-be4e-5a11316d7433"
+      },
+      {
+        "id": "3a5ce7f4-bcfc-4a3d-9ece-d928e757dde3",
+        "title": "Security Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Security Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.787Z",
+        "updatedAt": "2025-08-23T06:38:28.787Z",
+        "userId": "1a24a3c9-4b79-42bc-be4e-5a11316d7433"
+      }
+    ]
+  },
+  {
+    "id": "141d7b97-6c11-42bf-93c0-f46243ff3c3f",
+    "name": "Matheus Costa",
+    "email": "matheus.costa@email.com",
+    "password": "$2b$10$BB1mK9UtZGZ1zh1Ol4Wa7.rAYMsNGJyyf6B04bW5R2FDOLtACywZ.",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.531Z",
+    "updatedAt": "2025-08-23T06:38:27.531Z",
+    "skills": [
+      {
+        "id": "f9866eab-3b4d-4a79-bed3-4cc4779d437d",
+        "userId": "141d7b97-6c11-42bf-93c0-f46243ff3c3f",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.583Z",
+        "updatedAt": "2025-08-23T06:38:28.583Z"
+      },
+      {
+        "id": "f40428d4-679f-4fdb-a227-45cd1110c30c",
+        "userId": "141d7b97-6c11-42bf-93c0-f46243ff3c3f",
+        "skillId": "dd2ec687-a1e6-463d-8201-700803d829e2",
+        "createdAt": "2025-08-23T06:38:28.584Z",
+        "updatedAt": "2025-08-23T06:38:28.584Z"
+      },
+      {
+        "id": "fa7f5460-6743-4084-b75b-64c438636e25",
+        "userId": "141d7b97-6c11-42bf-93c0-f46243ff3c3f",
+        "skillId": "b4dea1ce-c0bb-4dcc-9343-0b158b06ddd4",
+        "createdAt": "2025-08-23T06:38:28.585Z",
+        "updatedAt": "2025-08-23T06:38:28.585Z"
+      },
+      {
+        "id": "f5c07420-56d3-47a2-9e8a-08802be22c9b",
+        "userId": "141d7b97-6c11-42bf-93c0-f46243ff3c3f",
+        "skillId": "9bb307b2-d4a1-4998-9163-c60009e80846",
+        "createdAt": "2025-08-23T06:38:28.586Z",
+        "updatedAt": "2025-08-23T06:38:28.586Z"
+      },
+      {
+        "id": "724ef88a-3575-421d-9d70-b7efbf6e8530",
+        "userId": "141d7b97-6c11-42bf-93c0-f46243ff3c3f",
+        "skillId": "3ffb572f-4be4-48c0-9fce-70b4194c7672",
+        "createdAt": "2025-08-23T06:38:28.587Z",
+        "updatedAt": "2025-08-23T06:38:28.587Z"
+      },
+      {
+        "id": "bf774dfe-d623-4081-ba4f-8191b5914812",
+        "userId": "141d7b97-6c11-42bf-93c0-f46243ff3c3f",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.588Z",
+        "updatedAt": "2025-08-23T06:38:28.588Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "8616cc77-8319-40cd-9a48-498d37f39c4c",
+        "userId": "141d7b97-6c11-42bf-93c0-f46243ff3c3f",
+        "areaId": "fcb62e88-32ca-400b-8dc6-fdab4c37b568",
+        "createdAt": "2025-08-23T06:38:28.715Z",
+        "updatedAt": "2025-08-23T06:38:28.715Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "c57ab584-74c6-46ed-a728-d982c1f3149f",
+        "title": "Security Engineer Senior",
+        "description": "Atuei como Security Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.788Z",
+        "updatedAt": "2025-08-23T06:38:28.788Z",
+        "userId": "141d7b97-6c11-42bf-93c0-f46243ff3c3f"
+      },
+      {
+        "id": "d815c4eb-6542-4171-af5a-0ad49e789679",
+        "title": "Security Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Security Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.788Z",
+        "updatedAt": "2025-08-23T06:38:28.788Z",
+        "userId": "141d7b97-6c11-42bf-93c0-f46243ff3c3f"
+      }
+    ]
+  },
+  {
+    "id": "35672e11-d5f6-48ff-a0ce-0ac7334d2b63",
+    "name": "Sofia Alves",
+    "email": "sofia.alves@email.com",
+    "password": "$2b$10$cIVaWUM8scv.9ZziGdG/yuCLn55fQVqIHh2xMvloUxMobOTzJ1XXq",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.590Z",
+    "updatedAt": "2025-08-23T06:38:27.590Z",
+    "skills": [
+      {
+        "id": "28f761c5-e4e1-4b26-82c2-c108c22dc51b",
+        "userId": "35672e11-d5f6-48ff-a0ce-0ac7334d2b63",
+        "skillId": "7c9e5942-a2d6-49da-b099-18a016fbdaf3",
+        "createdAt": "2025-08-23T06:38:28.590Z",
+        "updatedAt": "2025-08-23T06:38:28.590Z"
+      },
+      {
+        "id": "d795ef81-c57f-4dc3-9cac-ba0aa14b208b",
+        "userId": "35672e11-d5f6-48ff-a0ce-0ac7334d2b63",
+        "skillId": "1122dab5-17a1-4010-9cf5-8f5c3e57ead7",
+        "createdAt": "2025-08-23T06:38:28.591Z",
+        "updatedAt": "2025-08-23T06:38:28.591Z"
+      },
+      {
+        "id": "ce04c00f-56ff-463e-b6f0-7786413de08e",
+        "userId": "35672e11-d5f6-48ff-a0ce-0ac7334d2b63",
+        "skillId": "fe980b1f-e296-4c51-bb30-89794ec40051",
+        "createdAt": "2025-08-23T06:38:28.592Z",
+        "updatedAt": "2025-08-23T06:38:28.592Z"
+      },
+      {
+        "id": "c7c8d3f5-7e41-4520-9c5f-1f5bd0e043be",
+        "userId": "35672e11-d5f6-48ff-a0ce-0ac7334d2b63",
+        "skillId": "f7ef7146-92c9-45d6-beea-678625a640d5",
+        "createdAt": "2025-08-23T06:38:28.593Z",
+        "updatedAt": "2025-08-23T06:38:28.593Z"
+      },
+      {
+        "id": "26e14fd6-e454-4e10-9a36-d15faf788246",
+        "userId": "35672e11-d5f6-48ff-a0ce-0ac7334d2b63",
+        "skillId": "8dc1715d-495b-4a6b-92f6-2d5203904a50",
+        "createdAt": "2025-08-23T06:38:28.594Z",
+        "updatedAt": "2025-08-23T06:38:28.594Z"
+      },
+      {
+        "id": "388d30ad-aefd-4357-accb-d5654b9faf34",
+        "userId": "35672e11-d5f6-48ff-a0ce-0ac7334d2b63",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.595Z",
+        "updatedAt": "2025-08-23T06:38:28.595Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "b5d2469f-06f8-4f67-8389-2f40a7529c5e",
+        "userId": "35672e11-d5f6-48ff-a0ce-0ac7334d2b63",
+        "areaId": "f1617bab-f5ca-4cb2-a77d-731e27eb0226",
+        "createdAt": "2025-08-23T06:38:28.716Z",
+        "updatedAt": "2025-08-23T06:38:28.716Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "10d8b8e7-1321-47d0-b826-3f98f38c06f2",
+        "title": "Product Manager Senior",
+        "description": "Atuei como Product Manager senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.789Z",
+        "updatedAt": "2025-08-23T06:38:28.789Z",
+        "userId": "35672e11-d5f6-48ff-a0ce-0ac7334d2b63"
+      },
+      {
+        "id": "d2d6956f-99a8-4bb3-847c-f62f795e7749",
+        "title": "Product Manager Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Product Manager pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.790Z",
+        "updatedAt": "2025-08-23T06:38:28.790Z",
+        "userId": "35672e11-d5f6-48ff-a0ce-0ac7334d2b63"
+      }
+    ]
+  },
+  {
+    "id": "b7664a3e-fa8b-4c9a-8a9c-f9bda857fb2a",
+    "name": "Valentina Costa",
+    "email": "valentina.costa@email.com",
+    "password": "$2b$10$a31xzhk1r9RHxx1oLYyKkOMsvfhqcdEHKQJVipMWwsoX5UsrRIFjW",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.646Z",
+    "updatedAt": "2025-08-23T06:38:27.646Z",
+    "skills": [
+      {
+        "id": "f032a128-ec42-4b8a-be9f-a3d640c40975",
+        "userId": "b7664a3e-fa8b-4c9a-8a9c-f9bda857fb2a",
+        "skillId": "7c9e5942-a2d6-49da-b099-18a016fbdaf3",
+        "createdAt": "2025-08-23T06:38:28.596Z",
+        "updatedAt": "2025-08-23T06:38:28.596Z"
+      },
+      {
+        "id": "b6464edd-cc79-437d-8ebc-1f14ccfb25ce",
+        "userId": "b7664a3e-fa8b-4c9a-8a9c-f9bda857fb2a",
+        "skillId": "1122dab5-17a1-4010-9cf5-8f5c3e57ead7",
+        "createdAt": "2025-08-23T06:38:28.598Z",
+        "updatedAt": "2025-08-23T06:38:28.598Z"
+      },
+      {
+        "id": "844f0c3a-ada0-42e9-af0d-29e4c15eae60",
+        "userId": "b7664a3e-fa8b-4c9a-8a9c-f9bda857fb2a",
+        "skillId": "fe980b1f-e296-4c51-bb30-89794ec40051",
+        "createdAt": "2025-08-23T06:38:28.599Z",
+        "updatedAt": "2025-08-23T06:38:28.599Z"
+      },
+      {
+        "id": "a7754072-5043-4611-8eb4-dc9c286231fe",
+        "userId": "b7664a3e-fa8b-4c9a-8a9c-f9bda857fb2a",
+        "skillId": "f7ef7146-92c9-45d6-beea-678625a640d5",
+        "createdAt": "2025-08-23T06:38:28.600Z",
+        "updatedAt": "2025-08-23T06:38:28.600Z"
+      },
+      {
+        "id": "952b60ca-9a75-4e78-96e1-716b0c5a4b9c",
+        "userId": "b7664a3e-fa8b-4c9a-8a9c-f9bda857fb2a",
+        "skillId": "8dc1715d-495b-4a6b-92f6-2d5203904a50",
+        "createdAt": "2025-08-23T06:38:28.602Z",
+        "updatedAt": "2025-08-23T06:38:28.602Z"
+      },
+      {
+        "id": "428ca1d4-cd51-4766-a81b-597fabf1b55c",
+        "userId": "b7664a3e-fa8b-4c9a-8a9c-f9bda857fb2a",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.603Z",
+        "updatedAt": "2025-08-23T06:38:28.603Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "7ebcbbf1-8881-4b55-9dd6-531940c01e79",
+        "userId": "b7664a3e-fa8b-4c9a-8a9c-f9bda857fb2a",
+        "areaId": "f1617bab-f5ca-4cb2-a77d-731e27eb0226",
+        "createdAt": "2025-08-23T06:38:28.718Z",
+        "updatedAt": "2025-08-23T06:38:28.718Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "a9cd4993-8b09-47f4-af6d-1d73271e372d",
+        "title": "Product Manager Senior",
+        "description": "Atuei como Product Manager senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.791Z",
+        "updatedAt": "2025-08-23T06:38:28.791Z",
+        "userId": "b7664a3e-fa8b-4c9a-8a9c-f9bda857fb2a"
+      },
+      {
+        "id": "1a12bd80-6c39-4a1e-9bbf-33296d3cc1de",
+        "title": "Product Manager Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Product Manager pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.791Z",
+        "updatedAt": "2025-08-23T06:38:28.791Z",
+        "userId": "b7664a3e-fa8b-4c9a-8a9c-f9bda857fb2a"
+      }
+    ]
+  },
+  {
+    "id": "5b7fc7b8-b1a0-4691-a0af-6b4f4ce5e761",
+    "name": "Helena Santos",
+    "email": "helena.santos@email.com",
+    "password": "$2b$10$mceNkJZiIQUcsN9qo4FmhuMuu6cUSXTwYdz88VouUFAfBzYZMZqpC",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.703Z",
+    "updatedAt": "2025-08-23T06:38:27.703Z",
+    "skills": [
+      {
+        "id": "4303042d-2fc8-411c-bb73-8231909efa31",
+        "userId": "5b7fc7b8-b1a0-4691-a0af-6b4f4ce5e761",
+        "skillId": "7c9e5942-a2d6-49da-b099-18a016fbdaf3",
+        "createdAt": "2025-08-23T06:38:28.605Z",
+        "updatedAt": "2025-08-23T06:38:28.605Z"
+      },
+      {
+        "id": "472d75f1-f1b9-4be7-8d51-fc9b69667f93",
+        "userId": "5b7fc7b8-b1a0-4691-a0af-6b4f4ce5e761",
+        "skillId": "1122dab5-17a1-4010-9cf5-8f5c3e57ead7",
+        "createdAt": "2025-08-23T06:38:28.606Z",
+        "updatedAt": "2025-08-23T06:38:28.606Z"
+      },
+      {
+        "id": "497badf6-832e-41db-bbcf-0d87b6017294",
+        "userId": "5b7fc7b8-b1a0-4691-a0af-6b4f4ce5e761",
+        "skillId": "fe980b1f-e296-4c51-bb30-89794ec40051",
+        "createdAt": "2025-08-23T06:38:28.607Z",
+        "updatedAt": "2025-08-23T06:38:28.607Z"
+      },
+      {
+        "id": "d94e2329-feb2-4b40-ac97-3a535969efbf",
+        "userId": "5b7fc7b8-b1a0-4691-a0af-6b4f4ce5e761",
+        "skillId": "f7ef7146-92c9-45d6-beea-678625a640d5",
+        "createdAt": "2025-08-23T06:38:28.608Z",
+        "updatedAt": "2025-08-23T06:38:28.608Z"
+      },
+      {
+        "id": "8e581813-8fe5-495f-9aa0-d1163b47d35b",
+        "userId": "5b7fc7b8-b1a0-4691-a0af-6b4f4ce5e761",
+        "skillId": "8dc1715d-495b-4a6b-92f6-2d5203904a50",
+        "createdAt": "2025-08-23T06:38:28.609Z",
+        "updatedAt": "2025-08-23T06:38:28.609Z"
+      },
+      {
+        "id": "358eeb7e-f5c5-4009-b829-a76d15c68090",
+        "userId": "5b7fc7b8-b1a0-4691-a0af-6b4f4ce5e761",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.611Z",
+        "updatedAt": "2025-08-23T06:38:28.611Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "f8d7caa4-f09b-4052-b983-d4813dddd0e1",
+        "userId": "5b7fc7b8-b1a0-4691-a0af-6b4f4ce5e761",
+        "areaId": "f1617bab-f5ca-4cb2-a77d-731e27eb0226",
+        "createdAt": "2025-08-23T06:38:28.719Z",
+        "updatedAt": "2025-08-23T06:38:28.719Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "831fa9a6-0ad3-4f1f-92bd-951665d5220f",
+        "title": "Product Manager Senior",
+        "description": "Atuei como Product Manager senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.792Z",
+        "updatedAt": "2025-08-23T06:38:28.792Z",
+        "userId": "5b7fc7b8-b1a0-4691-a0af-6b4f4ce5e761"
+      },
+      {
+        "id": "cef5ce18-3ecc-4420-80f7-9eb54914d63a",
+        "title": "Product Manager Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Product Manager pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.793Z",
+        "updatedAt": "2025-08-23T06:38:28.793Z",
+        "userId": "5b7fc7b8-b1a0-4691-a0af-6b4f4ce5e761"
+      }
+    ]
+  },
+  {
+    "id": "8c7fb368-6080-4681-ae98-ce4ca53d0de7",
+    "name": "Alice Ferreira",
+    "email": "alice.ferreira@email.com",
+    "password": "$2b$10$mdiGnO6Zo3tgrgoMO3nuU.fZ3TraBshBsBDgLPz5jCF5XIiuDgx06",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.760Z",
+    "updatedAt": "2025-08-23T06:38:27.760Z",
+    "skills": [
+      {
+        "id": "a0512ae5-38a8-4040-9d68-60b25a9556a4",
+        "userId": "8c7fb368-6080-4681-ae98-ce4ca53d0de7",
+        "skillId": "7c9e5942-a2d6-49da-b099-18a016fbdaf3",
+        "createdAt": "2025-08-23T06:38:28.612Z",
+        "updatedAt": "2025-08-23T06:38:28.612Z"
+      },
+      {
+        "id": "1edcc32e-4f51-40fe-96d5-38bc0ac35c7d",
+        "userId": "8c7fb368-6080-4681-ae98-ce4ca53d0de7",
+        "skillId": "1122dab5-17a1-4010-9cf5-8f5c3e57ead7",
+        "createdAt": "2025-08-23T06:38:28.613Z",
+        "updatedAt": "2025-08-23T06:38:28.613Z"
+      },
+      {
+        "id": "a2d03635-c51d-487e-84da-366aa45ae3a6",
+        "userId": "8c7fb368-6080-4681-ae98-ce4ca53d0de7",
+        "skillId": "fe980b1f-e296-4c51-bb30-89794ec40051",
+        "createdAt": "2025-08-23T06:38:28.614Z",
+        "updatedAt": "2025-08-23T06:38:28.614Z"
+      },
+      {
+        "id": "48021756-523e-42f6-b06c-56913eec5c0a",
+        "userId": "8c7fb368-6080-4681-ae98-ce4ca53d0de7",
+        "skillId": "f7ef7146-92c9-45d6-beea-678625a640d5",
+        "createdAt": "2025-08-23T06:38:28.615Z",
+        "updatedAt": "2025-08-23T06:38:28.615Z"
+      },
+      {
+        "id": "5c076573-8515-4b8c-a13b-0019b3f87ab4",
+        "userId": "8c7fb368-6080-4681-ae98-ce4ca53d0de7",
+        "skillId": "8dc1715d-495b-4a6b-92f6-2d5203904a50",
+        "createdAt": "2025-08-23T06:38:28.616Z",
+        "updatedAt": "2025-08-23T06:38:28.616Z"
+      },
+      {
+        "id": "b6851e31-04da-4b6c-86eb-cff092855a13",
+        "userId": "8c7fb368-6080-4681-ae98-ce4ca53d0de7",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.617Z",
+        "updatedAt": "2025-08-23T06:38:28.617Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "9d0e9c45-5660-4f86-baab-a20801d5464b",
+        "userId": "8c7fb368-6080-4681-ae98-ce4ca53d0de7",
+        "areaId": "f1617bab-f5ca-4cb2-a77d-731e27eb0226",
+        "createdAt": "2025-08-23T06:38:28.720Z",
+        "updatedAt": "2025-08-23T06:38:28.720Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "47f56532-ae05-4d9d-b322-dafc739348ad",
+        "title": "Product Manager Senior",
+        "description": "Atuei como Product Manager senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.793Z",
+        "updatedAt": "2025-08-23T06:38:28.793Z",
+        "userId": "8c7fb368-6080-4681-ae98-ce4ca53d0de7"
+      },
+      {
+        "id": "943b68fb-0089-4935-8fbc-8a2e876cb161",
+        "title": "Product Manager Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Product Manager pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.794Z",
+        "updatedAt": "2025-08-23T06:38:28.794Z",
+        "userId": "8c7fb368-6080-4681-ae98-ce4ca53d0de7"
+      }
+    ]
+  },
+  {
+    "id": "24b042a6-52bf-429e-9042-6e65567a61bf",
+    "name": "Laura Lima",
+    "email": "laura.lima@email.com",
+    "password": "$2b$10$JGdANF3GpLGdFNA0JtTdqO3GvwUeq2v4HATRDuRoj5mLF8t1/FZgi",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.816Z",
+    "updatedAt": "2025-08-23T06:38:27.816Z",
+    "skills": [
+      {
+        "id": "c8f5fd19-c8f1-48a3-b30c-b089f9fb9436",
+        "userId": "24b042a6-52bf-429e-9042-6e65567a61bf",
+        "skillId": "7c9e5942-a2d6-49da-b099-18a016fbdaf3",
+        "createdAt": "2025-08-23T06:38:28.618Z",
+        "updatedAt": "2025-08-23T06:38:28.618Z"
+      },
+      {
+        "id": "98f823c3-8113-435c-b55e-ed14e69365be",
+        "userId": "24b042a6-52bf-429e-9042-6e65567a61bf",
+        "skillId": "1122dab5-17a1-4010-9cf5-8f5c3e57ead7",
+        "createdAt": "2025-08-23T06:38:28.620Z",
+        "updatedAt": "2025-08-23T06:38:28.620Z"
+      },
+      {
+        "id": "f96ff5d8-cc93-493d-b9ab-d68433190066",
+        "userId": "24b042a6-52bf-429e-9042-6e65567a61bf",
+        "skillId": "fe980b1f-e296-4c51-bb30-89794ec40051",
+        "createdAt": "2025-08-23T06:38:28.621Z",
+        "updatedAt": "2025-08-23T06:38:28.621Z"
+      },
+      {
+        "id": "06af0abe-65ad-4415-82bc-c474743765d9",
+        "userId": "24b042a6-52bf-429e-9042-6e65567a61bf",
+        "skillId": "f7ef7146-92c9-45d6-beea-678625a640d5",
+        "createdAt": "2025-08-23T06:38:28.622Z",
+        "updatedAt": "2025-08-23T06:38:28.622Z"
+      },
+      {
+        "id": "b02cb886-88e4-4dff-aeb2-55554516c60b",
+        "userId": "24b042a6-52bf-429e-9042-6e65567a61bf",
+        "skillId": "8dc1715d-495b-4a6b-92f6-2d5203904a50",
+        "createdAt": "2025-08-23T06:38:28.623Z",
+        "updatedAt": "2025-08-23T06:38:28.623Z"
+      },
+      {
+        "id": "8bb2c23d-edb8-42e2-a0e6-a5eea8f6c987",
+        "userId": "24b042a6-52bf-429e-9042-6e65567a61bf",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.624Z",
+        "updatedAt": "2025-08-23T06:38:28.624Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "e4c072b7-4054-4242-a31f-d879ef9ec3c9",
+        "userId": "24b042a6-52bf-429e-9042-6e65567a61bf",
+        "areaId": "f1617bab-f5ca-4cb2-a77d-731e27eb0226",
+        "createdAt": "2025-08-23T06:38:28.721Z",
+        "updatedAt": "2025-08-23T06:38:28.721Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "a9ae7d9f-82eb-42f7-bed6-0b3b5e6f296f",
+        "title": "Product Manager Senior",
+        "description": "Atuei como Product Manager senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.794Z",
+        "updatedAt": "2025-08-23T06:38:28.794Z",
+        "userId": "24b042a6-52bf-429e-9042-6e65567a61bf"
+      },
+      {
+        "id": "3d989d9d-07e5-41e0-acdb-eb5b9f52d750",
+        "title": "Product Manager Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Product Manager pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.795Z",
+        "updatedAt": "2025-08-23T06:38:28.795Z",
+        "userId": "24b042a6-52bf-429e-9042-6e65567a61bf"
+      }
+    ]
+  },
+  {
+    "id": "c6bb90ef-00fc-4991-843a-e488b752327f",
+    "name": "Rafaela Costa",
+    "email": "rafaela.costa@email.com",
+    "password": "$2b$10$SN4jfBr3dnPArqxWbEUnmecr5krCfPNX4Idxvm55K4C8fZbFjGHX2",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.871Z",
+    "updatedAt": "2025-08-23T06:38:27.871Z",
+    "skills": [
+      {
+        "id": "2dbf87e6-7367-43c0-81ef-52d407ba9909",
+        "userId": "c6bb90ef-00fc-4991-843a-e488b752327f",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.625Z",
+        "updatedAt": "2025-08-23T06:38:28.625Z"
+      },
+      {
+        "id": "a78d913c-4473-46e5-92b5-39a3ea707714",
+        "userId": "c6bb90ef-00fc-4991-843a-e488b752327f",
+        "skillId": "d13c9129-4abc-42fa-9c72-35a70a0553d2",
+        "createdAt": "2025-08-23T06:38:28.627Z",
+        "updatedAt": "2025-08-23T06:38:28.627Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "f8ee9d2f-fa7d-4604-97d5-1851703cfd7d",
+        "userId": "c6bb90ef-00fc-4991-843a-e488b752327f",
+        "areaId": "35f91713-2b73-4ce1-a82f-d97898dfede5",
+        "createdAt": "2025-08-23T06:38:28.722Z",
+        "updatedAt": "2025-08-23T06:38:28.722Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "b0a4db65-73af-47fe-a4fd-d9708d2eb96b",
+        "title": "QA Engineer Senior",
+        "description": "Atuei como QA Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.796Z",
+        "updatedAt": "2025-08-23T06:38:28.796Z",
+        "userId": "c6bb90ef-00fc-4991-843a-e488b752327f"
+      },
+      {
+        "id": "d2c29882-a5d2-4c15-bf7f-704f2d02a74e",
+        "title": "QA Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como QA Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.797Z",
+        "updatedAt": "2025-08-23T06:38:28.797Z",
+        "userId": "c6bb90ef-00fc-4991-843a-e488b752327f"
+      }
+    ]
+  },
+  {
+    "id": "aa470777-b3ec-4691-972c-29f0a482a306",
+    "name": "Clara Santos",
+    "email": "clara.santos@email.com",
+    "password": "$2b$10$N/w0rQ2JGzWxLoQvvYFIr.F28UzlGD.QWADi2nBZyk6ayxWNq4Jli",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.927Z",
+    "updatedAt": "2025-08-23T06:38:27.927Z",
+    "skills": [
+      {
+        "id": "96e4dd79-a151-4fe4-8f81-a150cc2c6108",
+        "userId": "aa470777-b3ec-4691-972c-29f0a482a306",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.628Z",
+        "updatedAt": "2025-08-23T06:38:28.628Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "8ab0c574-9314-408f-abba-1379a6abcba1",
+        "userId": "aa470777-b3ec-4691-972c-29f0a482a306",
+        "areaId": "35f91713-2b73-4ce1-a82f-d97898dfede5",
+        "createdAt": "2025-08-23T06:38:28.723Z",
+        "updatedAt": "2025-08-23T06:38:28.723Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "e590a4e0-2da0-4e3f-81fb-e6c67da298b3",
+        "title": "QA Engineer Senior",
+        "description": "Atuei como QA Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.797Z",
+        "updatedAt": "2025-08-23T06:38:28.797Z",
+        "userId": "aa470777-b3ec-4691-972c-29f0a482a306"
+      },
+      {
+        "id": "479c7df1-cf64-4f41-a8a8-100c9109de86",
+        "title": "QA Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como QA Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.798Z",
+        "updatedAt": "2025-08-23T06:38:28.798Z",
+        "userId": "aa470777-b3ec-4691-972c-29f0a482a306"
+      }
+    ]
+  },
+  {
+    "id": "7e4d672b-a2fa-4df1-90d0-f680c4ada79a",
+    "name": "Yasmin Lima",
+    "email": "yasmin.lima@email.com",
+    "password": "$2b$10$HCw7yk1WHI0ssIMcFZj5D.3ft81iyq6b61gaXiViaJwPS6HWAdg.y",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:27.982Z",
+    "updatedAt": "2025-08-23T06:38:27.982Z",
+    "skills": [
+      {
+        "id": "6797684b-3dca-4424-bc41-3e17ac556d5f",
+        "userId": "7e4d672b-a2fa-4df1-90d0-f680c4ada79a",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.630Z",
+        "updatedAt": "2025-08-23T06:38:28.630Z"
+      },
+      {
+        "id": "92ae07d0-2fbd-496f-8766-71b226c9c84c",
+        "userId": "7e4d672b-a2fa-4df1-90d0-f680c4ada79a",
+        "skillId": "c1023c97-8cd3-47d5-990a-918587426afa",
+        "createdAt": "2025-08-23T06:38:28.631Z",
+        "updatedAt": "2025-08-23T06:38:28.631Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "e9b1a902-d7de-40b6-ac39-7cda0396a022",
+        "userId": "7e4d672b-a2fa-4df1-90d0-f680c4ada79a",
+        "areaId": "35f91713-2b73-4ce1-a82f-d97898dfede5",
+        "createdAt": "2025-08-23T06:38:28.725Z",
+        "updatedAt": "2025-08-23T06:38:28.725Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "3baec573-19ad-478e-ae4a-68f69ca51bdc",
+        "title": "QA Engineer Senior",
+        "description": "Atuei como QA Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.799Z",
+        "updatedAt": "2025-08-23T06:38:28.799Z",
+        "userId": "7e4d672b-a2fa-4df1-90d0-f680c4ada79a"
+      },
+      {
+        "id": "7464caa3-8bbb-44b0-ba8d-b99d8d6566ad",
+        "title": "QA Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como QA Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.799Z",
+        "updatedAt": "2025-08-23T06:38:28.799Z",
+        "userId": "7e4d672b-a2fa-4df1-90d0-f680c4ada79a"
+      }
+    ]
+  },
+  {
+    "id": "42b311aa-33d6-4385-8df2-651723842598",
+    "name": "Nina Costa",
+    "email": "nina.costa@email.com",
+    "password": "$2b$10$/81dlEy.p.YySyWqCwgmCu3x9geMuGc6qiLpUXSY8HBqdM3QUlsCm",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:28.039Z",
+    "updatedAt": "2025-08-23T06:38:28.039Z",
+    "skills": [
+      {
+        "id": "2a2c3481-e1dd-4ed7-a430-db6063530e4d",
+        "userId": "42b311aa-33d6-4385-8df2-651723842598",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.632Z",
+        "updatedAt": "2025-08-23T06:38:28.632Z"
+      },
+      {
+        "id": "0ff069ec-b15f-42c7-887c-e8e6f2e6da39",
+        "userId": "42b311aa-33d6-4385-8df2-651723842598",
+        "skillId": "9b6be6f0-2236-4ad7-9251-a136c33d53d9",
+        "createdAt": "2025-08-23T06:38:28.633Z",
+        "updatedAt": "2025-08-23T06:38:28.633Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "4f7e3e38-4046-4149-8974-a68dfc703099",
+        "userId": "42b311aa-33d6-4385-8df2-651723842598",
+        "areaId": "35f91713-2b73-4ce1-a82f-d97898dfede5",
+        "createdAt": "2025-08-23T06:38:28.726Z",
+        "updatedAt": "2025-08-23T06:38:28.726Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "9dc8a444-e176-4e71-a787-9ffe7b4119b4",
+        "title": "QA Engineer Senior",
+        "description": "Atuei como QA Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.800Z",
+        "updatedAt": "2025-08-23T06:38:28.800Z",
+        "userId": "42b311aa-33d6-4385-8df2-651723842598"
+      },
+      {
+        "id": "cfd2f503-779f-4c43-b8c8-3ee8038328e3",
+        "title": "QA Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como QA Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.800Z",
+        "updatedAt": "2025-08-23T06:38:28.800Z",
+        "userId": "42b311aa-33d6-4385-8df2-651723842598"
+      }
+    ]
+  },
+  {
+    "id": "62110a67-595b-45c3-807d-d97e542f165b",
+    "name": "Bianca Alves",
+    "email": "bianca.alves@email.com",
+    "password": "$2b$10$5WgMazf5sKyqvKhLGYPSde13xQbIBqNNua53iPlgIFXy.6SQanhMi",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:28.096Z",
+    "updatedAt": "2025-08-23T06:38:28.096Z",
+    "skills": [
+      {
+        "id": "1e509f0e-c63b-4d14-b231-fba8aed6cbc8",
+        "userId": "62110a67-595b-45c3-807d-d97e542f165b",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.635Z",
+        "updatedAt": "2025-08-23T06:38:28.635Z"
+      },
+      {
+        "id": "3eeba693-4ad6-40fa-b45e-8e9c3e90d86f",
+        "userId": "62110a67-595b-45c3-807d-d97e542f165b",
+        "skillId": "d13c9129-4abc-42fa-9c72-35a70a0553d2",
+        "createdAt": "2025-08-23T06:38:28.636Z",
+        "updatedAt": "2025-08-23T06:38:28.636Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "2fffb95d-17aa-4936-a559-2f741b27548d",
+        "userId": "62110a67-595b-45c3-807d-d97e542f165b",
+        "areaId": "35f91713-2b73-4ce1-a82f-d97898dfede5",
+        "createdAt": "2025-08-23T06:38:28.727Z",
+        "updatedAt": "2025-08-23T06:38:28.727Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "85877360-fb54-496c-b644-20bfea816d2a",
+        "title": "QA Engineer Senior",
+        "description": "Atuei como QA Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.801Z",
+        "updatedAt": "2025-08-23T06:38:28.801Z",
+        "userId": "62110a67-595b-45c3-807d-d97e542f165b"
+      },
+      {
+        "id": "902a2bc1-f915-4245-b879-701271375f0c",
+        "title": "QA Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como QA Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.802Z",
+        "updatedAt": "2025-08-23T06:38:28.802Z",
+        "userId": "62110a67-595b-45c3-807d-d97e542f165b"
+      }
+    ]
+  },
+  {
+    "id": "e61412fa-6c4c-4d9d-b35d-9b3e92c938f2",
+    "name": "Victor Silva",
+    "email": "victor.silva@email.com",
+    "password": "$2b$10$r2Pc5QA7M8fTjlKWo1OIq.gSC4nMQRi0KZqTDFDI5Lle0hkGg90RW",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:28.153Z",
+    "updatedAt": "2025-08-23T06:38:28.153Z",
+    "skills": [
+      {
+        "id": "37bd801d-af53-4f10-9bde-5f47c20bc42d",
+        "userId": "e61412fa-6c4c-4d9d-b35d-9b3e92c938f2",
+        "skillId": "4cf77803-dd93-4eaa-a6a4-89e587d0f5e6",
+        "createdAt": "2025-08-23T06:38:28.637Z",
+        "updatedAt": "2025-08-23T06:38:28.637Z"
+      },
+      {
+        "id": "1629519e-322b-4cfe-afe9-12668f969d47",
+        "userId": "e61412fa-6c4c-4d9d-b35d-9b3e92c938f2",
+        "skillId": "e2402e12-27e5-4715-81e0-3a2a0a7ad705",
+        "createdAt": "2025-08-23T06:38:28.638Z",
+        "updatedAt": "2025-08-23T06:38:28.638Z"
+      },
+      {
+        "id": "45cc97e6-6719-47c6-9cca-fa450e6d1db9",
+        "userId": "e61412fa-6c4c-4d9d-b35d-9b3e92c938f2",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.639Z",
+        "updatedAt": "2025-08-23T06:38:28.639Z"
+      },
+      {
+        "id": "15e3c703-ebc8-4c7a-bdba-bf32a673ee7c",
+        "userId": "e61412fa-6c4c-4d9d-b35d-9b3e92c938f2",
+        "skillId": "6531052f-ee66-40ac-86b7-65e6de20f225",
+        "createdAt": "2025-08-23T06:38:28.640Z",
+        "updatedAt": "2025-08-23T06:38:28.640Z"
+      },
+      {
+        "id": "3dfb6061-f634-4457-95f2-f19d075692e1",
+        "userId": "e61412fa-6c4c-4d9d-b35d-9b3e92c938f2",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.642Z",
+        "updatedAt": "2025-08-23T06:38:28.642Z"
+      },
+      {
+        "id": "c6615a40-0a30-4c99-9cb7-542d0b3e43ea",
+        "userId": "e61412fa-6c4c-4d9d-b35d-9b3e92c938f2",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.643Z",
+        "updatedAt": "2025-08-23T06:38:28.643Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "fff8b528-bba8-4179-8330-15b643a8a089",
+        "userId": "e61412fa-6c4c-4d9d-b35d-9b3e92c938f2",
+        "areaId": "acea3e3e-a986-451d-85db-6221b500c07e",
+        "createdAt": "2025-08-23T06:38:28.728Z",
+        "updatedAt": "2025-08-23T06:38:28.728Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "e46a82fe-61a1-4289-bdfc-f0b6710b9f98",
+        "title": "Cloud Engineer Senior",
+        "description": "Atuei como Cloud Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.803Z",
+        "updatedAt": "2025-08-23T06:38:28.803Z",
+        "userId": "e61412fa-6c4c-4d9d-b35d-9b3e92c938f2"
+      },
+      {
+        "id": "9c43a3a7-e96a-43b8-a8c7-774853ace2e4",
+        "title": "Cloud Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Cloud Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.804Z",
+        "updatedAt": "2025-08-23T06:38:28.804Z",
+        "userId": "e61412fa-6c4c-4d9d-b35d-9b3e92c938f2"
+      }
+    ]
+  },
+  {
+    "id": "c8ca2c50-1dc4-4cb7-97e2-834000850d7e",
+    "name": "Gabriel Costa",
+    "email": "gabriel.costa@email.com",
+    "password": "$2b$10$T/1M7YUzohFc21.5ep41X.lMkYwtBzd.SsFe1M8IGnV6mySB0v3DK",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:28.212Z",
+    "updatedAt": "2025-08-23T06:38:28.212Z",
+    "skills": [
+      {
+        "id": "faf49b10-eb41-417c-841e-3ed684f890a8",
+        "userId": "c8ca2c50-1dc4-4cb7-97e2-834000850d7e",
+        "skillId": "364412bf-1997-494d-98c0-f8fdb654384f",
+        "createdAt": "2025-08-23T06:38:28.644Z",
+        "updatedAt": "2025-08-23T06:38:28.644Z"
+      },
+      {
+        "id": "ac5d8bf4-4f91-4e2d-b8cc-c624d4675f3d",
+        "userId": "c8ca2c50-1dc4-4cb7-97e2-834000850d7e",
+        "skillId": "e2402e12-27e5-4715-81e0-3a2a0a7ad705",
+        "createdAt": "2025-08-23T06:38:28.645Z",
+        "updatedAt": "2025-08-23T06:38:28.645Z"
+      },
+      {
+        "id": "f3b4f96d-80f2-43cf-adeb-8644f8cf14ad",
+        "userId": "c8ca2c50-1dc4-4cb7-97e2-834000850d7e",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.646Z",
+        "updatedAt": "2025-08-23T06:38:28.646Z"
+      },
+      {
+        "id": "331c835e-1571-4eb5-9c9b-0980a394dc5d",
+        "userId": "c8ca2c50-1dc4-4cb7-97e2-834000850d7e",
+        "skillId": "6531052f-ee66-40ac-86b7-65e6de20f225",
+        "createdAt": "2025-08-23T06:38:28.647Z",
+        "updatedAt": "2025-08-23T06:38:28.647Z"
+      },
+      {
+        "id": "1749bd9e-cd01-41c6-bb72-e4497a7a16f0",
+        "userId": "c8ca2c50-1dc4-4cb7-97e2-834000850d7e",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.648Z",
+        "updatedAt": "2025-08-23T06:38:28.648Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "f46434f0-eff0-4a4b-bd2a-6fe74e5045da",
+        "userId": "c8ca2c50-1dc4-4cb7-97e2-834000850d7e",
+        "areaId": "acea3e3e-a986-451d-85db-6221b500c07e",
+        "createdAt": "2025-08-23T06:38:28.729Z",
+        "updatedAt": "2025-08-23T06:38:28.729Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "bfb485cf-ce6a-411f-b544-dc8d22370c41",
+        "title": "Cloud Engineer Senior",
+        "description": "Atuei como Cloud Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.804Z",
+        "updatedAt": "2025-08-23T06:38:28.804Z",
+        "userId": "c8ca2c50-1dc4-4cb7-97e2-834000850d7e"
+      },
+      {
+        "id": "8bb85630-7dfa-445f-b4f0-2d4f873a9b64",
+        "title": "Cloud Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Cloud Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.805Z",
+        "updatedAt": "2025-08-23T06:38:28.805Z",
+        "userId": "c8ca2c50-1dc4-4cb7-97e2-834000850d7e"
+      }
+    ]
+  },
+  {
+    "id": "b6cc5fc5-ff93-47dd-990f-d549cb21ea8a",
+    "name": "Henrique Santos",
+    "email": "henrique.santos@email.com",
+    "password": "$2b$10$bPTUJfwufHdMrXlT/cWBkO/oxwFPlMQ0HvFl.XEyi4bvMJa3ET1NC",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:28.268Z",
+    "updatedAt": "2025-08-23T06:38:28.268Z",
+    "skills": [
+      {
+        "id": "6715c9ed-cfc3-4e1b-ae0a-d1688a79f197",
+        "userId": "b6cc5fc5-ff93-47dd-990f-d549cb21ea8a",
+        "skillId": "3bedcb8d-7bf1-4d28-a156-5a03a504535e",
+        "createdAt": "2025-08-23T06:38:28.650Z",
+        "updatedAt": "2025-08-23T06:38:28.650Z"
+      },
+      {
+        "id": "484a752d-bc51-4782-9749-f2dbd00c45f0",
+        "userId": "b6cc5fc5-ff93-47dd-990f-d549cb21ea8a",
+        "skillId": "e2402e12-27e5-4715-81e0-3a2a0a7ad705",
+        "createdAt": "2025-08-23T06:38:28.651Z",
+        "updatedAt": "2025-08-23T06:38:28.651Z"
+      },
+      {
+        "id": "8cabf458-73d4-467a-a5d1-228fc4bc9801",
+        "userId": "b6cc5fc5-ff93-47dd-990f-d549cb21ea8a",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.652Z",
+        "updatedAt": "2025-08-23T06:38:28.652Z"
+      },
+      {
+        "id": "26b1c85b-af0d-4b52-a70b-e0c4b8a6197a",
+        "userId": "b6cc5fc5-ff93-47dd-990f-d549cb21ea8a",
+        "skillId": "6531052f-ee66-40ac-86b7-65e6de20f225",
+        "createdAt": "2025-08-23T06:38:28.653Z",
+        "updatedAt": "2025-08-23T06:38:28.653Z"
+      },
+      {
+        "id": "e8c43f07-20fc-4f44-a5fe-891f6f1b87f3",
+        "userId": "b6cc5fc5-ff93-47dd-990f-d549cb21ea8a",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.654Z",
+        "updatedAt": "2025-08-23T06:38:28.654Z"
+      },
+      {
+        "id": "85994d8c-23ce-439a-8afc-ffde8c8ca90d",
+        "userId": "b6cc5fc5-ff93-47dd-990f-d549cb21ea8a",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.655Z",
+        "updatedAt": "2025-08-23T06:38:28.655Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "a9b37466-ae9e-473f-9344-16c3dee32a89",
+        "userId": "b6cc5fc5-ff93-47dd-990f-d549cb21ea8a",
+        "areaId": "acea3e3e-a986-451d-85db-6221b500c07e",
+        "createdAt": "2025-08-23T06:38:28.730Z",
+        "updatedAt": "2025-08-23T06:38:28.730Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "aeae4dfe-189a-414a-9190-ba5a4a9f3ef9",
+        "title": "Cloud Engineer Senior",
+        "description": "Atuei como Cloud Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.806Z",
+        "updatedAt": "2025-08-23T06:38:28.806Z",
+        "userId": "b6cc5fc5-ff93-47dd-990f-d549cb21ea8a"
+      },
+      {
+        "id": "143cd344-2335-4d65-afda-e5f2402cda70",
+        "title": "Cloud Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Cloud Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.806Z",
+        "updatedAt": "2025-08-23T06:38:28.806Z",
+        "userId": "b6cc5fc5-ff93-47dd-990f-d549cb21ea8a"
+      }
+    ]
+  },
+  {
+    "id": "e877d1cc-0a6b-4410-95a8-1b518b8f54d6",
+    "name": "Lucas Lima",
+    "email": "lucas.lima@email.com",
+    "password": "$2b$10$lD2Sjezz4.LV0H9YtahCYe1bND5Fazj9fKfn/HE1Irk3iN08C/Mde",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:28.324Z",
+    "updatedAt": "2025-08-23T06:38:28.324Z",
+    "skills": [
+      {
+        "id": "642b1966-5f7e-47d3-b865-c207eae9c04a",
+        "userId": "e877d1cc-0a6b-4410-95a8-1b518b8f54d6",
+        "skillId": "4cf77803-dd93-4eaa-a6a4-89e587d0f5e6",
+        "createdAt": "2025-08-23T06:38:28.657Z",
+        "updatedAt": "2025-08-23T06:38:28.657Z"
+      },
+      {
+        "id": "4265fdd7-040f-4d96-8a21-907f33be3863",
+        "userId": "e877d1cc-0a6b-4410-95a8-1b518b8f54d6",
+        "skillId": "e2402e12-27e5-4715-81e0-3a2a0a7ad705",
+        "createdAt": "2025-08-23T06:38:28.658Z",
+        "updatedAt": "2025-08-23T06:38:28.658Z"
+      },
+      {
+        "id": "eb519784-6f81-41e7-8c87-733f08692ec9",
+        "userId": "e877d1cc-0a6b-4410-95a8-1b518b8f54d6",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.659Z",
+        "updatedAt": "2025-08-23T06:38:28.659Z"
+      },
+      {
+        "id": "10baf99f-227c-4428-b338-5da60ae807a3",
+        "userId": "e877d1cc-0a6b-4410-95a8-1b518b8f54d6",
+        "skillId": "6531052f-ee66-40ac-86b7-65e6de20f225",
+        "createdAt": "2025-08-23T06:38:28.660Z",
+        "updatedAt": "2025-08-23T06:38:28.660Z"
+      },
+      {
+        "id": "53faad43-8e27-45e6-8430-0648d0bf8447",
+        "userId": "e877d1cc-0a6b-4410-95a8-1b518b8f54d6",
+        "skillId": "4763527b-d83c-436e-8c74-2944ac89212b",
+        "createdAt": "2025-08-23T06:38:28.662Z",
+        "updatedAt": "2025-08-23T06:38:28.662Z"
+      },
+      {
+        "id": "65cc1603-b459-4575-a8e3-d85bb02c0750",
+        "userId": "e877d1cc-0a6b-4410-95a8-1b518b8f54d6",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.664Z",
+        "updatedAt": "2025-08-23T06:38:28.664Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "4408f4a7-5302-41be-9618-2b60c074628d",
+        "userId": "e877d1cc-0a6b-4410-95a8-1b518b8f54d6",
+        "areaId": "acea3e3e-a986-451d-85db-6221b500c07e",
+        "createdAt": "2025-08-23T06:38:28.732Z",
+        "updatedAt": "2025-08-23T06:38:28.732Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "7ce90c26-10db-4e02-84d1-18122230b314",
+        "title": "Cloud Engineer Senior",
+        "description": "Atuei como Cloud Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.807Z",
+        "updatedAt": "2025-08-23T06:38:28.807Z",
+        "userId": "e877d1cc-0a6b-4410-95a8-1b518b8f54d6"
+      },
+      {
+        "id": "8fe0d489-f480-4e4d-880b-e7deef43df77",
+        "title": "Cloud Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Cloud Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.808Z",
+        "updatedAt": "2025-08-23T06:38:28.808Z",
+        "userId": "e877d1cc-0a6b-4410-95a8-1b518b8f54d6"
+      }
+    ]
+  },
+  {
+    "id": "fc4ad9d6-337e-4b9e-9fbd-67e6a7d613f9",
+    "name": "João Costa",
+    "email": "joao.costa@email.com",
+    "password": "$2b$10$fc/cj0SqJMFNLMDXRPxckeYBhAfyu37AbPqhlt9A0e69faWPu7ZpK",
+    "is_recruiter": false,
+    "createdAt": "2025-08-23T06:38:28.382Z",
+    "updatedAt": "2025-08-23T06:38:28.382Z",
+    "skills": [
+      {
+        "id": "44fd9ef8-7152-49e7-823f-2f5516f78577",
+        "userId": "fc4ad9d6-337e-4b9e-9fbd-67e6a7d613f9",
+        "skillId": "364412bf-1997-494d-98c0-f8fdb654384f",
+        "createdAt": "2025-08-23T06:38:28.665Z",
+        "updatedAt": "2025-08-23T06:38:28.665Z"
+      },
+      {
+        "id": "08b19d22-9560-444b-9f75-4834346d624d",
+        "userId": "fc4ad9d6-337e-4b9e-9fbd-67e6a7d613f9",
+        "skillId": "e2402e12-27e5-4715-81e0-3a2a0a7ad705",
+        "createdAt": "2025-08-23T06:38:28.666Z",
+        "updatedAt": "2025-08-23T06:38:28.666Z"
+      },
+      {
+        "id": "6245851b-0ebf-4b16-b157-9a47131266f6",
+        "userId": "fc4ad9d6-337e-4b9e-9fbd-67e6a7d613f9",
+        "skillId": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+        "createdAt": "2025-08-23T06:38:28.667Z",
+        "updatedAt": "2025-08-23T06:38:28.667Z"
+      },
+      {
+        "id": "e0a26df0-d232-4a26-b9c7-44bc2b395455",
+        "userId": "fc4ad9d6-337e-4b9e-9fbd-67e6a7d613f9",
+        "skillId": "6531052f-ee66-40ac-86b7-65e6de20f225",
+        "createdAt": "2025-08-23T06:38:28.669Z",
+        "updatedAt": "2025-08-23T06:38:28.669Z"
+      },
+      {
+        "id": "13728ffe-5727-4f75-bdcf-cd352eb6efd0",
+        "userId": "fc4ad9d6-337e-4b9e-9fbd-67e6a7d613f9",
+        "skillId": "517752e9-6a46-4982-872b-4409b4a4756f",
+        "createdAt": "2025-08-23T06:38:28.670Z",
+        "updatedAt": "2025-08-23T06:38:28.670Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "f63d5351-ec35-4b4a-b918-b3d6d0d2b941",
+        "userId": "fc4ad9d6-337e-4b9e-9fbd-67e6a7d613f9",
+        "areaId": "acea3e3e-a986-451d-85db-6221b500c07e",
+        "createdAt": "2025-08-23T06:38:28.734Z",
+        "updatedAt": "2025-08-23T06:38:28.734Z"
+      }
+    ],
+    "experiences": [
+      {
+        "id": "23bc1bd1-a38e-4922-9c29-1a3db5962119",
+        "title": "Cloud Engineer Senior",
+        "description": "Atuei como Cloud Engineer senior em uma empresa de tecnologia, liderando projetos complexos e mentorando desenvolvedores júnior. Implementei arquiteturas escaláveis, melhorei processos de desenvolvimento, e participei de decisões técnicas estratégicas. Trabalhei com metodologias ágeis, participei de code reviews, e colaborei com equipes multidisciplinares para entregar soluções de alta qualidade.",
+        "startDate": "2022-01-01T00:00:00.000Z",
+        "endDate": "2024-01-01T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.809Z",
+        "updatedAt": "2025-08-23T06:38:28.809Z",
+        "userId": "fc4ad9d6-337e-4b9e-9fbd-67e6a7d613f9"
+      },
+      {
+        "id": "9589017c-4835-477d-b47f-054ecf963846",
+        "title": "Cloud Engineer Pleno",
+        "description": "Desenvolvi aplicações e sistemas como Cloud Engineer pleno, participando de projetos de médio porte e colaborando com equipes de desenvolvimento. Implementei funcionalidades complexas, participei de code reviews, e trabalhei com metodologias ágeis. Colaborei na definição de arquiteturas técnicas e participei de melhorias de processos de desenvolvimento.",
+        "startDate": "2020-01-01T00:00:00.000Z",
+        "endDate": "2021-12-31T00:00:00.000Z",
+        "createdAt": "2025-08-23T06:38:28.809Z",
+        "updatedAt": "2025-08-23T06:38:28.809Z",
+        "userId": "fc4ad9d6-337e-4b9e-9fbd-67e6a7d613f9"
+      }
+    ]
+  },
+  {
+    "id": "ddb16091-9fb6-4066-b31c-85c32873b4b5",
+    "name": "Recrutador",
+    "email": "recrutador@gmail.com",
+    "password": "$2b$10$QOaCQxHtpyRZlxgdXyeP1uIM4FavhpOqv0gTbhev9z/v/Bwz9E9hK",
+    "is_recruiter": true,
+    "createdAt": "2025-08-23T20:11:46.973Z",
+    "updatedAt": "2025-08-23T20:11:46.973Z",
+    "skills": [],
+    "areas": [],
+    "experiences": []
+  },
+  {
+    "id": "2b24fa99-3005-4469-a7c6-18166ca00f68",
+    "name": "Lucas Haddad",
+    "email": "lucashaddad@gmail.com",
+    "password": "$2b$10$lFj7FgnS9Id.gBJoSons3OdRsbzu5NGRBtCbfw6GG9JhxsP78HOaG",
+    "is_recruiter": false,
+    "createdAt": "2025-08-26T03:05:24.943Z",
+    "updatedAt": "2025-08-26T03:05:24.943Z",
+    "skills": [
+      {
+        "id": "1ae897d6-aa4f-4213-9a5d-1190851283bf",
+        "userId": "2b24fa99-3005-4469-a7c6-18166ca00f68",
+        "skillId": "1b3e677b-7fec-4c1d-b156-25f331c5cc05",
+        "createdAt": "2025-08-26T03:05:39.590Z",
+        "updatedAt": "2025-08-26T03:05:39.590Z"
+      }
+    ],
+    "areas": [
+      {
+        "id": "1b9416c0-1477-4085-82e0-3f0ee00f559a",
+        "userId": "2b24fa99-3005-4469-a7c6-18166ca00f68",
+        "areaId": "6bce8eb8-0ab2-4c82-9e8d-e09af7497426",
+        "createdAt": "2025-08-26T03:05:34.478Z",
+        "updatedAt": "2025-08-26T03:05:34.478Z"
+      }
+    ],
+    "experiences": []
+  }
+]

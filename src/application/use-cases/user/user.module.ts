@@ -3,6 +3,7 @@ import { GetMeUseCase } from "./get-me";
 import { ServicesModule } from "src/core/services/services.module";
 import { GenerateAIUserSummaryUseCase } from "./generate-ai-user-summary";
 import { GenerateAIUserSummaryToAllUseCase } from "./generate-ai-user-summary-to-all";
+import { PutUserSummaryInVectorStoreUseCase } from "./put-user-summary-in-vector-store";
 
 @Module({
     imports: [
@@ -11,12 +12,14 @@ import { GenerateAIUserSummaryToAllUseCase } from "./generate-ai-user-summary-to
     providers: [
         GetMeUseCase,
         GenerateAIUserSummaryUseCase,
-        GenerateAIUserSummaryToAllUseCase
+        GenerateAIUserSummaryToAllUseCase,
+        PutUserSummaryInVectorStoreUseCase,
     ],
     exports: [
         GetMeUseCase,
         GenerateAIUserSummaryUseCase,
-        GenerateAIUserSummaryToAllUseCase
+        GenerateAIUserSummaryToAllUseCase,
+        PutUserSummaryInVectorStoreUseCase
     ]
 })
 export class UserModule { }

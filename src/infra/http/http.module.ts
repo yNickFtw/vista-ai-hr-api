@@ -9,10 +9,12 @@ import { SkillController } from "./controllers/skill/skill.controller";
 import { AreaController } from "./controllers/area/area.controller";
 import { CandidatesSearchController } from "./controllers/candidates-search/candidates-search.controller";
 import { AnalysisController } from "./controllers/analysis/analysis.controller";
+import { AnalysisConsumer } from "./consumers/analysis.consumer";
+import { HandleSearchUseCase } from "src/application/use-cases/candidate-search/handle-search";
   
 @Module({
   imports: [ServicesModule, ApplicationServicesModule],
-  controllers: [AuthController, ExperienceController, UserController, SkillController, AreaController, CandidatesSearchController, AnalysisController],
-  providers: [AuthGuardService],
+  controllers: [AuthController, ExperienceController, UserController, SkillController, AreaController, CandidatesSearchController, AnalysisController, AnalysisConsumer],
+  providers: [AuthGuardService, HandleSearchUseCase],
 })
 export class HttpModule {}

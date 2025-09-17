@@ -1,0 +1,810 @@
+[
+  {
+    "id": "922a2056-ea81-475c-b347-125d745aa68a",
+    "name": "JavaScript",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "a2f42dce-9a82-40dc-b9a8-c3606bb83dc5",
+    "name": "TypeScript",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "4763527b-d83c-436e-8c74-2944ac89212b",
+    "name": "Python",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "d52cf394-6cf8-4e7c-9a01-630b4ef033a0",
+    "name": "Java",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "de5801b1-9b8a-4ef9-b493-b23b47674537",
+    "name": "C#",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "4ab6f8ea-764c-4a0f-b5ee-13293fa67924",
+    "name": "C++",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "209eb7da-0dc8-4ab4-a1ec-e964e4ef4756",
+    "name": "Go",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "1569c58e-5f9f-444b-863a-feea150b506d",
+    "name": "Rust",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "441a9b3d-32c0-4b08-8fcd-d82f5aade7f0",
+    "name": "Ruby",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "bb4efb07-7818-44d4-8057-3230f8c414c3",
+    "name": "PHP",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "d877a466-5c8e-4eae-90ff-2dfffa174831",
+    "name": "Swift",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "48ed596f-1adc-4328-8c3a-04824a89d4f0",
+    "name": "Kotlin",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "146aa6fe-cdb4-487b-945d-b3a6abeba953",
+    "name": "Scala",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "22e6e665-7a64-4d6c-a5c8-6e57bd8c98e6",
+    "name": "Perl",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "f3317a23-b1c0-4b88-8f91-ddbfbde07725",
+    "name": "Dart",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "0a2d0bf0-e178-4f83-9e59-b0f2880cf564",
+    "name": "Haskell",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "11c4b142-098c-4846-8c0d-4e21fc83010d",
+    "name": "Elixir",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "1196d34b-bad1-4398-89f2-cd13708f83e6",
+    "name": "ReactJS",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "3f792990-6aea-4514-be3c-2ee472221aee",
+    "name": "VueJS",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "0bf7f960-49f3-4e4a-957c-b29d8c3d8e28",
+    "name": "Angular",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "57450567-e4ca-45a1-94aa-fac8be783afd",
+    "name": "NodeJS",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "de9a11b5-da81-439a-9451-d0f04abb1e5c",
+    "name": "ExpressJS",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "606fd162-bd36-4f25-a641-5fc106f13b1e",
+    "name": "NextJS",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "e45a978c-704d-4ebd-aecc-121078c271fe",
+    "name": "NestJS",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "d6c5edb9-894e-442f-b5f0-a5dea2ef39f2",
+    "name": "Django",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "cc3db754-5b81-420f-ae55-864bbd17ac47",
+    "name": "Flask",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "ca6d77c9-8439-4020-b33e-0e6a7ec3a187",
+    "name": "Spring Boot",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "ac62ae9f-a427-40c0-bfc9-a6db9897b047",
+    "name": "Ruby on Rails",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "0293e2a3-cb8b-4c14-bb75-eec686dbaa46",
+    "name": "Laravel",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "1daf64bf-fa1b-4e42-bb66-53ac2d70b0bf",
+    "name": "ASP.NET",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "c218da7b-c141-45cf-8920-ebf4e5ed5168",
+    "name": "jQuery",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "e8890a07-8b6f-4720-8d56-69c72f63a930",
+    "name": "Bootstrap",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "b878fa2c-bbb6-4926-8818-c24d92fb51db",
+    "name": "TailwindCSS",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "6a3e9284-988d-4bbe-a1da-1e1ea1954958",
+    "name": "Material-UI",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "6e5e2fc9-5b7c-4c87-acb8-a97bddafdefa",
+    "name": "Svelte",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "3938c47c-76ec-4e13-bf2b-d1c3510be55b",
+    "name": "React Native",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "6d820639-a208-459e-8bd6-30064b385476",
+    "name": "Flutter",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "6baa1af4-5ea6-4b1d-9c81-6e315552fa40",
+    "name": "SwiftUI",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "bfe5b26a-4715-4e52-a9a4-e16747097664",
+    "name": "Jetpack Compose",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "e84541bc-0051-4c9d-b064-ee0e30ea3fae",
+    "name": "Docker",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "6531052f-ee66-40ac-86b7-65e6de20f225",
+    "name": "Kubernetes",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "e2402e12-27e5-4715-81e0-3a2a0a7ad705",
+    "name": "Terraform",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "fafff8ca-af0e-4a2c-834f-18e4af8a0e0c",
+    "name": "Ansible",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "4cf77803-dd93-4eaa-a6a4-89e587d0f5e6",
+    "name": "AWS",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "3bedcb8d-7bf1-4d28-a156-5a03a504535e",
+    "name": "GCP",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "364412bf-1997-494d-98c0-f8fdb654384f",
+    "name": "Azure",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "f30d19fd-b33e-4551-a60b-35b82909cba5",
+    "name": "CI/CD",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "d13c9129-4abc-42fa-9c72-35a70a0553d2",
+    "name": "Jenkins",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "9b6be6f0-2236-4ad7-9251-a136c33d53d9",
+    "name": "GitLab CI",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "c1023c97-8cd3-47d5-990a-918587426afa",
+    "name": "CircleCI",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "bbf48240-eaa3-4c76-82dc-2c82b5949c27",
+    "name": "Prometheus",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "efe3ea17-e3ad-4e2a-afd1-01b242bb33f7",
+    "name": "Grafana",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "66339687-69e5-434a-9078-e36c5fd38722",
+    "name": "ELK Stack",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "f5eb4229-8d91-4955-a68f-cbc060c850fe",
+    "name": "SQL",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "cc93c21d-07e2-4442-b1b1-0f10b211a8f1",
+    "name": "NoSQL",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "fe2ae33e-6311-4df4-aa3b-6c8189035f77",
+    "name": "MongoDB",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "0cab0740-aef7-4825-8b8f-ecd76bc73df6",
+    "name": "PostgreSQL",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "6f0268d9-adc5-40a2-9f5d-a6a7172623ad",
+    "name": "MySQL",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "25fa3f0f-303d-4698-b0f8-5ab15a4db68e",
+    "name": "Redis",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "0af02b8e-18f1-48b8-839b-76f1e0739977",
+    "name": "Pandas",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "ed09e971-0986-4fd1-9e89-bf359882f842",
+    "name": "NumPy",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "c2e77151-5323-4a9f-aa50-7a233b46710a",
+    "name": "TensorFlow",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "32295cf1-c26e-46a3-97d3-3012ae5fa5b8",
+    "name": "PyTorch",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "28ca7732-02ea-4b92-a1ce-957ce277a052",
+    "name": "Scikit-learn",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "36169d36-fe73-4eb7-9aed-d01e446f6f8c",
+    "name": "Keras",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "ee262ada-804a-4c7b-b17d-39c9657bdc7f",
+    "name": "Hadoop",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "c73b2102-e7aa-4844-8f3a-9118e0ae2757",
+    "name": "Spark",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "1b3e677b-7fec-4c1d-b156-25f331c5cc05",
+    "name": "Power BI",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "4fed5368-c1ca-4f3f-b469-1c86e74a8820",
+    "name": "Tableau",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "dd2ec687-a1e6-463d-8201-700803d829e2",
+    "name": "Ethical Hacking",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "d87f4e8a-1cf4-4940-80c9-0256419d10a1",
+    "name": "Penetration Testing",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "b4dea1ce-c0bb-4dcc-9343-0b158b06ddd4",
+    "name": "Network Security",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "3ad8e51c-98b2-49d3-82d1-a91edf070911",
+    "name": "AWS Security",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "9bb307b2-d4a1-4998-9163-c60009e80846",
+    "name": "OWASP",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "3ffb572f-4be4-48c0-9fce-70b4194c7672",
+    "name": "SIEM",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "db46d1f6-3e75-471e-acf2-51f534c550d2",
+    "name": "Figma",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "e00b3d41-7aa0-4223-b490-6223cd749d92",
+    "name": "Adobe XD",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "09fe24b4-308d-4fc9-ba13-9e32d1223bc0",
+    "name": "Sketch",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "cf8d50f6-cc06-47ed-967d-85318ee7ed3f",
+    "name": "InVision",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "5ed977e7-38bc-4e57-9aca-8e2239c30784",
+    "name": "Photoshop",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "fe5b4fd5-f0af-4619-bd78-e6938c3b0724",
+    "name": "Illustrator",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "0d4fe74c-5b9b-4a3c-b97a-1305d26dafed",
+    "name": "Unity",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "7b6d3c1b-b3e0-4f92-a2d5-29480d7d4735",
+    "name": "Unreal Engine",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "ff0557ef-9c57-41a6-8b7e-ae3c35219af2",
+    "name": "Godot",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "5063379a-81db-421a-b443-20a790c54e48",
+    "name": "ARKit",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "b64ddb5e-4f3f-4812-88f5-efdf2894dbba",
+    "name": "ARCore",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "10c0fa81-ff48-4c00-8fd3-e8cc19cee992",
+    "name": "Three.js",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "433eb9eb-180f-4f9a-9e4c-0b72458f26b0",
+    "name": "Solidity",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "0f2915e6-27ae-40e6-b823-a10515b89089",
+    "name": "Ethereum",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "eb6eb5df-bc1c-42f7-9a65-beabe22681fa",
+    "name": "Smart Contracts",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "e0800f36-faae-4f31-8422-34e868aff253",
+    "name": "Web3.js",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "552d1f14-6826-4422-bed5-aa94f310eef7",
+    "name": "Hardhat",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "eddd1ace-8043-4652-98c7-3c58245386d3",
+    "name": "Truffle",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "517752e9-6a46-4982-872b-4409b4a4756f",
+    "name": "Git",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "1fe9149e-0677-475a-a1ae-d1e6bab10bd8",
+    "name": "GitHub",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "a013012f-d569-4628-82a0-e41b94ee496a",
+    "name": "GitLab",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "fe980b1f-e296-4c51-bb30-89794ec40051",
+    "name": "Agile Methodologies",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "f7ef7146-92c9-45d6-beea-678625a640d5",
+    "name": "Scrum",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "8dc1715d-495b-4a6b-92f6-2d5203904a50",
+    "name": "Kanban",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "7c9e5942-a2d6-49da-b099-18a016fbdaf3",
+    "name": "Jira",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  },
+  {
+    "id": "1122dab5-17a1-4010-9cf5-8f5c3e57ead7",
+    "name": "Confluence",
+    "description": null,
+    "areaId": null,
+    "createdAt": "2025-08-16T19:38:08.507Z",
+    "updatedAt": "2025-08-16T19:38:08.507Z"
+  }
+]
